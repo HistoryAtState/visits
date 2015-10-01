@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<visits>
+    <visit>
+        <id>2148</id>
+        <start-date>1920-09-15</start-date>
+        <end-date>1920-09-16</end-date>
+        <visitor>President-elect Porras</visitor>
+        <from id="panama">Panama</from>
+        <description> </description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2149</id>
+        <start-date>1921-11-07</start-date>
+        <end-date>1921-11-24</end-date>
+        <visitor>Premier Briand</visitor>
+        <from id="france">France</from>
+        <description>Attended Conference on the Limitation of Armaments. Departed November
+            25.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2150</id>
+        <start-date>1922-05-03</start-date>
+        <end-date>1922-05-05</end-date>
+        <visitor>President-elect Ospina</visitor>
+        <from id="colombia">Colombia</from>
+        <description>In U.S. April 24-June 2; visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2151</id>
+        <start-date>1924-10-31</start-date>
+        <end-date>1924-11-02</end-date>
+        <visitor>President-elect Calles</visitor>
+        <from id="mexico">Mexico</from>
+        <description>In U.S. October 26-November 5; visited New Orleans.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2152</id>
+        <start-date>1925-04-15</start-date>
+        <end-date>1925-04-17</end-date>
+        <visitor>President-elect Machado</visitor>
+        <from id="cuba">Cuba</from>
+        <description>Visited Florida and New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2153</id>
+        <start-date>1926-06-14</start-date>
+        <end-date>1926-06-18</end-date>
+        <visitor>President Borno</visitor>
+        <from id="haiti">Haiti</from>
+        <description>In U.S. June 11-30, visiting New York City and Philadelphia
+            (Pennsylvania).</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2154</id>
+        <start-date>1927-04-22</start-date>
+        <end-date>1927-04-25</end-date>
+        <visitor>President Machado</visitor>
+        <from id="cuba">Cuba</from>
+        <description>In U.S. April 20-May 7, visiting New York City, Chicago, and Atlanta
+            (Georgia).</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2155</id>
+        <start-date>1929-10-04</start-date>
+        <end-date>1929-10-10</end-date>
+        <visitor>Prime Minister MacDonald</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Informal discussions in Washington and at Rapidan Camp (Virginia) concerning
+            naval limitations and application of the Paris Peace Pact. Afterwards visited New York
+            City. Departed for Canada October 14.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2156</id>
+        <start-date>1929-12-26</start-date>
+        <end-date>1929-12-29</end-date>
+        <visitor>President-elect Ortiz Rubio</visitor>
+        <from id="mexico">Mexico</from>
+        <description>In U.S. December 4, 1929-January 16, 1930, visiting Houston, Hot Springs
+            (Arkansas), New York City, Baltimore (Maryland), Buffalo (New York), Detroit (Michigan),
+            Chicago, Kansas City (Missouri), and San Francisco.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+</visits>

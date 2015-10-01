@@ -1,0 +1,3729 @@
+<visits>
+    <visit>
+        <id>2076</id>
+        <start-date>2010-02-17</start-date>
+        <end-date>2010-02-17</end-date>
+        <visitor>King Juan Carlos I</visitor>
+        <from id="spain">Spain</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2077</id>
+        <start-date>2010-03-08</start-date>
+        <end-date>2010-03-08</end-date>
+        <visitor>President Carlos Mauricio Funes</visitor>
+        <from id="el-salvador">El Salvador</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2078</id>
+        <start-date>2010-03-08</start-date>
+        <end-date>2010-03-09</end-date>
+        <visitor>Prime Minister George Papandreou</visitor>
+        <from id="greece">Greece</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2079</id>
+        <start-date>2010-03-09</start-date>
+        <end-date>2010-03-10</end-date>
+        <visitor>President Rene Preval</visitor>
+        <from id="haiti">Haiti</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2080</id>
+        <start-date>2010-03-17</start-date>
+        <end-date>2010-03-18</end-date>
+        <visitor>Prime Minister Brian Cowen</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2081</id>
+        <start-date>2010-03-22</start-date>
+        <end-date>2010-03-24</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2082</id>
+        <start-date>2010-03-30</start-date>
+        <end-date>2010-03-30</end-date>
+        <visitor>President Nicolas Sarkozy</visitor>
+        <from id="france">France</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2083</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Cristina Fernandez de Kirchner</visitor>
+        <from id="argentina">Argentina</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2084</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Serge Sarkisian</visitor>
+        <from id="armenia">Armenia</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2085</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Yves Leterme</visitor>
+        <from id="belgium">Belgium</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2086</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Luiz Inacio Lula da Silva</visitor>
+        <from id="brazil">Brazil</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2087</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Stephen Harper</visitor>
+        <from id="canada">Canada</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2088</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Sebastian Pinera</visitor>
+        <from id="chile">Chile</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2089</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Hu Jintao</visitor>
+        <from id="china">China, People’s Republic of</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2090</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Jan Fischer</visitor>
+        <from id="czech-republic">Czech Republic</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2091</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Tarja Halonen</visitor>
+        <from id="finland">Finland</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2092</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Nicloas Sarkozy</visitor>
+        <from id="france">France</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2093</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-14</end-date>
+        <visitor>President Mikhail Saakashvili</visitor>
+        <from id="georgia">Georgia</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2094</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Chancellor Angela Merkel</visitor>
+        <from id="germany">Germany</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2095</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Manmohan Singh</visitor>
+        <from id="india">India</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2096</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Ministere Silvio Berlusconi</visitor>
+        <from id="italy">Italy</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2097</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Yukio Hatoyama</visitor>
+        <from id="japan">Japan</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2098</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2099</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Nursultan Nazarbayev</visitor>
+        <from id="kazakhstan">Kazakhstan</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2100</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Lee Myung-bak</visitor>
+        <from id="korea-south">South Korea</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2101</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Najib Razak</visitor>
+        <from id="malaysia">Malaysia</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2102</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Felipe Calderon</visitor>
+        <from id="mexico">Mexico</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2103</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Abbas el-Fassi</visitor>
+        <from id="morocco">Morocco</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2104</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Jan Peter Balkenende</visitor>
+        <from id="netherlands">Netherlands</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2105</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister John Key</visitor>
+        <from id="new-zealand">New Zealand</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2106</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Acting President Goodluck Jonathan</visitor>
+        <from id="nigeria">Nigeria</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2107</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Jens Stoltenberg</visitor>
+        <from id="norway">Norway</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2108</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Yusuf Raza Gilani</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2109</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Gloria Macapagal Arroyo</visitor>
+        <from id="philippines">Philippines</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2110</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Dmitri Medvedev</visitor>
+        <from id="russia">Russia</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2111</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Lee Hsien Loong</visitor>
+        <from id="singapore">Singapore</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2112</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Jacob Zuma</visitor>
+        <from id="south-africa">South Africa</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2113</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Jose Luis Rodriguez Zapatero</visitor>
+        <from id="spain">Spain</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2114</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Fredrik Reingeldt</visitor>
+        <from id="sweden">Sweden</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2115</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Doris Leuthard</visitor>
+        <from id="switzerland">Switzerland</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2116</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Recep Tayyip Erdogan</visitor>
+        <from id="turkey">Turkey</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2117</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Viktor Yanukovych</visitor>
+        <from id="ukraine">Ukraine</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2118</id>
+        <start-date>2010-04-12</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Nguyen Tan Dung</visitor>
+        <from id="vietnam">Vietnam</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2119</id>
+        <start-date>2010-05-10</start-date>
+        <end-date>2010-05-13</end-date>
+        <visitor>President Hamid Karzai</visitor>
+        <from id="afghanistan">Afghanistan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2120</id>
+        <start-date>2010-05-19</start-date>
+        <end-date>2010-05-20</end-date>
+        <visitor>President Felipe Calderon</visitor>
+        <from id="mexico">Mexico</from>
+        <description>State visit.  Addressed joint session of Congress May 20.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2121</id>
+        <start-date>2010-05-24</start-date>
+        <end-date>2010-05-24</end-date>
+        <visitor>Prime Minister Saad Hariri</visitor>
+        <from id="lebanon">Lebanon</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2122</id>
+        <start-date>2010-05-25</start-date>
+        <end-date>2010-05-25</end-date>
+        <visitor>President Giorgio Napolitano</visitor>
+        <from id="italy">Italy</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2123</id>
+        <start-date>2010-05-27</start-date>
+        <end-date>2010-05-27</end-date>
+        <visitor>President Ellen Johnson Sirleaf</visitor>
+        <from id="liberia">Liberia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2124</id>
+        <start-date>2010-06-01</start-date>
+        <end-date>2010-06-01</end-date>
+        <visitor>President Alan Garcia</visitor>
+        <from id="peru">Peru</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2125</id>
+        <start-date>2010-06-22</start-date>
+        <end-date>2010-06-24</end-date>
+        <visitor>President Dmitriy Medvedev</visitor>
+        <from id="russia">Russia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2126</id>
+        <start-date>2010-06-29</start-date>
+        <end-date>2010-06-29</end-date>
+        <visitor>King Abdullah bin Abd-el Aziz al-Saud</visitor>
+        <from id="saudi-arabia">Saudi Arabia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2127</id>
+        <start-date>2010-07-06</start-date>
+        <end-date>2010-07-06</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2128</id>
+        <start-date>2010-07-12</start-date>
+        <end-date>2010-07-12</end-date>
+        <visitor>President Leonel Fernandez Reyna</visitor>
+        <from id="dominican-republic">Dominican Republic</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2129</id>
+        <start-date>2010-07-20</start-date>
+        <end-date>2010-07-20</end-date>
+        <visitor>Prime Minister David Cameron</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2130</id>
+        <start-date>2010-09-01</start-date>
+        <end-date>2010-09-01</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Attended Middle East peace talks.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2131</id>
+        <start-date>2010-09-01</start-date>
+        <end-date>2010-09-01</end-date>
+        <visitor>President Hosni Mubarak</visitor>
+        <from id="egypt">Egypt</from>
+        <description>Attended Middle East peace talks.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2132</id>
+        <start-date>2010-09-01</start-date>
+        <end-date>2010-09-02</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Attended Middle East peace talks.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2133</id>
+        <start-date>2010-09-23</start-date>
+        <end-date>2010-09-23</end-date>
+        <visitor>Premier Wen Jiabao</visitor>
+        <from id="china">China, People’s Republic of</from>
+        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2134</id>
+        <start-date>2010-09-23</start-date>
+        <end-date>2010-09-23</end-date>
+        <visitor>Prime Minister Naoto Kan</visitor>
+        <from id="japan">Japan</from>
+        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2135</id>
+        <start-date>2010-09-24</start-date>
+        <end-date>2010-09-24</end-date>
+        <visitor>President Ilham Aliyev</visitor>
+        <from id="azerbaijan">Azerbaijan</from>
+        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2136</id>
+        <start-date>2010-09-24</start-date>
+        <end-date>2010-09-24</end-date>
+        <visitor>President Roza Otunbayeva</visitor>
+        <from id="kyrgyzstan">Kyrgyzstan</from>
+        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2137</id>
+        <start-date>2010-09-24</start-date>
+        <end-date>2010-09-24</end-date>
+        <visitor>President Juan Manuel Santos</visitor>
+        <from id="colombia">Colombia</from>
+        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2138</id>
+        <start-date>2010-12-08</start-date>
+        <end-date>2010-12-08</end-date>
+        <visitor>President Bronislaw Komorowski</visitor>
+        <from id="poland">Poland</from>
+        <description>Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-02T10:53:34.11-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2548</id>
+        <start-date>2011-01-09</start-date>
+        <end-date>2011-01-10</end-date>
+        <visitor>President Nicolas Sarkozy</visitor>
+        <from id="france">France</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2549</id>
+        <start-date>2011-01-12</start-date>
+        <end-date>2011-01-12</end-date>
+        <visitor>Prime Minister Saad Hariri</visitor>
+        <from id="lebanon">Lebanon</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2550</id>
+        <start-date>2011-01-14</start-date>
+        <end-date>2011-01-14</end-date>
+        <visitor>President Mikheil Saakashvili</visitor>
+        <from id="georgia">Georgia</from>
+        <description>Attended the Richard Holbrooke Memorial Service.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2551</id>
+        <start-date>2011-01-14</start-date>
+        <end-date>2011-01-14</end-date>
+        <visitor>President Asif Ali Zardari</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Attended the Richard Holbrooke Memorial Service.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2552</id>
+        <start-date>2011-01-18</start-date>
+        <end-date>2011-01-20</end-date>
+        <visitor>President Hu Jintao</visitor>
+        <from id="china">China, People’s Republic of</from>
+        <description>State Visit.  Also visited Chicago, Illinois, Jan. 20-21.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2553</id>
+        <start-date>2011-02-04</start-date>
+        <end-date>2011-02-04</end-date>
+        <visitor>Prime Minister Stephen Harper</visitor>
+        <from id="canada">Canada</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2554</id>
+        <start-date>2011-02-09</start-date>
+        <end-date>2011-02-09</end-date>
+        <visitor>Prime Minister Borut Pahor</visitor>
+        <from id="slovenia">Slovenia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2555</id>
+        <start-date>2011-03-03</start-date>
+        <end-date>2011-03-03</end-date>
+        <visitor>President Felipe Calderon</visitor>
+        <from id="mexico">Mexico</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2556</id>
+        <start-date>2011-03-07</start-date>
+        <end-date>2011-03-07</end-date>
+        <visitor>Prime Minister Julia Gillard</visitor>
+        <from id="australia">Australia</from>
+        <description>Working visit.  Addressed a Joint Meeting of Congress.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2557</id>
+        <start-date>2011-03-14</start-date>
+        <end-date>2011-03-14</end-date>
+        <visitor>Prime Minister Lars Rasmussen</visitor>
+        <from id="denmark">Denmark</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2558</id>
+        <start-date>2011-03-17</start-date>
+        <end-date>2011-03-17</end-date>
+        <visitor>Prime Minister Enda Kenny</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2559</id>
+        <start-date>2011-04-04</start-date>
+        <end-date>2011-04-05</end-date>
+        <visitor>President Shimon Peres</visitor>
+        <from id="israel">Israel</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2560</id>
+        <start-date>2011-04-07</start-date>
+        <end-date>2011-04-07</end-date>
+        <visitor>President Juan Manuel Santos</visitor>
+        <from id="colombia">Colombia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2561</id>
+        <start-date>2011-04-13</start-date>
+        <end-date>2011-04-14</end-date>
+        <visitor>Amir Hamad bin Khalifa al-Thani</visitor>
+        <from id="qatar">Qatar</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2562</id>
+        <start-date>2011-04-28</start-date>
+        <end-date>2011-04-28</end-date>
+        <visitor>President Ricardo Martinelli</visitor>
+        <from id="panama">Panama</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2563</id>
+        <start-date>2011-05-17</start-date>
+        <end-date>2011-05-17</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2564</id>
+        <start-date>2011-05-20</start-date>
+        <end-date>2011-05-25</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Working visit.  Addressed a joint session of Congress May 24.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2565</id>
+        <start-date>2011-06-06</start-date>
+        <end-date>2011-06-07</end-date>
+        <visitor>Chancellor Angela Merkel</visitor>
+        <from id="germany">Germany</from>
+        <description>Official Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2566</id>
+        <start-date>2011-06-08</start-date>
+        <end-date>2011-06-08</end-date>
+        <visitor>President Goodluck Jonathan</visitor>
+        <from id="nigeria">Nigeria</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2567</id>
+        <start-date>2011-06-09</start-date>
+        <end-date>2011-06-09</end-date>
+        <visitor>President Ali Ben Bongo Odimba</visitor>
+        <from id="gabon">Gabon</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2568</id>
+        <start-date>2011-06-16</start-date>
+        <end-date>2011-06-16</end-date>
+        <visitor>President Tsakhia Elbegdorj</visitor>
+        <from id="mongolia">Mongolia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2569</id>
+        <start-date>2011-07-06</start-date>
+        <end-date>2011-07-06</end-date>
+        <visitor>President-elect Ollanta Humala</visitor>
+        <from id="peru">Peru</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2570</id>
+        <start-date>2011-07-22</start-date>
+        <end-date>2011-07-22</end-date>
+        <visitor>Prime Minister John Key</visitor>
+        <from id="new-zealand">New Zealand</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2571</id>
+        <start-date>2011-07-29</start-date>
+        <end-date>2011-07-29</end-date>
+        <visitor>President Alpha Conde</visitor>
+        <from id="guinea">Guinea</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2572</id>
+        <start-date>2011-07-29</start-date>
+        <end-date>2011-07-29</end-date>
+        <visitor>President Mahamadou Issoufou</visitor>
+        <from id="niger">Niger</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2573</id>
+        <start-date>2011-07-29</start-date>
+        <end-date>2011-07-29</end-date>
+        <visitor>President Alassane Dramane Ouattara</visitor>
+        <from id="cote-divoire">Cote d’Ivoire</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2574</id>
+        <start-date>2011-07-29</start-date>
+        <end-date>2011-07-29</end-date>
+        <visitor>President Thomas Boni Yayi</visitor>
+        <from id="benin">Benin</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2575</id>
+        <start-date>2011-09-20</start-date>
+        <end-date>2011-09-20</end-date>
+        <visitor>President Hamid Karzai</visitor>
+        <from id="afghanistan">Afghanistan</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2576</id>
+        <start-date>2011-09-20</start-date>
+        <end-date>2011-09-20</end-date>
+        <visitor>President Dilma Rousseff</visitor>
+        <from id="brazil">Brazil</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2577</id>
+        <start-date>2011-09-20</start-date>
+        <end-date>2011-09-20</end-date>
+        <visitor>Prime Minister Recep Tayyip Erdogan</visitor>
+        <from id="turkey">Turkey</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2578</id>
+        <start-date>2011-09-21</start-date>
+        <end-date>2011-09-21</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2579</id>
+        <start-date>2011-09-21</start-date>
+        <end-date>2011-09-21</end-date>
+        <visitor>Prime Minister Yoshihiko Noda</visitor>
+        <from id="japan">Japan</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2580</id>
+        <start-date>2011-09-21</start-date>
+        <end-date>2011-09-21</end-date>
+        <visitor>Prime Minister David Cameron</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2581</id>
+        <start-date>2011-09-21</start-date>
+        <end-date>2011-09-21</end-date>
+        <visitor>President Nicolas Sarkozy</visitor>
+        <from id="france">France</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>marrsaw</last-modified-by>
+        <last-modified-datetime>2014-02-20</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2582</id>
+        <start-date>2011-09-21</start-date>
+        <end-date>2011-09-21</end-date>
+        <visitor>President Salva Kiir Mayardit</visitor>
+        <from id="south-sudan">South Sudan</from>
+        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2583</id>
+        <start-date>2011-10-05</start-date>
+        <end-date>2011-10-05</end-date>
+        <visitor>President Porfirio Lobo</visitor>
+        <from id="honduras">Honduras</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2584</id>
+        <start-date>2011-10-07</start-date>
+        <end-date>2011-10-07</end-date>
+        <visitor>Prime Minister Beji Caid Essebsi</visitor>
+        <from id="tunisia">Tunisia</from>
+        <description>Working visit</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2585</id>
+        <start-date>2011-10-12</start-date>
+        <end-date>2011-10-14</end-date>
+        <visitor>President Lee Myung-bak</visitor>
+        <from id="korea-south">South Korea</from>
+        <description>State Visit.  Also visited Lake Orion, Michigan</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2586</id>
+        <start-date>2011-10-20</start-date>
+        <end-date>2011-10-20</end-date>
+        <visitor>Prime Minister Jens Stoltenberg</visitor>
+        <from id="norway">Norway</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2587</id>
+        <start-date>2011-10-27</start-date>
+        <end-date>2011-10-27</end-date>
+        <visitor>Prime Minister Petr Cecas</visitor>
+        <from id="czech-republic">Czech Republic</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2588</id>
+        <start-date>2011-11-09</start-date>
+        <end-date>2011-11-09</end-date>
+        <visitor>President Anibal Cavaco Silva</visitor>
+        <from id="portugal">Portugal</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2589</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>Prime Minister  Yoshihiko Noda</visitor>
+        <from id="japan">Japan</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2590</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Dimitry A. Medvedev</visitor>
+        <from id="russia">Russia</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2591</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Hu Jintao</visitor>
+        <from id="china">China, People’s Republic of</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2592</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>Prime Minister Stephen Harper</visitor>
+        <from id="canada">Canada</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2593</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Ollanta Humala</visitor>
+        <from id="peru">Peru</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2594</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Benigno Aquino 3rd</visitor>
+        <from id="philippines">Philippines</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2595</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Lee Myung-bak</visitor>
+        <from id="korea-south">South Korea</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2596</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Sebastian Pinera</visitor>
+        <from id="chile">Chile</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2597</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Truong Tan Sang</visitor>
+        <from id="vietnam">Vietnam</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2598</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>President Susilo Bambang Yudhoyono</visitor>
+        <from id="indonesia">Indonesia</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2599</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>Prime Minister Julia Gillard</visitor>
+        <from id="australia">Australia</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2600</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>Prime Minister Lee Hsien Loong</visitor>
+        <from id="singapore">Singapore</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2601</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>Prime Minister Najib ben Abdul Razak</visitor>
+        <from id="malaysia">Malaysia</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2602</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>Prime Minister Peter Paire O’Neill</visitor>
+        <from id="papua-new-guinea">Papua New Guinea</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2603</id>
+        <start-date>2011-11-10</start-date>
+        <end-date>2011-11-13</end-date>
+        <visitor>Sultan Hassanal Bolkiah</visitor>
+        <from id="brunei">Brunei Darussalam</from>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2604</id>
+        <start-date>2011-11-28</start-date>
+        <end-date>2011-11-29</end-date>
+        <visitor>Prime Minister Mark Rutte</visitor>
+        <from id="netherlands">Netherlands</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2605</id>
+        <start-date>2011-12-07</start-date>
+        <end-date>2011-12-07</end-date>
+        <visitor>Prime Minister Stephen Harper</visitor>
+        <from id="canada">Canada</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2606</id>
+        <start-date>2011-12-12</start-date>
+        <end-date>2011-12-12</end-date>
+        <visitor>Prime Minister Nuri al-Maliki</visitor>
+        <from id="iraq">Iraq</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-11T15:43:14.638-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2607</id>
+        <start-date>2012-01-17</start-date>
+        <end-date>2012-01-18</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2608</id>
+        <start-date>2012-01-30</start-date>
+        <end-date>2012-02-01</end-date>
+        <visitor>President Mikheil Saakashvili</visitor>
+        <from id="georgia">Georgia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2609</id>
+        <start-date>2012-02-09</start-date>
+        <end-date>2012-02-09</end-date>
+        <visitor>Prime Minister Mario Monti</visitor>
+        <from id="italy">Italy</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2610</id>
+        <start-date>2012-02-24</start-date>
+        <end-date>2012-02-24</end-date>
+        <visitor>Prime Minister Helle Thorning-Schmidt</visitor>
+        <from id="denmark">Denmark</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2611</id>
+        <start-date>2012-03-04</start-date>
+        <end-date>2012-03-06</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2612</id>
+        <start-date>2012-03-07</start-date>
+        <end-date>2012-03-07</end-date>
+        <visitor>Prime Minister Abdurrahim al-Keib</visitor>
+        <from id="libya">Libya</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2613</id>
+        <start-date>2012-03-07</start-date>
+        <end-date>2012-03-12</end-date>
+        <visitor>President John Evans Atta Mills</visitor>
+        <from id="ghana">Ghana</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2614</id>
+        <start-date>2012-03-13</start-date>
+        <end-date>2012-03-14</end-date>
+        <visitor>Prime Minister David Cameron</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Working visit. Also visited Dayton, OH.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2615</id>
+        <start-date>2012-03-19</start-date>
+        <end-date>2012-03-21</end-date>
+        <visitor>Prime Minister Enda Kenny</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>marrsaw</released-by>
+        <release-datetime>2015-05-14</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2616</id>
+        <start-date>2012-04-02</start-date>
+        <end-date>2012-04-02</end-date>
+        <visitor>Prime Minister Stephen Harper</visitor>
+        <from id="canada">Canada</from>
+        <description>Attended North American Leaders’ Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2617</id>
+        <start-date>2012-04-02</start-date>
+        <end-date>2012-04-02</end-date>
+        <visitor>President Felipe Calderon</visitor>
+        <from id="mexico">Mexico</from>
+        <description>Attended North American Leaders’ Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2618</id>
+        <start-date>2012-04-09</start-date>
+        <end-date>2012-04-09</end-date>
+        <visitor>President Dilma Roussef</visitor>
+        <from id="brazil">Brazil</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2619</id>
+        <start-date>2012-04-30</start-date>
+        <end-date>2012-04-30</end-date>
+        <visitor>Prime Minister Yoshihiko Noda</visitor>
+        <from id="japan">Japan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2620</id>
+        <start-date>2012-05-18</start-date>
+        <end-date>2012-05-19</end-date>
+        <visitor>Prime Minister Stephen Harper</visitor>
+        <from id="canada">Canada</from>
+        <description>Attended the G-8 Economic Summit at Camp David, MD.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2621</id>
+        <start-date>2012-05-18</start-date>
+        <end-date>2012-05-19</end-date>
+        <visitor>President Francois Hollande</visitor>
+        <from id="france">France</from>
+        <description>Attended the G-8 Economic Summit at Camp David, MD.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2622</id>
+        <start-date>2012-05-18</start-date>
+        <end-date>2012-05-19</end-date>
+        <visitor>Chancellor Angela Merkel</visitor>
+        <from id="germany">Germany</from>
+        <description>Attended the G-8 Economic Summit at Camp David, MD.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2623</id>
+        <start-date>2012-05-18</start-date>
+        <end-date>2012-05-19</end-date>
+        <visitor>Prime Minister Mario Monti</visitor>
+        <from id="italy">Italy</from>
+        <description>Attended the G-8 Economic Summit at Camp David, MD.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2624</id>
+        <start-date>2012-05-18</start-date>
+        <end-date>2012-05-19</end-date>
+        <visitor>Prime Minister Yoshihiko Noda</visitor>
+        <from id="japan">Japan</from>
+        <description>Attended the G-8 Economic Summit at Camp David, MD.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2625</id>
+        <start-date>2012-05-18</start-date>
+        <end-date>2012-05-19</end-date>
+        <visitor>Prime Minister Dmitri Medvedev</visitor>
+        <from id="russia">Russia</from>
+        <description>Attended the G-8 Economic Summit at Camp David, MD.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2626</id>
+        <start-date>2012-05-18</start-date>
+        <end-date>2012-05-19</end-date>
+        <visitor>Prime Minister David Cameron</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Attended the G-8 Economic Summit at Camp David, MD.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2627</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Sali Berisha</visitor>
+        <from id="albania">Albania</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2628</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Julia Gillard</visitor>
+        <from id="australia">Australia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2629</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Chancellor Werner Faymann</visitor>
+        <from id="austria">Austria</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2630</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Ilham Aliyev</visitor>
+        <from id="azerbaijan">Azerbaijan</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2631</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Elio de Rupo</visitor>
+        <from id="belgium">Belgium</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2632</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Chairman of the Presidency Bakir Izetbegovic</visitor>
+        <from id="bosnia-herzegovina">Bosnia and Herzegovina</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2633</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Rosen Plevneliev</visitor>
+        <from id="bulgaria">Bulgaria</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2634</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Stephen Harper</visitor>
+        <from id="canada">Canada</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2635</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Zoran Milanovic</visitor>
+        <from id="croatia">Croatia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2636</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Vaclav Klaus</visitor>
+        <from id="czech-republic">Czech Republic</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2637</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Helle Thorning-Schmidt</visitor>
+        <from id="denmark">Denmark</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2638</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Andrus Ansip</visitor>
+        <from id="estonia">Estonia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2639</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Sauli Niinisto</visitor>
+        <from id="finland">Finland</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2640</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Francois Hollande</visitor>
+        <from id="france">France</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2641</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Mikheil Saakashvili</visitor>
+        <from id="georgia">Georgia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2642</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Chancellor Angela Merkel</visitor>
+        <from id="germany">Germany</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2643</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Viktor Orban</visitor>
+        <from id="hungary">Hungary</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2644</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Johanna Sigurdardottir</visitor>
+        <from id="iceland">Iceland</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2645</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Mario Monti</visitor>
+        <from id="italy">Italy</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2646</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Andris Berzins</visitor>
+        <from id="latvia">Latvia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2647</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Dalia Grybauskaite</visitor>
+        <from id="lithuania">Lithuania</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2648</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Jean-Claude Juncker</visitor>
+        <from id="luxembourg">Luxembourg</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2649</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Gjorge Ivanov</visitor>
+        <from id="macedonia">Macedonia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2650</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Igor Luksic</visitor>
+        <from id="montenegro">Montenegro</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2651</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Mark Rutte</visitor>
+        <from id="netherlands">Netherlands</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2652</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Jens Stoltenberg</visitor>
+        <from id="norway">Norway</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2653</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Bronislaw Komorowski</visitor>
+        <from id="poland">Poland</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2654</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Pedro Passos Coelho</visitor>
+        <from id="portugal">Portugal</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2655</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Traian Basescu</visitor>
+        <from id="romania">Romania</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2656</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Ivan Gasparovic</visitor>
+        <from id="slovakia">Slovakia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2657</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Janez Jansa</visitor>
+        <from id="slovenia">Slovenia</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2658</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Mariano Rajoy</visitor>
+        <from id="spain">Spain</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2659</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Fredrik Reinfeldt</visitor>
+        <from id="sweden">Sweden</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2660</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister Lord Tuivakano</visitor>
+        <from id="tonga">Tonga</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2661</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Abdullah Gul</visitor>
+        <from id="turkey">Turkey</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2662</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Viktor Yanukovych</visitor>
+        <from id="ukraine">Ukraine</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2663</id>
+        <start-date>2012-05-20</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>Prime Minister David Cameron</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Attended the NATO Summit Meeting in Chicago, IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2664</id>
+        <start-date>2012-05-21</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Asif Zadari</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Met with President Obama at the NATO Summit Meeting in Chicago,
+            IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2665</id>
+        <start-date>2012-05-21</start-date>
+        <end-date>2012-05-21</end-date>
+        <visitor>President Hamid Karzai</visitor>
+        <from id="afghanistan">Afghanistan</from>
+        <description>Met with President Obama at the NATO Summit Meeting in Chicago,
+            IL.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2666</id>
+        <start-date>2012-06-08</start-date>
+        <end-date>2012-06-08</end-date>
+        <visitor>President Benigno Aquino 3rd</visitor>
+        <from id="philippines">Philippines</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2667</id>
+        <start-date>2012-06-13</start-date>
+        <end-date>2012-06-13</end-date>
+        <visitor>President Shimon Peres</visitor>
+        <from id="israel">Israel</from>
+        <description>Working visit. Received the Presidential Medal of Freedom.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2668</id>
+        <start-date>2012-11-27</start-date>
+        <end-date>2012-11-27</end-date>
+        <visitor>President-elect Enrique Pena Nieto</visitor>
+        <from id="mexico">Mexico</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2669</id>
+        <start-date>2012-12-03</start-date>
+        <end-date>2012-12-03</end-date>
+        <visitor>Prime Minister Boyko Borissov</visitor>
+        <from id="bulgaria">Bulgaria</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2013-09-23T07:25:23.563-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2013-09-23T07:25:23.563-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+<visit>
+        <id>2672</id>
+        <start-date>2013-01-10</start-date>
+        <end-date>2013-01-11</end-date>
+        <visitor>President Hamid Karzai</visitor>
+        <from id="afghanistan">Afghanistan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2673</id>
+        <start-date>2013-02-22</start-date>
+        <end-date>2013-02-22</end-date>
+        <visitor>Prime Minister Shinzo Abe</visitor>
+        <from id="japan">Japan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2674</id>
+        <start-date>2013-03-11</start-date>
+        <end-date>2013-03-12</end-date>
+        <visitor>Sultan Hassinal Bolkiah</visitor>
+        <from id="brunei">Brunei</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2675</id>
+        <start-date>2013-03-19</start-date>
+        <end-date>2013-03-20</end-date>
+        <visitor>Prime Minister Enda Kenny</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>marrsaw</released-by>
+        <release-datetime>2014-05-14</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2676</id>
+        <start-date>2013-03-28</start-date>
+        <end-date>2013-03-28</end-date>
+        <visitor>President Ernest Koroma</visitor>
+        <from id="sierra-leone">Sierra Leone</from>
+        <description>Attended African Leaders Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2677</id>
+        <start-date>2013-03-28</start-date>
+        <end-date>2013-03-28</end-date>
+        <visitor>President Macky Sall</visitor>
+        <from id="senegal">Senegal</from>
+        <description>Attended African Leaders Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2678</id>
+        <start-date>2013-03-28</start-date>
+        <end-date>2013-03-28</end-date>
+        <visitor>President Joyce Banda</visitor>
+        <from id="malawi">Malawi</from>
+        <description>Attended African Leaders Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2679</id>
+        <start-date>2013-03-28</start-date>
+        <end-date>2013-03-28</end-date>
+        <visitor>Prime Minister Jose Maria Pereira Neves</visitor>
+        <from id="cape-verde">Cape Verde</from>
+        <description>Attended African Leaders Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2680</id>
+        <start-date>2013-04-02</start-date>
+        <end-date>2013-04-03</end-date>
+        <visitor>Prime Minister Lee Hsien Loong</visitor>
+        <from id="singapore">Singapore</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2681</id>
+        <start-date>2013-04-23</start-date>
+        <end-date>2013-04-23</end-date>
+        <visitor>Amir Hamad bin Khalifa al-Thani</visitor>
+        <from id="qatar">Qatar</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2682</id>
+        <start-date>2013-04-24</start-date>
+        <end-date>2013-04-26</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2683</id>
+        <start-date>2013-05-06</start-date>
+        <end-date>2013-05-08</end-date>
+        <visitor>President Park Geun-Hye</visitor>
+        <from id="korea">Korea</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2684</id>
+        <start-date>2013-05-12</start-date>
+        <end-date>2013-05-13</end-date>
+        <visitor>Prime Minister David Cameron</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2685</id>
+        <start-date>2012-05-14</start-date>
+        <end-date>2012-05-17</end-date>
+        <visitor>Prime Minister Recep Tayyip Erdogan</visitor>
+        <from id="turkey">Turkey</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2686</id>
+        <start-date>2013-05-19</start-date>
+        <end-date>2013-05-21</end-date>
+        <visitor>President Thein Sein</visitor>
+        <from id="burma">Burma</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2687</id>
+        <start-date>2013-06-02</start-date>
+        <end-date>2013-06-04</end-date>
+        <visitor>President Sebastian Pinera</visitor>
+        <from id="chile">Chile</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2688</id>
+        <start-date>2013-06-07</start-date>
+        <end-date>2013-06-08</end-date>
+        <visitor>President Xi Jinping</visitor>
+        <from id="china">China, People’s Republic of</from>
+        <description>Met with President Obama at Rancho Mirage, California.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2689</id>
+        <start-date>2013-06-10</start-date>
+        <end-date>2013-06-12</end-date>
+        <visitor>President Ollanta Humala</visitor>
+        <from id="peru">Peru</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2690</id>
+        <start-date>2013-07-24</start-date>
+        <end-date>2013-07-25</end-date>
+        <visitor>President Truong Tan Sang</visitor>
+        <from id="vietnam">Vietnam</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2691</id>
+        <start-date>2013-07-29</start-date>
+        <end-date>2013-08-01</end-date>
+        <visitor>President Abd Rabuh Mansur Hadi</visitor>
+        <from id="yemen">Yemen</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2692</id>
+        <start-date>2013-08-08</start-date>
+        <end-date>2013-08-08</end-date>
+        <visitor>Prime Minister Antonios Samaras</visitor>
+        <from id="greece">Greece</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2693</id>
+        <start-date>2013-08-30</start-date>
+        <end-date>2013-08-30</end-date>
+        <visitor>President Toomas Ilves</visitor>
+        <from id="estonia">Estonia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2694</id>
+        <start-date>2013-08-30</start-date>
+        <end-date>2013-08-30</end-date>
+        <visitor>President Galia Grybauskaite</visitor>
+        <from id="lithuania">Lithuania</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2695</id>
+        <start-date>2013-08-30</start-date>
+        <end-date>2013-08-30</end-date>
+        <visitor>President Andris Berzins</visitor>
+        <from id="latvia">Latvia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2696</id>
+        <start-date>2013-09-13</start-date>
+        <end-date>2013-09-13</end-date>
+        <visitor>Amir Sabah al-Ahmed al-Jabir al-Sabah</visitor>
+        <from id="kuwait">Kuwait</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2697</id>
+        <start-date>2013-09-23</start-date>
+        <end-date>2013-09-23</end-date>
+        <visitor>President Goodluck Jonathan</visitor>
+        <from id="nigeria">Nigeria</from>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2698</id>
+        <start-date>2013-09-24</start-date>
+        <end-date>2013-09-24</end-date>
+        <visitor>President Michel Sleiman</visitor>
+        <from id="lebanon">Lebanon</from>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2699</id>
+        <start-date>2013-09-27</start-date>
+        <end-date>2013-09-27</end-date>
+        <visitor>Prime Minister Manmohan Singh</visitor>
+        <from id="india">India</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2700</id>
+        <start-date>2013-09-30</start-date>
+        <end-date>2013-09-30</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2701</id>
+        <start-date>2013-10-16</start-date>
+        <end-date>2013-10-17</end-date>
+        <visitor>Prime Minister Enrico Letta</visitor>
+        <from id="italy">Italy</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2702</id>
+        <start-date>2013-10-20</start-date>
+        <end-date>2013-10-23</end-date>
+        <visitor>Prime Minister Mohammed Nawaz Sharif</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2703</id>
+        <start-date>2013-10-31</start-date>
+        <end-date>2013-11-01</end-date>
+        <visitor>Prime Minister Nuri al-Maliki</visitor>
+        <from id="iraq">Iraq</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2704</id>
+        <start-date>2013-11-22</start-date>
+        <end-date>2013-11-22</end-date>
+        <visitor>King Mohammed VI</visitor>
+        <from id="morocco">Morocco</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+    <visit>
+        <id>2705</id>
+        <start-date>2013-12-02</start-date>
+        <end-date>2013-12-04</end-date>
+        <visitor>President Juan Manuel Santos Calderon</visitor>
+        <from id="colombia">Colombia</from>
+        <description>Working visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
+        <release-status-code>released</release-status-code>
+        <released-by>wicentowskijc</released-by>
+        <release-datetime>2014-06-10T15:00:08.603-04:00</release-datetime>
+        <recalled-by/>
+        <recall-datetime/>
+    </visit>
+</visits>
