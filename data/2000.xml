@@ -5950,7 +5950,8 @@
     <visit>
         <id>1742</id>
         <start-date>2004-08-07</start-date>
-        <end-date>2004-08-07</end-date> August7--09<visitor>Prime Minister Marek Belka</visitor>
+        <end-date>2004-08-09</end-date>
+        <visitor>Prime Minister Marek Belka</visitor>
         <from id="poland">Poland</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
@@ -9378,7 +9379,7 @@
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-02-20</last-modified-datetime>
+        <last-modified-datetime>2014-02-20T10:15:14.612-06:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>wicentowskijc</released-by>
         <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>

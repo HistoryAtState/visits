@@ -171,7 +171,7 @@
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-06-27</last-modified-datetime>
+        <last-modified-datetime>2013-06-27T10:28:43.157-05:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>wicentowskijc</released-by>
         <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
@@ -2759,7 +2759,7 @@
         <created-by>joewiz</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-07-13</last-modified-datetime>
+        <last-modified-datetime>2013-07-13T10:28:43.157-05:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>wicentowskijc</released-by>
         <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
@@ -4060,7 +4060,7 @@
         <created-by>joewiz</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2015-07-06</last-modified-datetime>
+        <last-modified-datetime>2015-07-06T10:28:43.157-05:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>wicentowskijc</released-by>
         <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
@@ -4799,12 +4799,12 @@
         <from id="mauritania">Mauritania</from>
         <description>Met President Eisenhower.</description>
         <created-by>marrsaw</created-by>
-        <created-datetime>2014-01-28</created-datetime>
+        <created-datetime>2014-01-28T10:28:43.157-05:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-01-28</last-modified-datetime>
+        <last-modified-datetime>2014-01-28T10:28:43.157-05:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>marrsaw</released-by>
-        <release-datetime>2014-01-28</release-datetime>
+        <release-datetime>2014-01-28T10:28:43.157-05:00</release-datetime>
         <recalled-by/>
         <recall-datetime/>
     </visit>
@@ -4818,12 +4818,12 @@
             presided over mass at Yankee Stadium, and attended the New York World's
             Fair.</description>
         <created-by>marrsaw</created-by>
-        <created-datetime>2014-02-20</created-datetime>
+        <created-datetime>2014-02-20T10:28:43.157-05:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-02-20</last-modified-datetime>
+        <last-modified-datetime>2014-02-20T10:28:43.157-05:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>marrsaw</released-by>
-        <release-datetime>2014-02-20</release-datetime>
+        <release-datetime>2014-02-20T10:28:43.157-05:00</release-datetime>
         <recalled-by/>
         <recall-datetime/>
     </visit>

@@ -1153,7 +1153,7 @@
         <start-date>1955-06-13</start-date>
         <end-date>1955-06-15</end-date>
         <visitor>Chancellor Adenauer</visitor>
-        <from>Germany, Federal Republic of</from>
+        <from id="germany">Germany, Federal Republic of</from>
         <description>Unofficial visit. Also visited Boston (Massachusetts) and New York City.
             Departed the U.S. June 18.</description>
         <created-by>joewiz</created-by>

@@ -1641,7 +1641,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-02-20</last-modified-datetime>
+        <last-modified-datetime>2014-02-20T15:43:14.638-04:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>wicentowskijc</released-by>
         <release-datetime>2012-04-11T15:43:14.638-04:00</release-datetime>
@@ -2222,7 +2222,7 @@
         <last-modified-datetime>2013-09-23T07:25:23.563-04:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>marrsaw</released-by>
-        <release-datetime>2015-05-14</release-datetime>
+        <release-datetime>2015-05-14T07:25:23.563-04:00</release-datetime>
         <recalled-by/>
         <recall-datetime/>
     </visit>
@@ -3210,7 +3210,7 @@
         <last-modified-datetime>2014-06-10T15:00:08.603-04:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>marrsaw</released-by>
-        <release-datetime>2014-05-14</release-datetime>
+        <release-datetime>2014-05-14T07:25:23.563-04:00</release-datetime>
         <recalled-by/>
         <recall-datetime/>
     </visit>

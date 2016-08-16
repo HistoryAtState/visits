@@ -80,12 +80,12 @@
         <from id="monaco">Monaco</from>
         <description>Arrived in the U.S. September 11, 1913.  Met with President Wilson October 20, 1913 during a private visit.</description>
         <created-by>marrsaw</created-by>
-        <created-datetime>2013-08-20</created-datetime>
+        <created-datetime>2013-08-20T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-08-20</last-modified-datetime>
+        <last-modified-datetime>2013-08-20T16:17:47.87-04:00</last-modified-datetime>
         <release-status-code>released</release-status-code>
         <released-by>marrsaw</released-by>
-        <release-datetime>2013-08-20</release-datetime>
+        <release-datetime>2013-08-20T16:17:47.87-04:00</release-datetime>
         <recalled-by/>
         <recall-datetime/>
     </visit>
