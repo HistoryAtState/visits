@@ -1,0 +1,25 @@
+default namespace = ""
+
+start =
+  element visits {
+    element visit {
+      element id { xsd:integer },
+      element start-date { xsd:date },
+      element end-date { xsd:date },
+      element visitor { text },
+      element from {
+        attribute id { xsd:NCName },
+        text
+      },
+      element description { text },
+      element created-by { xsd:NCName },
+      element created-datetime { xsd:dateTime },
+      element last-modified-by { xsd:NCName },
+      element last-modified-datetime { xsd:dateTime },
+      element release-status-code { xsd:NCName },
+      element released-by { xsd:NCName },
+      element release-datetime { xsd:dateTime },
+      element recalled-by { empty },
+      element recall-datetime { empty }
+    }+
+  }
