@@ -1,4 +1,4 @@
-<visits>
+﻿<visits>
     <visit>
         <id>2076</id>
         <start-date>2010-02-17</start-date>
@@ -753,7 +753,7 @@
         <end-date>2010-05-20</end-date>
         <visitor>President Felipe Calderon</visitor>
         <from id="mexico">Mexico</from>
-        <description>State visit.  Addressed joint session of Congress May 20.</description>
+        <description>State visit. Addressed joint session of Congress May 20.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -974,7 +974,8 @@
         <end-date>2010-09-23</end-date>
         <visitor>Premier Wen Jiabao</visitor>
         <from id="china">China, People’s Republic of</from>
-        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <description>Met with President Obama at the U.N. General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -991,7 +992,8 @@
         <end-date>2010-09-23</end-date>
         <visitor>Prime Minister Naoto Kan</visitor>
         <from id="japan">Japan</from>
-        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <description>Met with President Obama at the U.N. General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1008,7 +1010,8 @@
         <end-date>2010-09-24</end-date>
         <visitor>President Ilham Aliyev</visitor>
         <from id="azerbaijan">Azerbaijan</from>
-        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <description>Met with President Obama at the U.N. General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1025,7 +1028,8 @@
         <end-date>2010-09-24</end-date>
         <visitor>President Roza Otunbayeva</visitor>
         <from id="kyrgyzstan">Kyrgyzstan</from>
-        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <description>Met with President Obama at the U.N. General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1042,7 +1046,8 @@
         <end-date>2010-09-24</end-date>
         <visitor>President Juan Manuel Santos</visitor>
         <from id="colombia">Colombia</from>
-        <description>Met with President Obama at the U.N. General Assembly in New York City.</description>
+        <description>Met with President Obama at the U.N. General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1144,7 +1149,7 @@
         <end-date>2011-01-20</end-date>
         <visitor>President Hu Jintao</visitor>
         <from id="china">China, People’s Republic of</from>
-        <description>State Visit.  Also visited Chicago, Illinois, Jan. 20-21.</description>
+        <description>State Visit. Also visited Chicago, Illinois, Jan. 20-21.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1212,7 +1217,7 @@
         <end-date>2011-03-07</end-date>
         <visitor>Prime Minister Julia Gillard</visitor>
         <from id="australia">Australia</from>
-        <description>Working visit.  Addressed a Joint Meeting of Congress.</description>
+        <description>Working visit. Addressed a Joint Meeting of Congress.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1348,7 +1353,7 @@
         <end-date>2011-05-25</end-date>
         <visitor>Prime Minister Benjamin Netanyahu</visitor>
         <from id="israel">Israel</from>
-        <description>Working visit.  Addressed a joint session of Congress May 24.</description>
+        <description>Working visit. Addressed a joint session of Congress May 24.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1535,7 +1540,8 @@
         <end-date>2011-09-20</end-date>
         <visitor>President Hamid Karzai</visitor>
         <from id="afghanistan">Afghanistan</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1552,7 +1558,8 @@
         <end-date>2011-09-20</end-date>
         <visitor>President Dilma Rousseff</visitor>
         <from id="brazil">Brazil</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1569,7 +1576,8 @@
         <end-date>2011-09-20</end-date>
         <visitor>Prime Minister Recep Tayyip Erdogan</visitor>
         <from id="turkey">Turkey</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1586,7 +1594,8 @@
         <end-date>2011-09-21</end-date>
         <visitor>Prime Minister Benjamin Netanyahu</visitor>
         <from id="israel">Israel</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1603,7 +1612,8 @@
         <end-date>2011-09-21</end-date>
         <visitor>Prime Minister Yoshihiko Noda</visitor>
         <from id="japan">Japan</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1620,7 +1630,8 @@
         <end-date>2011-09-21</end-date>
         <visitor>Prime Minister David Cameron</visitor>
         <from id="united-kingdom">United Kingdom</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1637,7 +1648,8 @@
         <end-date>2011-09-21</end-date>
         <visitor>President Nicolas Sarkozy</visitor>
         <from id="france">France</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
@@ -1654,7 +1666,8 @@
         <end-date>2011-09-21</end-date>
         <visitor>President Salva Kiir Mayardit</visitor>
         <from id="south-sudan">South Sudan</from>
-        <description>Met with President Obama at the UN General Assembly in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1705,7 +1718,7 @@
         <end-date>2011-10-14</end-date>
         <visitor>President Lee Myung-bak</visitor>
         <from id="korea-south">South Korea</from>
-        <description>State Visit.  Also visited Lake Orion, Michigan</description>
+        <description>State Visit. Also visited Lake Orion, Michigan</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1771,9 +1784,10 @@
         <id>2589</id>
         <start-date>2011-11-10</start-date>
         <end-date>2011-11-13</end-date>
-        <visitor>Prime Minister  Yoshihiko Noda</visitor>
+        <visitor>Prime Minister Yoshihiko Noda</visitor>
         <from id="japan">Japan</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1790,7 +1804,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Dimitry A. Medvedev</visitor>
         <from id="russia">Russia</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1807,7 +1822,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Hu Jintao</visitor>
         <from id="china">China, People’s Republic of</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1824,7 +1840,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>Prime Minister Stephen Harper</visitor>
         <from id="canada">Canada</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1841,7 +1858,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Ollanta Humala</visitor>
         <from id="peru">Peru</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1858,7 +1876,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Benigno Aquino 3rd</visitor>
         <from id="philippines">Philippines</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1875,7 +1894,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Lee Myung-bak</visitor>
         <from id="korea-south">South Korea</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1892,7 +1912,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Sebastian Pinera</visitor>
         <from id="chile">Chile</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1909,7 +1930,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Truong Tan Sang</visitor>
         <from id="vietnam">Vietnam</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1926,7 +1948,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>President Susilo Bambang Yudhoyono</visitor>
         <from id="indonesia">Indonesia</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1943,7 +1966,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>Prime Minister Julia Gillard</visitor>
         <from id="australia">Australia</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1960,7 +1984,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>Prime Minister Lee Hsien Loong</visitor>
         <from id="singapore">Singapore</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1977,7 +2002,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>Prime Minister Najib ben Abdul Razak</visitor>
         <from id="malaysia">Malaysia</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -1994,7 +2020,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>Prime Minister Peter Paire O’Neill</visitor>
         <from id="papua-new-guinea">Papua New Guinea</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -2011,7 +2038,8 @@
         <end-date>2011-11-13</end-date>
         <visitor>Sultan Hassanal Bolkiah</visitor>
         <from id="brunei">Brunei Darussalam</from>
-        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and Kapolei, Hawaii.</description>
+        <description>Attended the Asia-Pacific Economic and Cooperation Summit at Honolulu and
+            Kapolei, Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-11T15:43:14.638-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -3783,7 +3811,8 @@
         <end-date>2014-02-11</end-date>
         <visitor>President Francois Hollande</visitor>
         <from id="france">France</from>
-        <description>State visit. Visited Monticello (Charlottesville), Virginia, February 10.</description>
+        <description>State visit. Visited Monticello (Charlottesville), Virginia, February
+            10.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4854,7 +4883,8 @@
         <end-date>2014-09-23</end-date>
         <visitor>King Abdullah II</visitor>
         <from id="jordan">Jordan</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4871,7 +4901,8 @@
         <end-date>2014-09-24</end-date>
         <visitor>Prime Minister Haidar al-Abadi</visitor>
         <from id="iraq">Iraq</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4888,7 +4919,8 @@
         <end-date>2014-09-25</end-date>
         <visitor>Prime Minister Hailemariam Desalegn</visitor>
         <from id="ethiopia">Ethiopia</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4905,7 +4937,8 @@
         <end-date>2014-09-25</end-date>
         <visitor>President Abdelfattah Said Elsisi</visitor>
         <from id="egypt">Egypt</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -5228,7 +5261,8 @@
         <end-date>2015-05-15</end-date>
         <visitor>Amir Sheik Sabah al-Ahmed al-Jaber al-Sabah</visitor>
         <from id="kuwait">Kuwait</from>
-        <description>Attended a Summit at Camp David, MD, for Gulf Cooperation Council members on Countering Violent Extremism.</description>
+        <description>Attended a Summit at Camp David, MD, for Gulf Cooperation Council members on
+            Countering Violent Extremism.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -5245,7 +5279,8 @@
         <end-date>2015-05-15</end-date>
         <visitor>Amir Sheikh Tameem bin Hamad al-Thani</visitor>
         <from id="qatar">Qatar</from>
-        <description>Attended a Summit at Camp David, MD, for Gulf Cooperation Council Members on Countering Violent Extremism.</description>
+        <description>Attended a Summit at Camp David, MD, for Gulf Cooperation Council Members on
+            Countering Violent Extremism.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -5381,7 +5416,9 @@
         <end-date>2015-09-24</end-date>
         <visitor>Pope Francis</visitor>
         <from id="holy-see">Vatican City</from>
-        <description>State Visit. Addressed Joint Session of Congress Sept. 24. Also visited New York City (addressed UN General Assembly Sept. 25) and Philadelphia (attended World Meeting of Families). Departed the U.S. Sept. 27.</description>
+        <description>State Visit. Addressed Joint Session of Congress Sept. 24. Also visited New
+            York City (addressed UN General Assembly Sept. 25) and Philadelphia (attended World
+            Meeting of Families). Departed the U.S. Sept. 27.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -5415,7 +5452,8 @@
         <end-date>2015-09-28</end-date>
         <visitor>President Vladimir Putin</visitor>
         <from id="russia">Russia</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -5432,7 +5470,8 @@
         <end-date>2015-09-29</end-date>
         <visitor>President Raul Castro</visitor>
         <from id="cuba">Cuba</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -5449,7 +5488,8 @@
         <end-date>2015-09-29</end-date>
         <visitor>Prime Minister Haidar al-Abadi</visitor>
         <from id="iraq">Iraq</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -5466,7 +5506,8 @@
         <end-date>2015-09-29</end-date>
         <visitor>President Nursultan Nazarbayev</visitor>
         <from id="kazakhstan">Kazakhstan</from>
-        <description>Met with President Obama at the UN General Assembly Meeting in New York City.</description>
+        <description>Met with President Obama at the UN General Assembly Meeting in New York
+            City.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

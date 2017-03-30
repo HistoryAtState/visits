@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <visits>
     <visit>
         <id>2144</id>
@@ -78,7 +78,8 @@
         <end-date>1913-10-20</end-date>
         <visitor>Prince Albert I</visitor>
         <from id="monaco">Monaco</from>
-        <description>Arrived in the U.S. September 11, 1913.  Met with President Wilson October 20, 1913 during a private visit.</description>
+        <description>Arrived in the U.S. September 11, 1913. Met with President Wilson October 20,
+            1913 during a private visit.</description>
         <created-by>marrsaw</created-by>
         <created-datetime>2013-08-20T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
