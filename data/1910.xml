@@ -12,11 +12,6 @@
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </visit>
     <visit>
         <id>2145</id>
@@ -30,11 +25,6 @@
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </visit>
     <visit>
         <id>2146</id>
@@ -47,11 +37,6 @@
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </visit>
     <visit>
         <id>2147</id>
@@ -66,11 +51,6 @@
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>wicentowskijc</released-by>
-        <release-datetime>2011-08-30T10:28:43.157-05:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </visit>
     <visit>
         <id>2607</id>
@@ -84,10 +64,5 @@
         <created-datetime>2013-08-20T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
         <last-modified-datetime>2013-08-20T16:17:47.87-04:00</last-modified-datetime>
-        <release-status-code>released</release-status-code>
-        <released-by>marrsaw</released-by>
-        <release-datetime>2013-08-20T16:17:47.87-04:00</release-datetime>
-        <recalled-by/>
-        <recall-datetime/>
     </visit>
 </visits>
