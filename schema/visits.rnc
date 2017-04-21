@@ -11,7 +11,7 @@ start =
         attribute id { xsd:NCName },
         text
       },
-      element description { text },
+      element description { (text | element em { text })+ },
       element created-by { xsd:NCName },
       element created-datetime { xsd:dateTime },
       element last-modified-by { xsd:NCName },
