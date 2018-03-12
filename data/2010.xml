@@ -4926,7 +4926,8 @@
         <end-date>2017-05-04</end-date>
         <visitor>Prime Minister Malcolm B. Turnbull</visitor>
         <from id="australia">Australia</from>
-        <description>Met with President Trump at the U.S.S. Intrepid Museum in New York City.</description>
+        <description>Met with President Trump at the U.S.S. Intrepid Museum in New York
+            City.</description>
         <created-by>faithti</created-by>
         <created-datetime>2017-10-24T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
@@ -4986,7 +4987,8 @@
         <end-date>2017-06-16</end-date>
         <visitor>President Juan Hernando Hernandez</visitor>
         <from id="honduras">Honduras</from>
-        <description>Attended the Conference on Prosperity and Security in Central America, in Washington and in Doral, Florida.</description>
+        <description>Attended the Conference on Prosperity and Security in Central America, in
+            Washington and in Doral, Florida.</description>
         <created-by>faithti</created-by>
         <created-datetime>2017-10-24T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
@@ -4998,7 +5000,8 @@
         <end-date>2017-06-16</end-date>
         <visitor>President James Ernesto Morales</visitor>
         <from id="guatemala">Guatemala</from>
-        <description>Attended the Conference on Prosperity and Security in Central America, in Washington and in Doral, Florida.</description>
+        <description>Attended the Conference on Prosperity and Security in Central America, in
+            Washington and in Doral, Florida.</description>
         <created-by>faithti</created-by>
         <created-datetime>2017-10-24T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
@@ -5063,5 +5066,114 @@
         <created-datetime>2017-10-24T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2017-10-24T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2889</id>
+        <start-date>2017-08-28</start-date>
+        <end-date>2017-08-28</end-date>
+        <visitor>President Sauli Ninisto</visitor>
+        <from id="finland">Finland</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2890</id>
+        <start-date>2017-09-07</start-date>
+        <end-date>2017-09-07</end-date>
+        <visitor>Amir Sabah al-Ahmed al-Jabir al-Sabah</visitor>
+        <from id="kuwait">Kuwait</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2891</id>
+        <start-date>2017-09-12</start-date>
+        <end-date>2017-09-12</end-date>
+        <visitor>Prime Minister Najib Razak</visitor>
+        <from id="malaysia">Malaysia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2892</id>
+        <start-date>2017-09-28</start-date>
+        <end-date>2017-09-28</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Met with President Trump at the UN General Assembly in New York
+            City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2893</id>
+        <start-date>2017-09-26</start-date>
+        <end-date>2017-09-26</end-date>
+        <visitor>Prime Minister Mariano Rajoy</visitor>
+        <from id="spain">Spain</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2894</id>
+        <start-date>2017-10-02</start-date>
+        <end-date>2017-10-03</end-date>
+        <visitor>Prime Minister Prayut Chan-o-Cha</visitor>
+        <from id="thailand">Thailand</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2895</id>
+        <start-date>2017-10-11</start-date>
+        <end-date>2017-10-11</end-date>
+        <visitor>Prime Minister Justin P. J. Trudeau</visitor>
+        <from id="canada">Canada</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2896</id>
+        <start-date>2017-10-17</start-date>
+        <end-date>2017-10-17</end-date>
+        <visitor>Prime Minister Alexios Tsipras</visitor>
+        <from id="greece">Greece</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2897</id>
+        <start-date>2017-10-23</start-date>
+        <end-date>2017-10-23</end-date>
+        <visitor>Prime Minister Lee Hsien Loong</visitor>
+        <from id="singapore">Singapore</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </visit>
 </visits>
