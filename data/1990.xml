@@ -66,7 +66,7 @@
         <start-date>1990-02-11</start-date>
         <end-date>1990-02-14</end-date>
         <visitor>President Denis Sassou-Nguesso</visitor>
-        <from id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</from>
+        <from id="congo-republic">Congo, Republic of</from>
         <description>State visit. Private visit to Houston afterwards.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -1795,7 +1795,7 @@
         <start-date>1991-12-08</start-date>
         <end-date>1991-12-14</end-date>
         <visitor>Prime Minister Andre Milongo</visitor>
-        <from id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</from>
+        <from id="congo-republic">Congo, Republic of</from>
         <description>Private visit. Met with President Bush Dec. 13. Arrived in the U.S. Dec. 8;
             departed Dec. 14. Also visited Atlanta.</description>
         <created-by>joewiz</created-by>

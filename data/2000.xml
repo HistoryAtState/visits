@@ -2976,7 +2976,7 @@
         <start-date>2003-06-24</start-date>
         <end-date>2003-06-27</end-date>
         <visitor>President Denis Sassou-Nguesso</visitor>
-        <from id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</from>
+        <from id="congo-republic">Congo, Republic of</from>
         <description>Attended United States-Africa Business Summit; met with President Bush during a
             private visit June 26.</description>
         <created-by>joewiz</created-by>
@@ -5441,7 +5441,7 @@
         <start-date>2006-06-04</start-date>
         <end-date>2006-06-07</end-date>
         <visitor>President Denis Sassou-Nguesso</visitor>
-        <from id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</from>
+        <from id="congo-republic">Congo, Republic of</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
