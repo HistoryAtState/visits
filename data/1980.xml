@@ -3912,14 +3912,14 @@
         <id>718</id>
         <start-date>1989-06-05</start-date>
         <end-date>1989-06-07</end-date>
-        <visitor>President Benazir Bhutto</visitor>
+        <visitor>Prime Minister Benazir Bhutto</visitor>
         <from id="pakistan">Pakistan</from>
         <description>Official Visit; visited Boston and New York City. Departed U.S. June
             10.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-by>tfaith</last-modified-by>
+        <last-modified-datetime>2019-03-22T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
         <id>719</id>
