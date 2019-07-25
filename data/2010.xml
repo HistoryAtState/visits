@@ -5176,4 +5176,244 @@
         <last-modified-by>faithti</last-modified-by>
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </visit>
+    <visit>
+        <id>2898</id>
+        <start-date>2018-01-10</start-date>
+        <end-date>2018-01-10</end-date>
+        <visitor>Prime Minister Erna Solberg</visitor>
+        <from id="norway">Norway</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2899</id>
+        <start-date>2018-01-16</start-date>
+        <end-date>2018-01-10</end-date>
+        <visitor>President Nursultan Nazarbayev</visitor>
+        <from id="kazakhstan">Kazakhstan</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2900</id>
+        <start-date>2018-02-23</start-date>
+        <end-date>2018-02-23</end-date>
+        <visitor>Prime Minister Malcolm B. Turnbull</visitor>
+        <from id="australia">Australia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2901</id>
+        <start-date>2018-03-05</start-date>
+        <end-date>2018-03-05</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2902</id>
+        <start-date>2018-03-06</start-date>
+        <end-date>2018-03-06</end-date>
+        <visitor>Prime Minister Stefan Lofven</visitor>
+        <from id="sweden">Sweden</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2903</id>
+        <start-date>2018-03-16</start-date>
+        <end-date>2018-03-16</end-date>
+        <visitor>Prime Minister Leo Varadkar</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2904</id>
+        <start-date>2018-03-20</start-date>
+        <end-date>2018-03-20</end-date>
+        <visitor>Crown Prince Mohammad bin Salman</visitor>
+        <from id="saudi-arabia">Saudi Arabia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2905</id>
+        <start-date>2018-04-03</start-date>
+        <end-date>2018-04-03</end-date>
+        <visitor>President Kersti Kaljulaid </visitor>
+        <from id="estonia">Estonia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2906</id>
+        <start-date>2018-04-03</start-date>
+        <end-date>2018-04-03</end-date>
+        <visitor>President Raimonds Vejonis</visitor>
+        <from id="latvia">Latvia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2907</id>
+        <start-date>2018-04-03</start-date>
+        <end-date>2018-04-03</end-date>
+        <visitor>President Dalia Grybauskaite</visitor>
+        <from id="lithuania">Lithuania</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2908</id>
+        <start-date>2018-04-10</start-date>
+        <end-date>2018-04-10</end-date>
+        <visitor>Amir Tamim bin Hamad al-Thani</visitor>
+        <from id="qatar">Qatar</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2909</id>
+        <start-date>2018-04-18</start-date>
+        <end-date>2018-04-18</end-date>
+        <visitor>Prime Minister Shinzo Abe</visitor>
+        <from id="japan">Japan</from>
+        <description>Official Working Visit at Mar-a-Lago, Florida.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2910</id>
+        <start-date>2018-04-24</start-date>
+        <end-date>2018-04-24</end-date>
+        <visitor>President Emmanuel Macron</visitor>
+        <from id="france">France</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2911</id>
+        <start-date>2018-04-30</start-date>
+        <end-date>2018-04-30</end-date>
+        <visitor>President Muhammadu Buhari</visitor>
+        <from id="nigeria">Nigeria</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2912</id>
+        <start-date>2018-05-22</start-date>
+        <end-date>2018-05-22</end-date>
+        <visitor>President Moon-Jae-in</visitor>
+        <from id="korea-south">Korea, South</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2913</id>
+        <start-date>2018-06-07</start-date>
+        <end-date>2018-06-07</end-date>
+        <visitor>Prime Minister Shinzo Abe</visitor>
+        <from id="japan">Japan</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2914</id>
+        <start-date>2018-06-27</start-date>
+        <end-date>2018-06-27</end-date>
+        <visitor>President Marcelo Rebelo de Sousa</visitor>
+        <from id="portugal">Portugal</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2915</id>
+        <start-date>2018-07-02</start-date>
+        <end-date>2018-07-02</end-date>
+        <visitor>Prime Minister Mark Rutte</visitor>
+        <from id="netherlands">Netherlands</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2916</id>
+        <start-date>2018-07-30</start-date>
+        <end-date>2018-07-30</end-date>
+        <visitor>Prime Minister Giuseppe Conte</visitor>
+        <from id="italy">Italy</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2917</id>
+        <start-date>2018-08-27</start-date>
+        <end-date>2018-08-27</end-date>
+        <visitor>President Uhuru Kenyatta</visitor>
+        <from id="kenya">Kenya</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
+    </visit>
 </visits>
