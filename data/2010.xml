@@ -2266,7 +2266,7 @@
         <id>2673</id>
         <start-date>2013-02-22</start-date>
         <end-date>2013-02-22</end-date>
-        <visitor>Prime Minister Shinzo Abe</visitor>
+        <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
         <description>Working visit.</description>
         <created-by>wicentowskijc</created-by>
@@ -3713,7 +3713,7 @@
         <id>2793</id>
         <start-date>2015-04-27</start-date>
         <end-date>2015-04-28</end-date>
-        <visitor>Prime Minister Shinzo Abe</visitor>
+        <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
         <description>State Visit.</description>
         <created-by>wicentowskijc</created-by>
@@ -4381,7 +4381,7 @@
         <id>2848</id>
         <start-date>2016-03-31</start-date>
         <end-date>2016-04-01</end-date>
-        <visitor>Prime Minister Shinzo Abe </visitor>
+        <visitor>Prime Minister Shinzō Abe </visitor>
         <from id="japan">Japan</from>
         <description>Attended the Nuclear Security Summit.</description>
         <created-by>wicentowskijc</created-by>
@@ -4731,7 +4731,7 @@
         <id>2877</id>
         <start-date>2016-11-17</start-date>
         <end-date>2016-11-17</end-date>
-        <visitor>Prime Minister Shinzo Abe</visitor>
+        <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
         <description>Met with President-elect Donald J. Trump in New York City.</description>
         <created-by>wicentowskijc</created-by>
@@ -4743,7 +4743,7 @@
         <id>2878</id>
         <start-date>2016-12-27</start-date>
         <end-date>2016-12-27</end-date>
-        <visitor>Prime Minister Shinzo Abe</visitor>
+        <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
         <description>Attended a memorial service at the U.S.S. <em>Arizona</em> Memorial, Pearl
             Harbor, Hawaii.</description>
@@ -4780,7 +4780,7 @@
         <id>2881</id>
         <start-date>2017-02-10</start-date>
         <end-date>2017-02-12</end-date>
-        <visitor>Prime Minister Shinzo Abe</visitor>
+        <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
         <description>Official Working Visit. Also visited Mar-a-Lago, Florida.</description>
         <created-by>faithti</created-by>
@@ -5048,7 +5048,7 @@
         <start-date>2017-06-29</start-date>
         <end-date>2017-06-30</end-date>
         <visitor>President Moon-Jae-in</visitor>
-        <from id="korea">Korea</from>
+        <from id="korea">Korea, South</from>
         <description>Official Working Visit.</description>
         <created-by>faithti</created-by>
         <created-datetime>2017-10-24T14:29:13.672-04:00</created-datetime>
@@ -5228,7 +5228,7 @@
         <id>2902</id>
         <start-date>2018-03-06</start-date>
         <end-date>2018-03-06</end-date>
-        <visitor>Prime Minister Stefan Lofven</visitor>
+        <visitor>Prime Minister Stefan Löfven</visitor>
         <from id="sweden">Sweden</from>
         <description>Official Working Visit.</description>
         <created-by>wicentowskijc</created-by>
@@ -5252,7 +5252,7 @@
         <id>2904</id>
         <start-date>2018-03-20</start-date>
         <end-date>2018-03-20</end-date>
-        <visitor>Crown Prince Mohammad bin Salman</visitor>
+        <visitor>Crown Prince Mohammed bin Salman</visitor>
         <from id="saudi-arabia">Saudi Arabia</from>
         <description>Official Working Visit.</description>
         <created-by>wicentowskijc</created-by>
@@ -5276,7 +5276,7 @@
         <id>2906</id>
         <start-date>2018-04-03</start-date>
         <end-date>2018-04-03</end-date>
-        <visitor>President Raimonds Vejonis</visitor>
+        <visitor>President Raimonds Vējonis</visitor>
         <from id="latvia">Latvia</from>
         <description>Official Working Visit.</description>
         <created-by>wicentowskijc</created-by>
@@ -5312,7 +5312,7 @@
         <id>2909</id>
         <start-date>2018-04-18</start-date>
         <end-date>2018-04-18</end-date>
-        <visitor>Prime Minister Shinzo Abe</visitor>
+        <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
         <description>Official Working Visit at Mar-a-Lago, Florida.</description>
         <created-by>wicentowskijc</created-by>
@@ -5360,7 +5360,7 @@
         <id>2913</id>
         <start-date>2018-06-07</start-date>
         <end-date>2018-06-07</end-date>
-        <visitor>Prime Minister Shinzo Abe</visitor>
+        <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
         <description>Official Working Visit.</description>
         <created-by>wicentowskijc</created-by>
