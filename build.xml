@@ -6,6 +6,10 @@
     <target name="clean">
         <echo message="Deleting xar files..."/>
         <delete dir="${build.dir}"/>
+    </target>
+    
+    <target name="prepare">
+        <echo message="Creating build folder..."/>
         <mkdir dir="${build.dir}"/>
     </target>
 
