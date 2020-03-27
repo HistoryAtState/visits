@@ -5416,4 +5416,340 @@
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2019-07-25T16:12:57.84-04:00</last-modified-datetime>
     </visit>
+    <visit>
+        <id>2918</id>
+        <start-date>2019-02-22</start-date>
+        <end-date>2019-02-22</end-date>
+        <visitor>Vice Premier Liu He</visitor>
+        <from id="china">China</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2919</id>
+        <start-date>2019-03-07</start-date>
+        <end-date>2019-03-07</end-date>
+        <visitor>Prime Minister Andrej Babiš</visitor>
+        <from id="czech-republic">Czech Republic</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2920</id>
+        <start-date>2019-03-14</start-date>
+        <end-date>2019-03-14</end-date>
+        <visitor>Prime Minister Leo Varadkar</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2921</id>
+        <start-date>2019-03-17</start-date>
+        <end-date>2019-03-17</end-date>
+        <visitor>President Jair Messias Bolsonaro</visitor>
+        <from id="brazil">Brazil</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2922</id>
+        <start-date>2019-03-25</start-date>
+        <end-date>2019-03-25</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2923</id>
+        <start-date>2019-04-04</start-date>
+        <end-date>2019-04-04</end-date>
+        <visitor>Vice Premier Liu He</visitor>
+        <from id="china">China</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2924</id>
+        <start-date>2019-04-09</start-date>
+        <end-date>2019-04-09</end-date>
+        <visitor>President Abdelfattah Said Elsisi</visitor>
+        <from id="egypt">Egypt</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2925</id>
+        <start-date>2019-04-11</start-date>
+        <end-date>2019-04-11</end-date>
+        <visitor>President Moon Jae-in</visitor>
+        <from id="korea-south">Korea, South</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2926</id>
+        <start-date>2019-04-26</start-date>
+        <end-date>2019-04-26</end-date>
+        <visitor>Prime Minister Shinzo Abe </visitor>
+        <from id="japan">Japan</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2927</id>
+        <start-date>2019-05-03</start-date>
+        <end-date>2019-05-03</end-date>
+        <visitor>Prime Minister Peter Pellegrini</visitor>
+        <from id="slovakia">Slovakia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2928</id>
+        <start-date>2019-05-13</start-date>
+        <end-date>2019-05-03</end-date>
+        <visitor>Prime Minister Viktor Orban</visitor>
+        <from id="hungary">Hungary</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2929</id>
+        <start-date>2019-06-12</start-date>
+        <end-date>2019-06-12</end-date>
+        <visitor>President Andrzej Duda</visitor>
+        <from id="poland">Poland</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2930</id>
+        <start-date>2019-06-20</start-date>
+        <end-date>2019-06-20</end-date>
+        <visitor>Prime Minister Justin Trudeau</visitor>
+        <from id="canada">Canada</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2931</id>
+        <start-date>2019-07-09</start-date>
+        <end-date>2019-07-09</end-date>
+        <visitor>Amir Tamim bin Hamad Al Thani</visitor>
+        <from id="qatar">Qatar</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2932</id>
+        <start-date>2019-07-18</start-date>
+        <end-date>2019-07-18</end-date>
+        <visitor>Prime Minister Mark Rutte</visitor>
+        <from id="netherlands">Netherlands</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2933</id>
+        <start-date>2019-07-22</start-date>
+        <end-date>2019-07-22</end-date>
+        <visitor>Prime Minister Imran Khan</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2934</id>
+        <start-date>2019-07-31</start-date>
+        <end-date>2019-07-31</end-date>
+        <visitor>President Khaltmaa Battulga</visitor>
+        <from id="mongolia">Mongolia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2935</id>
+        <start-date>2019-08-20</start-date>
+        <end-date>2019-08-20</end-date>
+        <visitor>President Klaus Iohannis</visitor>
+        <from id="romania">Romania</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2936</id>
+        <start-date>2019-09-16</start-date>
+        <end-date>2019-09-16</end-date>
+        <visitor>Crown Prince Salman bin Hamad Al Khalifa</visitor>
+        <from id="bahrain">Bahrain</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2937</id>
+        <start-date>2019-09-20</start-date>
+        <end-date>2019-09-20</end-date>
+        <visitor>Prime Minister Scott Morrison</visitor>
+        <from id="australia">Australia</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2938</id>
+        <start-date>2019-09-22</start-date>
+        <end-date>2019-09-22</end-date>
+        <visitor>Prime Minister Narendra Modi</visitor>
+        <from id="india">India</from>
+        <description>Participated in a rally in Houston, Texas.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2939</id>
+        <start-date>2019-09-22</start-date>
+        <end-date>2019-09-22</end-date>
+        <visitor>Prime Minister Scott Morrison</visitor>
+        <from id="australia">Australia</from>
+        <description>Visited a manufacturing facility in Wapakoneta, Ohio.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2940</id>
+        <start-date>2019-10-02</start-date>
+        <end-date>2019-10-02</end-date>
+        <visitor>President Sauli Niinistö</visitor>
+        <from id="finland">Finland</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2941</id>
+        <start-date>2019-10-16</start-date>
+        <end-date>2019-10-16</end-date>
+        <visitor>President Sergio Mattarella</visitor>
+        <from id="italy">Italy</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2942</id>
+        <start-date>2019-11-13</start-date>
+        <end-date>2019-11-13</end-date>
+        <visitor>President Recep Tayyip Erdogan</visitor>
+        <from id="turkey">Turkey</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2943</id>
+        <start-date>2019-11-25</start-date>
+        <end-date>2019-11-25</end-date>
+        <visitor>Prime Minister Boyko Borisov</visitor>
+        <from id="bulgaria">Bulgaria</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2944</id>
+        <start-date>2019-12-13</start-date>
+        <end-date>2019-12-13</end-date>
+        <visitor>President Mario Abdo Benitez</visitor>
+        <from id="paraguay">Paraguay</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2945</id>
+        <start-date>2019-12-17</start-date>
+        <end-date>2019-12-17</end-date>
+        <visitor>President Jimmy Morales</visitor>
+        <from id="guatemala">Guatemala</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2020-03-27T17:19:34.816-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2020-03-27T17:19:34.816-04:00</last-modified-datetime>
+    </visit>
 </visits>
