@@ -2844,6 +2844,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>2946</id>
+        <start-date>1986-07-03</start-date>
+        <end-date>1986-07-04</end-date>
+        <visitor>President Francois Mitterrand</visitor>
+        <from id="france">France</from>
+        <description>Official Working Visit. Met with President Reagan  at the Admiral's Residence on Governors Island in New York City.</description>
+        <created-by>bottsjd</created-by>
+        <created-datetime>2020-05-08T13:36:38.612-06:00</created-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2020-05-08T13:36:38.612-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>631</id>
         <start-date>1986-07-15</start-date>
         <end-date>1986-07-18</end-date>
