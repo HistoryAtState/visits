@@ -3491,6 +3491,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>2947</id>
+        <start-date>1988-06-09</start-date>
+        <end-date>1989-06-09</end-date>
+        <visitor>President Mobutu Sese Seko</visitor>
+        <from id="congo-democratic-republic">Democratic Republic of the Congo (Zaire)</from>
+        <description>Official Working Visit. Discussion of region issues in the Oval Office.</description>
+        <created-by>bottsjd</created-by>
+        <created-datetime>2020-09-22T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2020-09-22T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>683</id>
         <start-date>1988-06-13</start-date>
         <end-date>1988-06-16</end-date>
