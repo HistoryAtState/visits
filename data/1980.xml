@@ -1654,19 +1654,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>535</id>
-        <start-date>1983-11-19</start-date>
-        <end-date>1983-11-22</end-date>
-        <visitor>President Jaafar Nimeiri</visitor>
-        <from id="sudan">Sudan</from>
-        <description>Official working visit. Private visit afterward. Departed U.S. December
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>536</id>
         <start-date>1983-11-16</start-date>
         <end-date>1983-11-23</end-date>
@@ -1674,6 +1661,19 @@
         <from id="israel">Israel</from>
         <description>Private visit. Addressed U.N. General Assembly. Met with President Reagan
             November 22.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>535</id>
+        <start-date>1983-11-19</start-date>
+        <end-date>1983-11-22</end-date>
+        <visitor>President Jaafar Nimeiri</visitor>
+        <from id="sudan">Sudan</from>
+        <description>Official working visit. Private visit afterward. Departed U.S. December
+            1.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2391,24 +2391,24 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>594</id>
-        <start-date>1985-04-14</start-date>
-        <end-date>1985-04-15</end-date>
-        <visitor>President Luis Monge Alvarez</visitor>
-        <from id="costa-rica">Costa Rica</from>
-        <description>Private Visit. Met with President Reagan April 15.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>595</id>
         <start-date>1985-04-13</start-date>
         <end-date>1985-04-17</end-date>
         <visitor>President Abdou Diouf</visitor>
         <from id="senegal">Senegal</from>
         <description>Private Visit. Met with President Reagan April 16.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>594</id>
+        <start-date>1985-04-14</start-date>
+        <end-date>1985-04-15</end-date>
+        <visitor>President Luis Monge Alvarez</visitor>
+        <from id="costa-rica">Costa Rica</from>
+        <description>Private Visit. Met with President Reagan April 15.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>

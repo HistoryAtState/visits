@@ -1,1438 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <visits>
     <visit>
-        <id>1</id>
-        <start-date>1966-02-06</start-date>
-        <end-date>1966-02-08</end-date>
-        <visitor>President Nguyen Van Thieu</visitor>
-        <from id="vietnam">Vietnam</from>
-        <description>Official visit. Conferred with President Johnson in Honolulu on military and
-            economic assistance to Vietnam.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>2</id>
-        <start-date>1966-03-28</start-date>
-        <end-date>1966-03-29</end-date>
-        <visitor>Prime Minister Indira Gandhi</visitor>
-        <from id="india">India</from>
-        <description>Official visit. In U.S. March 27–April 1; visited Williamsburg and New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>3</id>
-        <start-date>1966-04-22</start-date>
-        <end-date>1966-04-27</end-date>
-        <visitor>Prime Minister Jens Otto Krag</visitor>
-        <from id="denmark">Denmark</from>
-        <description>Private visit. Arrived in U.S. April 20; visited New York City and Omaha. Met
-            with President Johnson April 27.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>4</id>
-        <start-date>1966-06-21</start-date>
-        <end-date>1966-06-23</end-date>
-        <visitor>King Faisal</visitor>
-        <from id="saudi-arabia">Saudi Arabia</from>
-        <description>State visit. In U.S. June 20–30; visited Williamsburg and New
-            York</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>5</id>
-        <start-date>1966-06-28</start-date>
-        <end-date>1966-06-29</end-date>
-        <visitor>Prime Minister Harold E. Holt</visitor>
-        <from id="australia">Australia</from>
-        <description>Informal visit while en route to London. Also visited New York City. Departed
-            U.S. July 6</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>6</id>
-        <start-date>1966-07-13</start-date>
-        <end-date>1966-07-14</end-date>
-        <visitor>Prime Minister Harold E. Holt</visitor>
-        <from id="australia">Australia</from>
-        <description>Informal visit during return trip from London.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>7</id>
-        <start-date>1966-07-21</start-date>
-        <end-date>1966-07-23</end-date>
-        <visitor>Prime Minister Forbes Burnham</visitor>
-        <from id="guyana">Guyana</from>
-        <description>Informal visit. Afterwards visited San Francisco, Los Angeles, Houston, and
-            Austin. Departed U.S. July 30.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>8</id>
-        <start-date>1966-07-28</start-date>
-        <end-date>1966-07-29</end-date>
-        <visitor>Prime Minister Harold Wilson</visitor>
-        <from id="united-kingdom">United Kingdom</from>
-        <description>Informal visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>9</id>
-        <start-date>1966-08-02</start-date>
-        <end-date>1966-08-03</end-date>
-        <visitor>President Zalman Shazar</visitor>
-        <from id="israel">Israel</from>
-        <description>In U.S. July 28–August 4; visited New York City. Informal meeting with
-            President Johnson.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>10</id>
-        <start-date>1966-09-08</start-date>
-        <end-date>1966-09-10</end-date>
-        <visitor>Chairman Ne Win</visitor>
-        <from id="burma">Burma</from>
-        <description>State visit. In U.S. September 8–10; visited New York City, Williamsburg,
-            California, and Hawaii.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-06-27T10:28:43.157-05:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>11</id>
-        <start-date>1966-09-14</start-date>
-        <end-date>1966-09-16</end-date>
-        <visitor>President Ferdinand Marcos</visitor>
-        <from id="philippines">Philippines</from>
-        <description>State visit. In U.S. September 12–27. Addressed Congress September 15. Visited
-            Honolulu, Los Angeles, New York City, Chicago, Ann Arbor, and San
-            Francisco.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>12</id>
-        <start-date>1966-09-26</start-date>
-        <end-date>1966-09-27</end-date>
-        <visitor>Chancellor Ludwig Erhard</visitor>
-        <from id="germany">Germany, Federal Republic of</from>
-        <description>Informal visit. In U.S. September 24–27; visited Cape Kennedy.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>13</id>
-        <start-date>1966-09-28</start-date>
-        <end-date>1966-09-28</end-date>
-        <visitor>President Leopold Sedar Senghor</visitor>
-        <from id="senegal">Senegal</from>
-        <description>State Visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>14</id>
-        <start-date>1966-10-12</start-date>
-        <end-date>1966-10-13</end-date>
-        <visitor>Prime Minister Souvanna Phouma</visitor>
-        <from id="laos">Laos</from>
-        <description>Informal meetings with President Johnson in New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>15</id>
-        <start-date>1967-01-25</start-date>
-        <end-date>1967-01-28</end-date>
-        <visitor>President-elect Arthur da Costa e Silva</visitor>
-        <from id="brazil">Brazil</from>
-        <description>Informal visit. In U.S. January 18–31; visited Honolulu, Los Angeles, Cape
-            Kennedy, and New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>16</id>
-        <start-date>1967-02-09</start-date>
-        <end-date>1967-02-11</end-date>
-        <visitor>King Hassan II</visitor>
-        <from id="morocco">Morocco</from>
-        <description>Informal visit. Afterwards made a private visit to New York City. In U.S.
-            February 8–17.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>17</id>
-        <start-date>1967-02-13</start-date>
-        <end-date>1967-02-15</end-date>
-        <visitor>Emperor Haile Selassie</visitor>
-        <from id="ethiopia">Ethiopia</from>
-        <description>State visit. Afterwards visited New York City. Departed U.S. February
-            17.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>18</id>
-        <start-date>1967-03-14</start-date>
-        <end-date>1967-03-16</end-date>
-        <visitor>Prime Minister Il Kwon Chung</visitor>
-        <from id="korea-south">Korea</from>
-        <description>Informal visit. In U.S. March 12–17; visited Philadelphia, New York City, San
-            Francisco, and Los Angeles.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>19</id>
-        <start-date>1967-03-28</start-date>
-        <end-date>1967-03-30</end-date>
-        <visitor>Prime Minister Muhammad Hashim Maiwandwal</visitor>
-        <from id="afghanistan">Afghanistan</from>
-        <description>Official visit. In U.S. March 25–April 9; visited New York City, Santa Barbara
-            (Calif.), and Chicago.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>20</id>
-        <start-date>1967-04-03</start-date>
-        <end-date>1967-04-05</end-date>
-        <visitor>President Cevdet Sunay</visitor>
-        <from id="turkey">Turkey</from>
-        <description>State visit. In U.S. April 2–13; visited Philadelphia, Cape Kennedy, Palm
-            Springs, Los Angeles, San Francisco, Kansas City, Chicago, Detroit, Lansing, Niagara
-            Falls, and New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>21</id>
-        <start-date>1967-04-06</start-date>
-        <end-date>1967-04-06</end-date>
-        <visitor>President-elect Anastasio Somoza Debayle</visitor>
-        <from id="nicaragua">Nicaragua</from>
-        <description>Informal visit. Arrived in U.S. March 18; visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>22</id>
-        <start-date>1967-05-09</start-date>
-        <end-date>1967-05-11</end-date>
-        <visitor>Prime Minister Yen Chia-kan</visitor>
-        <from id="taiwan">China, Republic of</from>
-        <description>Official visit. In U.S. May 7–25; visited San Francisco, Williamsburg, Cape
-            Kennedy, Houston, New York City, Seattle, San Francisco, Los Angeles, and
-            Honolulu.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>23</id>
-        <start-date>1967-06-01</start-date>
-        <end-date>1967-06-02</end-date>
-        <visitor>Prime Minister Harold E. Holt </visitor>
-        <from id="australia">Australia</from>
-        <description>Official visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>24</id>
-        <start-date>1967-06-02</start-date>
-        <end-date>1967-06-03</end-date>
-        <visitor>Prime Minister Harold Wilson</visitor>
-        <from id="united-kingdom">United Kingdom</from>
-        <description>Official visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>25</id>
-        <start-date>1967-06-08</start-date>
-        <end-date>1967-06-10</end-date>
-        <visitor>President Hastings Kamuzu Banda</visitor>
-        <from id="malawi">Malawi</from>
-        <description>Private visit. In U.S. June 2–11; visited Amherst (Mass.), and Kansas
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>26</id>
-        <start-date>1967-06-22</start-date>
-        <end-date>1967-06-22</end-date>
-        <visitor>Prime Minister Jens Otto Krag</visitor>
-        <from id="denmark">Denmark</from>
-        <description>Informal visit. Discussed the Middle East crisis with President
-            Johnson.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>27</id>
-        <start-date>1967-06-22</start-date>
-        <end-date>1967-06-22</end-date>
-        <visitor>Prime Minister Aldo Moro</visitor>
-        <from id="italy">Italy</from>
-        <description>Informal visit. Discussed the Middle East crisis with President
-            Johnson.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>28</id>
-        <start-date>1967-06-23</start-date>
-        <end-date>1967-06-25</end-date>
-        <visitor>Chairman Aleksei N. Kosygin</visitor>
-        <from id="russia">U.S.S.R.</from>
-        <description>Informal meetings with President Johnson at Glassboro (N.J.). Kosygin led the
-            Soviet delegation to the 5th Emergency Session of the U.N. General
-            Assembly.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>29</id>
-        <start-date>1967-06-26</start-date>
-        <end-date>1967-06-26</end-date>
-        <visitor>Prime Minister Ion Gheorghe Maurer</visitor>
-        <from id="romania">Romania</from>
-        <description>Informal visit. Departed U.S. June 27; visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>30</id>
-        <start-date>1967-06-27</start-date>
-        <end-date>1967-06-29</end-date>
-        <visitor>King Bhumibol Adulyadej</visitor>
-        <from id="thailand">Thailand</from>
-        <description>Official visit. In U.S. June 6–29; visited Honolulu, New York City, North Adams
-            (Mass.), Los Angeles, Tarrytown (N.Y.), and North Haven (Me.). Visited Canada June
-            20–24.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>31</id>
-        <start-date>1967-06-28</start-date>
-        <end-date>1967-06-28</end-date>
-        <visitor>King Hussein</visitor>
-        <from id="jordan">Jordan</from>
-        <description>Informal visit while attending U.N. General Assembly session; in U.S. June
-            24–30.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>32</id>
-        <start-date>1967-07-17</start-date>
-        <end-date>1967-07-19</end-date>
-        <visitor>President Asgeir Asgeirsson</visitor>
-        <from id="iceland">Iceland</from>
-        <description>Informal visit. In U.S. July 17–August 5; visited New York City and Boston.
-            Travelled to Canada July 28–August 2.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>33</id>
-        <start-date>1967-08-13</start-date>
-        <end-date>1967-08-19</end-date>
-        <visitor>Chancellor Kurt-Georg Kiesinger</visitor>
-        <from id="germany">Germany, Federal Republic of</from>
-        <description>Official visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>34</id>
-        <start-date>1967-08-14</start-date>
-        <end-date>1967-08-14</end-date>
-        <visitor>President Gregoire Kayibanda</visitor>
-        <from id="rwanda">Rwanda</from>
-        <description>Informal visit. In U.S. August 13–14; visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>35</id>
-        <start-date>1967-08-17</start-date>
-        <end-date>1967-08-19</end-date>
-        <visitor>President Felix Houphouet-Boigny</visitor>
-        <from id="cote-divoire">Ivory Coast</from>
-        <description>Official visit. Travelled to Canada August 22–26, and made a private visit to
-            New York City, August 26– September 1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>36</id>
-        <start-date>1967-08-22</start-date>
-        <end-date>1967-08-24</end-date>
-        <visitor>Shah Mohammad Reza Pahlavi</visitor>
-        <from id="iran">Iran</from>
-        <description>Official visit. Arrived in New York City August 21.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>37</id>
-        <start-date>1967-09-11</start-date>
-        <end-date>1967-09-11</end-date>
-        <visitor>King Constantine</visitor>
-        <from id="greece">Greece</from>
-        <description>Informal visit. Arrived in New York City August 24; visited Canada August
-            26–September 9. Visited Newport (R.I.) September 10 and 12.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>38</id>
-        <start-date>1967-09-18</start-date>
-        <end-date>1967-09-20</end-date>
-        <visitor>President Giuseppe Saragat</visitor>
-        <from id="italy">Italy</from>
-        <description>Official visit. Afterwards visited Los Angeles. Departed U.S. September
-            21.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>39</id>
-        <start-date>1967-09-22</start-date>
-        <end-date>1967-09-23</end-date>
-        <visitor>Prime Minister Leabua Jonathan</visitor>
-        <from id="lesotho">Lesotho</from>
-        <description>Informal visit. Afterwards visited New York City and San Diego. Departed U.S.
-            September 30.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>40</id>
-        <start-date>1967-09-26</start-date>
-        <end-date>1967-09-27</end-date>
-        <visitor>President Hamani Diori</visitor>
-        <from id="niger">Niger</from>
-        <description>Official visit. In U.S. September 25–October11; visited the Virgin Islands,
-            Tucson, Chicago, New York City, and San Francisco.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>41</id>
-        <start-date>1967-09-27</start-date>
-        <end-date>1967-09-27</end-date>
-        <visitor>Prime Minister Jens Otto Krag</visitor>
-        <from id="denmark">Denmark</from>
-        <description>Informal visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>42</id>
-        <start-date>1967-10-04</start-date>
-        <end-date>1967-10-04</end-date>
-        <visitor>Prime Minister G. Borg Olivier</visitor>
-        <from id="malta">Malta</from>
-        <description>Informal visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>43</id>
-        <start-date>1967-10-10</start-date>
-        <end-date>1967-10-12</end-date>
-        <visitor>Chairman Joseph Arthur Ankrah</visitor>
-        <from id="ghana">Ghana</from>
-        <description>Private visit. In U.S. October 9–14; visited Tampa, Cape Kennedy, and New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>44</id>
-        <start-date>1967-10-13</start-date>
-        <end-date>1967-10-14</end-date>
-        <visitor>Prime Minister Hugh Shearer</visitor>
-        <from id="jamaica">Jamaica</from>
-        <description>Informal visit. In U.S. October 7–14; visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>45</id>
-        <start-date>1967-10-17</start-date>
-        <end-date>1967-10-19</end-date>
-        <visitor>Prime Minister Lee Kuan Yew</visitor>
-        <from id="singapore">Singapore</from>
-        <description>Official visit. In U.S. October 16–27; visited Williamsburg, New York City,
-            Boston, St. Louis, Chicago, San Francisco, and Los Angeles.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>46</id>
-        <start-date>1967-10-20</start-date>
-        <end-date>1967-10-21</end-date>
-        <visitor>Prime Minister Souvanna Phouma</visitor>
-        <from id="laos">Laos</from>
-        <description>Informal visit. Arrived in U.S. October 10; visited New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>47</id>
-        <start-date>1967-10-24</start-date>
-        <end-date>1967-10-25</end-date>
-        <visitor>President Ahmadou Ahidjo</visitor>
-        <from id="cameroon">Cameroon</from>
-        <description>Informal visit. In U.S. October 19–25; visited New York City and
-            Pittsburgh.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>48</id>
-        <start-date>1967-10-26</start-date>
-        <end-date>1967-10-28</end-date>
-        <visitor>President Gustavo Diaz-Ordaz</visitor>
-        <from id="mexico">Mexico</from>
-        <description>State visit at Washington and El Paso (Tex.). Addressed Joint Session of U.S.
-            Congress October 27.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>49</id>
-        <start-date>1967-11-01</start-date>
-        <end-date>1967-11-03</end-date>
-        <visitor>King Mahendra</visitor>
-        <from id="nepal">Nepal</from>
-        <description>State visit. In U.S. October 30–December 3; visited Williamsburg, Cape Kennedy,
-            and New York City. Hunting trip in Alaska after November 9.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>50</id>
-        <start-date>1967-11-06</start-date>
-        <end-date>1967-11-09</end-date>
-        <visitor>King Hussein</visitor>
-        <from id="jordan">Jordan</from>
-        <description>Informal visit. In U.S. November 2–12; visited New York City and
-            Chicago.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>51</id>
-        <start-date>1967-11-13</start-date>
-        <end-date>1967-11-15</end-date>
-        <visitor>Prime Minister Eisaku Sato</visitor>
-        <from id="japan">Japan</from>
-        <description>Official visit. In U.S. November 12–19; visited New York City and Springfield
-            (Ill.).</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>52</id>
-        <start-date>1968-01-07</start-date>
-        <end-date>1968-01-09</end-date>
-        <visitor>Prime Minister Levi Eshkol</visitor>
-        <from id="israel">Israel</from>
-        <description>Informal visit at LBJ Ranch. In U.S. January 4–12; visited New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>53</id>
-        <start-date>1968-02-07</start-date>
-        <end-date>1968-02-09</end-date>
-        <visitor>Prime Minister Harold Wilson</visitor>
-        <from id="united-kingdom">United Kingdom</from>
-        <description>Informal visit. Afterwards visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>54</id>
-        <start-date>1968-03-14</start-date>
-        <end-date>1968-03-16</end-date>
-        <visitor>Prime Minister Mohammed Haji Ibrahim Egal</visitor>
-        <from id="somalia">Somalia</from>
-        <description>Official visit. In U.S. March 13–21; visited New York City, Knoxville, Cape
-            Kennedy, and Syracuse (N.Y.).</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>55</id>
-        <start-date>1968-03-20</start-date>
-        <end-date>1968-03-22</end-date>
-        <visitor>President Alfredo Stroessner</visitor>
-        <from id="paraguay">Paraguay</from>
-        <description>Official visit. In U.S. March 19–23; visited Williamsburg and New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>56</id>
-        <start-date>1968-03-27</start-date>
-        <end-date>1968-03-28</end-date>
-        <visitor>President William V. S. Tubman</visitor>
-        <from id="liberia">Liberia</from>
-        <description>Official visit. In U.S. March 23–April 3; visited New York City, Baltimore, and
-            Cedar Rapids (Ia.).</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>57</id>
-        <start-date>1968-04-10</start-date>
-        <end-date>1968-04-12</end-date>
-        <visitor>Chancellor Josef Klaus</visitor>
-        <from id="austria">Austria</from>
-        <description>Official visit. In U.S. April 6–17; visited New York City, Chicago, San
-            Francisco, and Los Angeles.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>58</id>
-        <start-date>1968-04-17</start-date>
-        <end-date>1968-04-18</end-date>
-        <visitor>President Chung Hee Park</visitor>
-        <from id="korea-south">Korea</from>
-        <description>Discussed the crisis in Korea and the Vietnam conflict with President Johnson
-            in Honolulu.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>59</id>
-        <start-date>1968-04-25</start-date>
-        <end-date>1968-04-27</end-date>
-        <visitor>King Olav V</visitor>
-        <from id="norway">Norway</from>
-        <description>State visit. In U.S. April 24–May 10; visited Williamsburg, Norfolk, Cape
-            Kennedy, New Orleans, Los Angeles, San Francisco, Seattle, Minneapolis, Duluth, Madison,
-            Chicago, and New York City. Private visit after May 2.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>60</id>
-        <start-date>1968-05-08</start-date>
-        <end-date>1968-05-09</end-date>
-        <visitor>Prime Minister Seewoosagur Ramgoolam</visitor>
-        <from id="mauritius">Mauritius</from>
-        <description>Informal visit. Afterwards visited Cape Kennedy. Departed U.S. May
-            10.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>61</id>
-        <start-date>1968-05-08</start-date>
-        <end-date>1968-05-10</end-date>
-        <visitor>Prime Minister Thanom Kittikachorn</visitor>
-        <from id="thailand">Thailand</from>
-        <description>Official visit. In U.S. May 2–13; visited Miami (private), Cape Kennedy,
-            Lansing (Mich.), and New York City. Private visit to Washington and Los Angeles, May
-            11–13.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>62</id>
-        <start-date>1968-05-15</start-date>
-        <end-date>1968-05-17</end-date>
-        <visitor>President Habib Bourguiba</visitor>
-        <from id="tunisia">Tunisia</from>
-        <description>State visit. In U.S. May 12–21; visited Williamsburg (private), Houston, San
-            Antonio, and New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>63</id>
-        <start-date>1968-05-26</start-date>
-        <end-date>1968-05-28</end-date>
-        <visitor>Prime Minister John G. Gorton</visitor>
-        <from id="australia">Australia</from>
-        <description>Official visit. In U.S. May 23–31; visited Honolulu, San Francisco, and New
-            York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>64</id>
-        <start-date>1968-06-04</start-date>
-        <end-date>1968-06-06</end-date>
-        <visitor>President Jose Trejos Fernandez</visitor>
-        <from id="costa-rica">Costa Rica</from>
-        <description>Official visit. In U.S. June 3– 7; visited Williamsburg, San Antonio, and
-            Miami.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>65</id>
-        <start-date>1968-06-07</start-date>
-        <end-date>1968-06-07</end-date>
-        <visitor>Prime Minister Hugh Shearer</visitor>
-        <from id="jamaica">Jamaica</from>
-        <description>Informal visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>66</id>
-        <start-date>1968-06-12</start-date>
-        <end-date>1968-06-12</end-date>
-        <visitor>Shah Mohammad Reza Pahlavi</visitor>
-        <from id="iran">Iran</from>
-        <description>Private visit. In U.S. June 10–16; visited New York City, St. Louis, Cambridge
-            (Mass.), and Chicago.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>67</id>
-        <start-date>1968-07-05</start-date>
-        <end-date>1968-07-06</end-date>
-        <visitor>President Rene Barrientos Ortuno</visitor>
-        <from id="bolivia">Bolivia</from>
-        <description>Informal visit at LBJ Ranch, and Bolivia Day ceremonies in San Antonio
-            (Tex.).</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>68</id>
-        <start-date>1968-07-19</start-date>
-        <end-date>1968-07-20</end-date>
-        <visitor>President Nguyen Van Thieu</visitor>
-        <from id="vietnam">Vietnam</from>
-        <description>Discussed military developments in Vietnam and political developments in Paris
-            with President Johnson in Honolulu.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>69</id>
-        <start-date>1968-07-26</start-date>
-        <end-date>1968-07-26</end-date>
-        <visitor>Prime Minister Forbes Burnham</visitor>
-        <from id="guyana">Guyana</from>
-        <description>Informal visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>70</id>
-        <start-date>1968-09-11</start-date>
-        <end-date>1968-09-12</end-date>
-        <visitor>Prime Minister Errol W. Barrow</visitor>
-        <from id="barbados">Barbados</from>
-        <description>Official visit. Private visit to New York City and Philadelphia September 8–10,
-            and to San Francisco September 13–16.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>71</id>
-        <start-date>1968-09-18</start-date>
-        <end-date>1968-09-18</end-date>
-        <visitor>Prime Minister Makhosini Dlamini</visitor>
-        <from id="swaziland">Swaziland</from>
-        <description>Informal visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>72</id>
-        <start-date>1968-10-02</start-date>
-        <end-date>1968-10-04</end-date>
-        <visitor>President Ngarta Francois Tombalbaye</visitor>
-        <from id="chad">Chad</from>
-        <description>Official visit; visited San Antonio, Lubbock, Cape Kennedy, and New York City.
-            Private visit after October 6.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>73</id>
-        <start-date>1968-10-09</start-date>
-        <end-date>1968-10-10</end-date>
-        <visitor>Prime Minister Keith J. Holyoake</visitor>
-        <from id="new-zealand">New Zealand</from>
-        <description>Official visit. In U.S. October 6–16; attended ANZUS Council meeting and
-            visited Los Angeles, New York City, and Seattle.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>74</id>
-        <start-date>1968-12-05</start-date>
-        <end-date>1968-12-06</end-date>
-        <visitor>Prime Minister Amir Abbas Hoveyda</visitor>
-        <from id="iran">Iran</from>
-        <description>Official visit. In U.S. December 3–16; visited New York City, Cape Kennedy,
-            Palm Beach, Los Angeles, and Honolulu.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>75</id>
-        <start-date>1968-12-10</start-date>
-        <end-date>1968-12-10</end-date>
-        <visitor>Prime Minister Lee Kuan Yew</visitor>
-        <from id="singapore">Singapore</from>
-        <description>Informal visit. Arrived in U.S. November 14; visiting fellow at Harvard
-            University’s John F. Kennedy School of Government.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>76</id>
-        <start-date>1968-12-11</start-date>
-        <end-date>1968-12-13</end-date>
-        <visitor>Amir Sabah al-Salim al-Sabah</visitor>
-        <from id="kuwait">Kuwait</from>
-        <description>State visit. Arrived in U.S. December 10; visited Annapolis, Cape Kennedy, Palm
-            Beach, and New York City. Private visit to New York City and Washington after December
-            17.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>77</id>
-        <start-date>1968-12-13</start-date>
-        <end-date>1968-12-13</end-date>
-        <visitor>President Gustavo Gustavo Diaz Ordaz</visitor>
-        <from id="mexico">Mexico</from>
-        <description>Official visit for opening of Lopez Mateo Channel of Rio Grande, El Paso,
-            Texas.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>78</id>
-        <start-date>1969-03-05</start-date>
-        <end-date>1969-03-05</end-date>
-        <visitor>President Emile D. Zinsou</visitor>
-        <from id="benin">Dahomey (Benin)</from>
-        <description>Private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>79</id>
-        <start-date>1969-03-24</start-date>
-        <end-date>1969-03-25</end-date>
-        <visitor>Prime Minister Pierre Elliott Trudeau</visitor>
-        <from id="canada">Canada</from>
-        <description>Official visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>80</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>President Charles de Gaulle</visitor>
-        <from id="france">France</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon March
-            31</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>81</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>President Seretse Khama</visitor>
-        <from id="botswana">Botswana</from>
-        <description>Consultations with IBRD; attended Eisenhower funeral; met with President Nixon
-            March 31.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>82</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>Chancellor Kurt-Georg Kiesinger</visitor>
-        <from id="germany">Germany, Federal Republic of</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>83</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>Prime Minister Mariano Rumor</visitor>
-        <from id="italy">Italy</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>84</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>Shah Mohammad Reza Pahlavi</visitor>
-        <from id="iran">Iran</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>85</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>Prime Minister Il Kwon Chung</visitor>
-        <from id="korea-south">Korea</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>86</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>President Ferdinand Marcos</visitor>
-        <from id="philippines">Philippines</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>87</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>Prime Minister Marcelo Jose das Neves Alves Caetano</visitor>
-        <from id="portugal">Portugal</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>88</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>President Habib Bourguiba</visitor>
-        <from id="tunisia">Tunisia</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>89</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>Prime Minister Suleiman Demirel</visitor>
-        <from id="turkey">Turkey</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon April
-            1.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>90</id>
-        <start-date>1969-03-31</start-date>
-        <end-date>1969-04-01</end-date>
-        <visitor>King Baudouin I</visitor>
-        <from id="belgium">Belgium</from>
-        <description>Attended funeral of former President Eisenhower; met with President Nixon March
-            31.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>91</id>
-        <start-date>1969-04-08</start-date>
-        <end-date>1969-04-10</end-date>
-        <visitor>King Hussein</visitor>
-        <from id="jordan">Jordan</from>
-        <description>Official visit. In U.S. April 7–18; visited Williamsburg and McDill AFB.
-            Private visit to New York City after April 11.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>92</id>
-        <start-date>1969-04-10</start-date>
-        <end-date>1969-04-11</end-date>
-        <visitor>Prime Minister Bjarni Benediktsson</visitor>
-        <from id="iceland">Iceland</from>
-        <description>Met with President Nixon April 11 after NATO Ministerial Meeting.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>93</id>
-        <start-date>1969-05-05</start-date>
-        <end-date>1969-05-08</end-date>
-        <visitor>Prime Minister John G. Gorton</visitor>
-        <from id="australia">Australia</from>
-        <description>Official visit. In U.S. May 1–8; visited Williamsburg.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>94</id>
-        <start-date>1969-05-12</start-date>
-        <end-date>1969-05-14</end-date>
-        <visitor>Prime Minister Lee Kuan Yew</visitor>
-        <from id="singapore">Singapore</from>
-        <description>Private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>95</id>
-        <start-date>1969-05-19</start-date>
-        <end-date>1969-05-19</end-date>
-        <visitor>Prime Minister Siaka Stevens</visitor>
-        <from id="sierra-leone">Sierra Leone</from>
-        <description>Official visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>96</id>
-        <start-date>1969-05-20</start-date>
-        <end-date>1969-05-21</end-date>
-        <visitor>King Baudouin I</visitor>
-        <from id="belgium">Belgium</from>
-        <description>Informal visit. In U.S. May 17–23; visited Palm Beach, Cape Kennedy, New York
-            City, and Houston.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>97</id>
-        <start-date>1969-05-27</start-date>
-        <end-date>1969-05-29</end-date>
-        <visitor>Prime Minister Petrus J. S. de Jong</visitor>
-        <from id="netherlands">Netherlands</from>
-        <description>Official visit. In U.S. May 26–29; visited Williamsburg, Annapolis, and New
-            York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>98</id>
-        <start-date>1969-06-08</start-date>
-        <end-date>1969-06-08</end-date>
-        <visitor>President Nguyen Van Thieu</visitor>
-        <from id="vietnam">Vietnam</from>
-        <description>Met with President Nixon at Midway Island.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>99</id>
-        <start-date>1969-06-12</start-date>
-        <end-date>1969-06-13</end-date>
-        <visitor>President Carlos Lleras Restrepo</visitor>
-        <from id="colombia">Colombia</from>
-        <description>State visit. In U.S. June 11–18; visited Williamsburg and New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>100</id>
-        <start-date>1969-07-07</start-date>
-        <end-date>1969-07-10</end-date>
-        <visitor>Emperor Haile Selassie</visitor>
-        <from id="ethiopia">Ethiopia</from>
-        <description>State visit. Afterwards visited Atlanta and Cape Kennedy. Departed U.S. July
-            11.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>101</id>
-        <start-date>1969-08-07</start-date>
-        <end-date>1969-08-09</end-date>
-        <visitor>Chancellor Kurt-Georg Kiesinger</visitor>
-        <from id="germany">Germany, Federal Republic of</from>
-        <description>Official visit. In U.S. August 5–9; visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>102</id>
-        <start-date>1969-08-20</start-date>
-        <end-date>1969-08-22</end-date>
-        <visitor>President Chung Hee Park</visitor>
-        <from id="korea-south">Korea</from>
-        <description>Official visit at San Francisco. Private visit afterward until August
-            24.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>103</id>
-        <start-date>1969-09-15</start-date>
-        <end-date>1969-09-18</end-date>
-        <visitor>Prime Minister Keith J. Holyoake</visitor>
-        <from id="new-zealand">New Zealand</from>
-        <description>Official visit. In U.S. September 14–21; visited Los Angeles and New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>104</id>
-        <start-date>1969-09-18</start-date>
-        <end-date>1969-09-18</end-date>
-        <visitor>Prime Minister Seewoosagur Ramgoolam</visitor>
-        <from id="mauritius">Mauritius</from>
-        <description>Met with President Nixon in New York City while attending a U.N. General
-            Assembly session.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>105</id>
-        <start-date>1969-09-25</start-date>
-        <end-date>1969-09-26</end-date>
-        <visitor>Prime Minister Golda Meir</visitor>
-        <from id="israel">Israel</from>
-        <description>Official visit. In U.S. September 24–October 5. Private visit to Washington
-            September 27–28; then visited New York City, Los Angeles, and Milwaukee.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>106</id>
-        <start-date>1969-10-06</start-date>
-        <end-date>1969-10-10</end-date>
-        <visitor>Prime Minister Souvanna Phouma</visitor>
-        <from id="laos">Laos</from>
-        <description>Official visit. In U.S. October 3–11; visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>107</id>
-        <start-date>1969-10-06</start-date>
-        <end-date>1969-10-06</end-date>
-        <visitor>Prime Minister Mohammed Haji Ibrahim Egal</visitor>
-        <from id="somalia">Somali Republic</from>
-        <description>Private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>108</id>
-        <start-date>1969-10-09</start-date>
-        <end-date>1969-10-09</end-date>
-        <visitor>President Ahmadou Ahidjo</visitor>
-        <from id="cameroon">Cameroon</from>
-        <description>Private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>109</id>
-        <start-date>1969-10-13</start-date>
-        <end-date>1969-10-13</end-date>
-        <visitor>Prime Minister Tunku Abdul Rahman </visitor>
-        <from id="malaysia">Malaysia</from>
-        <description>Private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>110</id>
-        <start-date>1969-10-20</start-date>
-        <end-date>1969-10-20</end-date>
-        <visitor>Prime Minister Kofi Busia</visitor>
-        <from id="ghana">Ghana</from>
-        <description>Private visit</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>111</id>
-        <start-date>1969-10-21</start-date>
-        <end-date>1969-10-23</end-date>
-        <visitor>Shah Mohammad Reza Pahlavi</visitor>
-        <from id="iran">Iran</from>
-        <description>Official visit. In U.S. October 17; visited Williamsburg and New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>112</id>
-        <start-date>1969-11-19</start-date>
-        <end-date>1969-11-21</end-date>
-        <visitor>Prime Minister Eisaku Sato</visitor>
-        <from id="japan">Japan</from>
-        <description>Official visit. In U.S. November 16–25; visited New York City and San
-            Francisco.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>2392</id>
         <start-date>1960-01-17</start-date>
         <end-date>1960-01-21</end-date>
@@ -1788,6 +356,18 @@
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2670</id>
+        <start-date>1960-12-12</start-date>
+        <end-date>1960-12-12</end-date>
+        <visitor>President Mokhtar Ould Daddah</visitor>
+        <from id="mauritania">Mauritania</from>
+        <description>Met President Eisenhower.</description>
+        <created-by>marrsaw</created-by>
+        <created-datetime>2014-01-28T10:28:43.157-05:00</created-datetime>
+        <last-modified-by>marrsaw</last-modified-by>
+        <last-modified-datetime>2014-01-28T10:28:43.157-05:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2419</id>
@@ -3334,24 +1914,24 @@
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>2540</id>
-        <start-date>1965-04-19</start-date>
-        <end-date>1965-04-22</end-date>
-        <visitor>Prime Minister Moro</visitor>
-        <from id="italy">Italy</from>
-        <description>Official visit. In U.S. April 19–23. Visited New York City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>2541</id>
         <start-date>1965-04-03</start-date>
         <end-date>1965-04-03</end-date>
         <visitor>Prime Minister Pearson</visitor>
         <from id="canada">Canada</from>
         <description>Informal visit at Camp David (Maryland).</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2540</id>
+        <start-date>1965-04-19</start-date>
+        <end-date>1965-04-22</end-date>
+        <visitor>Prime Minister Moro</visitor>
+        <from id="italy">Italy</from>
+        <description>Official visit. In U.S. April 19–23. Visited New York City.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3410,6 +1990,20 @@
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>2671</id>
+        <start-date>1965-10-04</start-date>
+        <end-date>1965-10-04</end-date>
+        <visitor>Pope Paul VI</visitor>
+        <from id="holy-see">Vatican City</from>
+        <description>Met President Johnson in New York City. Also addressed the UN General Assembly,
+            presided over mass at Yankee Stadium, and attended the New York World’s
+            Fair.</description>
+        <created-by>marrsaw</created-by>
+        <created-datetime>2014-02-20T10:28:43.157-05:00</created-datetime>
+        <last-modified-by>marrsaw</last-modified-by>
+        <last-modified-datetime>2014-02-20T10:28:43.157-05:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>2546</id>
         <start-date>1965-12-14</start-date>
         <end-date>1965-12-16</end-date>
@@ -3447,29 +2041,1435 @@
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>2670</id>
-        <start-date>1960-12-12</start-date>
-        <end-date>1960-12-12</end-date>
-        <visitor>President Mokhtar Ould Daddah</visitor>
-        <from id="mauritania">Mauritania</from>
-        <description>Met President Eisenhower.</description>
-        <created-by>marrsaw</created-by>
-        <created-datetime>2014-01-28T10:28:43.157-05:00</created-datetime>
-        <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-01-28T10:28:43.157-05:00</last-modified-datetime>
+        <id>1</id>
+        <start-date>1966-02-06</start-date>
+        <end-date>1966-02-08</end-date>
+        <visitor>President Nguyen Van Thieu</visitor>
+        <from id="vietnam">Vietnam</from>
+        <description>Official visit. Conferred with President Johnson in Honolulu on military and
+            economic assistance to Vietnam.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>2671</id>
-        <start-date>1965-10-04</start-date>
-        <end-date>1965-10-04</end-date>
-        <visitor>Pope Paul VI</visitor>
-        <from id="holy-see">Vatican City</from>
-        <description>Met President Johnson in New York City. Also addressed the UN General Assembly,
-            presided over mass at Yankee Stadium, and attended the New York World’s
-            Fair.</description>
-        <created-by>marrsaw</created-by>
-        <created-datetime>2014-02-20T10:28:43.157-05:00</created-datetime>
+        <id>2</id>
+        <start-date>1966-03-28</start-date>
+        <end-date>1966-03-29</end-date>
+        <visitor>Prime Minister Indira Gandhi</visitor>
+        <from id="india">India</from>
+        <description>Official visit. In U.S. March 27–April 1; visited Williamsburg and New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>3</id>
+        <start-date>1966-04-22</start-date>
+        <end-date>1966-04-27</end-date>
+        <visitor>Prime Minister Jens Otto Krag</visitor>
+        <from id="denmark">Denmark</from>
+        <description>Private visit. Arrived in U.S. April 20; visited New York City and Omaha. Met
+            with President Johnson April 27.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>4</id>
+        <start-date>1966-06-21</start-date>
+        <end-date>1966-06-23</end-date>
+        <visitor>King Faisal</visitor>
+        <from id="saudi-arabia">Saudi Arabia</from>
+        <description>State visit. In U.S. June 20–30; visited Williamsburg and New
+            York</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>5</id>
+        <start-date>1966-06-28</start-date>
+        <end-date>1966-06-29</end-date>
+        <visitor>Prime Minister Harold E. Holt</visitor>
+        <from id="australia">Australia</from>
+        <description>Informal visit while en route to London. Also visited New York City. Departed
+            U.S. July 6</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>6</id>
+        <start-date>1966-07-13</start-date>
+        <end-date>1966-07-14</end-date>
+        <visitor>Prime Minister Harold E. Holt</visitor>
+        <from id="australia">Australia</from>
+        <description>Informal visit during return trip from London.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>7</id>
+        <start-date>1966-07-21</start-date>
+        <end-date>1966-07-23</end-date>
+        <visitor>Prime Minister Forbes Burnham</visitor>
+        <from id="guyana">Guyana</from>
+        <description>Informal visit. Afterwards visited San Francisco, Los Angeles, Houston, and
+            Austin. Departed U.S. July 30.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>8</id>
+        <start-date>1966-07-28</start-date>
+        <end-date>1966-07-29</end-date>
+        <visitor>Prime Minister Harold Wilson</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Informal visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>9</id>
+        <start-date>1966-08-02</start-date>
+        <end-date>1966-08-03</end-date>
+        <visitor>President Zalman Shazar</visitor>
+        <from id="israel">Israel</from>
+        <description>In U.S. July 28–August 4; visited New York City. Informal meeting with
+            President Johnson.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>10</id>
+        <start-date>1966-09-08</start-date>
+        <end-date>1966-09-10</end-date>
+        <visitor>Chairman Ne Win</visitor>
+        <from id="burma">Burma</from>
+        <description>State visit. In U.S. September 8–10; visited New York City, Williamsburg,
+            California, and Hawaii.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-02-20T10:28:43.157-05:00</last-modified-datetime>
+        <last-modified-datetime>2013-06-27T10:28:43.157-05:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>11</id>
+        <start-date>1966-09-14</start-date>
+        <end-date>1966-09-16</end-date>
+        <visitor>President Ferdinand Marcos</visitor>
+        <from id="philippines">Philippines</from>
+        <description>State visit. In U.S. September 12–27. Addressed Congress September 15. Visited
+            Honolulu, Los Angeles, New York City, Chicago, Ann Arbor, and San
+            Francisco.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>12</id>
+        <start-date>1966-09-26</start-date>
+        <end-date>1966-09-27</end-date>
+        <visitor>Chancellor Ludwig Erhard</visitor>
+        <from id="germany">Germany, Federal Republic of</from>
+        <description>Informal visit. In U.S. September 24–27; visited Cape Kennedy.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>13</id>
+        <start-date>1966-09-28</start-date>
+        <end-date>1966-09-28</end-date>
+        <visitor>President Leopold Sedar Senghor</visitor>
+        <from id="senegal">Senegal</from>
+        <description>State Visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>14</id>
+        <start-date>1966-10-12</start-date>
+        <end-date>1966-10-13</end-date>
+        <visitor>Prime Minister Souvanna Phouma</visitor>
+        <from id="laos">Laos</from>
+        <description>Informal meetings with President Johnson in New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>15</id>
+        <start-date>1967-01-25</start-date>
+        <end-date>1967-01-28</end-date>
+        <visitor>President-elect Arthur da Costa e Silva</visitor>
+        <from id="brazil">Brazil</from>
+        <description>Informal visit. In U.S. January 18–31; visited Honolulu, Los Angeles, Cape
+            Kennedy, and New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>16</id>
+        <start-date>1967-02-09</start-date>
+        <end-date>1967-02-11</end-date>
+        <visitor>King Hassan II</visitor>
+        <from id="morocco">Morocco</from>
+        <description>Informal visit. Afterwards made a private visit to New York City. In U.S.
+            February 8–17.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>17</id>
+        <start-date>1967-02-13</start-date>
+        <end-date>1967-02-15</end-date>
+        <visitor>Emperor Haile Selassie</visitor>
+        <from id="ethiopia">Ethiopia</from>
+        <description>State visit. Afterwards visited New York City. Departed U.S. February
+            17.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>18</id>
+        <start-date>1967-03-14</start-date>
+        <end-date>1967-03-16</end-date>
+        <visitor>Prime Minister Il Kwon Chung</visitor>
+        <from id="korea-south">Korea</from>
+        <description>Informal visit. In U.S. March 12–17; visited Philadelphia, New York City, San
+            Francisco, and Los Angeles.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>19</id>
+        <start-date>1967-03-28</start-date>
+        <end-date>1967-03-30</end-date>
+        <visitor>Prime Minister Muhammad Hashim Maiwandwal</visitor>
+        <from id="afghanistan">Afghanistan</from>
+        <description>Official visit. In U.S. March 25–April 9; visited New York City, Santa Barbara
+            (Calif.), and Chicago.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>20</id>
+        <start-date>1967-04-03</start-date>
+        <end-date>1967-04-05</end-date>
+        <visitor>President Cevdet Sunay</visitor>
+        <from id="turkey">Turkey</from>
+        <description>State visit. In U.S. April 2–13; visited Philadelphia, Cape Kennedy, Palm
+            Springs, Los Angeles, San Francisco, Kansas City, Chicago, Detroit, Lansing, Niagara
+            Falls, and New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>21</id>
+        <start-date>1967-04-06</start-date>
+        <end-date>1967-04-06</end-date>
+        <visitor>President-elect Anastasio Somoza Debayle</visitor>
+        <from id="nicaragua">Nicaragua</from>
+        <description>Informal visit. Arrived in U.S. March 18; visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>22</id>
+        <start-date>1967-05-09</start-date>
+        <end-date>1967-05-11</end-date>
+        <visitor>Prime Minister Yen Chia-kan</visitor>
+        <from id="taiwan">China, Republic of</from>
+        <description>Official visit. In U.S. May 7–25; visited San Francisco, Williamsburg, Cape
+            Kennedy, Houston, New York City, Seattle, San Francisco, Los Angeles, and
+            Honolulu.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>23</id>
+        <start-date>1967-06-01</start-date>
+        <end-date>1967-06-02</end-date>
+        <visitor>Prime Minister Harold E. Holt </visitor>
+        <from id="australia">Australia</from>
+        <description>Official visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>24</id>
+        <start-date>1967-06-02</start-date>
+        <end-date>1967-06-03</end-date>
+        <visitor>Prime Minister Harold Wilson</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Official visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>25</id>
+        <start-date>1967-06-08</start-date>
+        <end-date>1967-06-10</end-date>
+        <visitor>President Hastings Kamuzu Banda</visitor>
+        <from id="malawi">Malawi</from>
+        <description>Private visit. In U.S. June 2–11; visited Amherst (Mass.), and Kansas
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>26</id>
+        <start-date>1967-06-22</start-date>
+        <end-date>1967-06-22</end-date>
+        <visitor>Prime Minister Jens Otto Krag</visitor>
+        <from id="denmark">Denmark</from>
+        <description>Informal visit. Discussed the Middle East crisis with President
+            Johnson.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>27</id>
+        <start-date>1967-06-22</start-date>
+        <end-date>1967-06-22</end-date>
+        <visitor>Prime Minister Aldo Moro</visitor>
+        <from id="italy">Italy</from>
+        <description>Informal visit. Discussed the Middle East crisis with President
+            Johnson.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>28</id>
+        <start-date>1967-06-23</start-date>
+        <end-date>1967-06-25</end-date>
+        <visitor>Chairman Aleksei N. Kosygin</visitor>
+        <from id="russia">U.S.S.R.</from>
+        <description>Informal meetings with President Johnson at Glassboro (N.J.). Kosygin led the
+            Soviet delegation to the 5th Emergency Session of the U.N. General
+            Assembly.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>29</id>
+        <start-date>1967-06-26</start-date>
+        <end-date>1967-06-26</end-date>
+        <visitor>Prime Minister Ion Gheorghe Maurer</visitor>
+        <from id="romania">Romania</from>
+        <description>Informal visit. Departed U.S. June 27; visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>30</id>
+        <start-date>1967-06-27</start-date>
+        <end-date>1967-06-29</end-date>
+        <visitor>King Bhumibol Adulyadej</visitor>
+        <from id="thailand">Thailand</from>
+        <description>Official visit. In U.S. June 6–29; visited Honolulu, New York City, North Adams
+            (Mass.), Los Angeles, Tarrytown (N.Y.), and North Haven (Me.). Visited Canada June
+            20–24.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>31</id>
+        <start-date>1967-06-28</start-date>
+        <end-date>1967-06-28</end-date>
+        <visitor>King Hussein</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Informal visit while attending U.N. General Assembly session; in U.S. June
+            24–30.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>32</id>
+        <start-date>1967-07-17</start-date>
+        <end-date>1967-07-19</end-date>
+        <visitor>President Asgeir Asgeirsson</visitor>
+        <from id="iceland">Iceland</from>
+        <description>Informal visit. In U.S. July 17–August 5; visited New York City and Boston.
+            Travelled to Canada July 28–August 2.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>33</id>
+        <start-date>1967-08-13</start-date>
+        <end-date>1967-08-19</end-date>
+        <visitor>Chancellor Kurt-Georg Kiesinger</visitor>
+        <from id="germany">Germany, Federal Republic of</from>
+        <description>Official visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>34</id>
+        <start-date>1967-08-14</start-date>
+        <end-date>1967-08-14</end-date>
+        <visitor>President Gregoire Kayibanda</visitor>
+        <from id="rwanda">Rwanda</from>
+        <description>Informal visit. In U.S. August 13–14; visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>35</id>
+        <start-date>1967-08-17</start-date>
+        <end-date>1967-08-19</end-date>
+        <visitor>President Felix Houphouet-Boigny</visitor>
+        <from id="cote-divoire">Ivory Coast</from>
+        <description>Official visit. Travelled to Canada August 22–26, and made a private visit to
+            New York City, August 26– September 1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>36</id>
+        <start-date>1967-08-22</start-date>
+        <end-date>1967-08-24</end-date>
+        <visitor>Shah Mohammad Reza Pahlavi</visitor>
+        <from id="iran">Iran</from>
+        <description>Official visit. Arrived in New York City August 21.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>37</id>
+        <start-date>1967-09-11</start-date>
+        <end-date>1967-09-11</end-date>
+        <visitor>King Constantine</visitor>
+        <from id="greece">Greece</from>
+        <description>Informal visit. Arrived in New York City August 24; visited Canada August
+            26–September 9. Visited Newport (R.I.) September 10 and 12.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>38</id>
+        <start-date>1967-09-18</start-date>
+        <end-date>1967-09-20</end-date>
+        <visitor>President Giuseppe Saragat</visitor>
+        <from id="italy">Italy</from>
+        <description>Official visit. Afterwards visited Los Angeles. Departed U.S. September
+            21.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>39</id>
+        <start-date>1967-09-22</start-date>
+        <end-date>1967-09-23</end-date>
+        <visitor>Prime Minister Leabua Jonathan</visitor>
+        <from id="lesotho">Lesotho</from>
+        <description>Informal visit. Afterwards visited New York City and San Diego. Departed U.S.
+            September 30.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>40</id>
+        <start-date>1967-09-26</start-date>
+        <end-date>1967-09-27</end-date>
+        <visitor>President Hamani Diori</visitor>
+        <from id="niger">Niger</from>
+        <description>Official visit. In U.S. September 25–October11; visited the Virgin Islands,
+            Tucson, Chicago, New York City, and San Francisco.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>41</id>
+        <start-date>1967-09-27</start-date>
+        <end-date>1967-09-27</end-date>
+        <visitor>Prime Minister Jens Otto Krag</visitor>
+        <from id="denmark">Denmark</from>
+        <description>Informal visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>42</id>
+        <start-date>1967-10-04</start-date>
+        <end-date>1967-10-04</end-date>
+        <visitor>Prime Minister G. Borg Olivier</visitor>
+        <from id="malta">Malta</from>
+        <description>Informal visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>43</id>
+        <start-date>1967-10-10</start-date>
+        <end-date>1967-10-12</end-date>
+        <visitor>Chairman Joseph Arthur Ankrah</visitor>
+        <from id="ghana">Ghana</from>
+        <description>Private visit. In U.S. October 9–14; visited Tampa, Cape Kennedy, and New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>44</id>
+        <start-date>1967-10-13</start-date>
+        <end-date>1967-10-14</end-date>
+        <visitor>Prime Minister Hugh Shearer</visitor>
+        <from id="jamaica">Jamaica</from>
+        <description>Informal visit. In U.S. October 7–14; visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>45</id>
+        <start-date>1967-10-17</start-date>
+        <end-date>1967-10-19</end-date>
+        <visitor>Prime Minister Lee Kuan Yew</visitor>
+        <from id="singapore">Singapore</from>
+        <description>Official visit. In U.S. October 16–27; visited Williamsburg, New York City,
+            Boston, St. Louis, Chicago, San Francisco, and Los Angeles.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>46</id>
+        <start-date>1967-10-20</start-date>
+        <end-date>1967-10-21</end-date>
+        <visitor>Prime Minister Souvanna Phouma</visitor>
+        <from id="laos">Laos</from>
+        <description>Informal visit. Arrived in U.S. October 10; visited New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>47</id>
+        <start-date>1967-10-24</start-date>
+        <end-date>1967-10-25</end-date>
+        <visitor>President Ahmadou Ahidjo</visitor>
+        <from id="cameroon">Cameroon</from>
+        <description>Informal visit. In U.S. October 19–25; visited New York City and
+            Pittsburgh.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>48</id>
+        <start-date>1967-10-26</start-date>
+        <end-date>1967-10-28</end-date>
+        <visitor>President Gustavo Diaz-Ordaz</visitor>
+        <from id="mexico">Mexico</from>
+        <description>State visit at Washington and El Paso (Tex.). Addressed Joint Session of U.S.
+            Congress October 27.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>49</id>
+        <start-date>1967-11-01</start-date>
+        <end-date>1967-11-03</end-date>
+        <visitor>King Mahendra</visitor>
+        <from id="nepal">Nepal</from>
+        <description>State visit. In U.S. October 30–December 3; visited Williamsburg, Cape Kennedy,
+            and New York City. Hunting trip in Alaska after November 9.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>50</id>
+        <start-date>1967-11-06</start-date>
+        <end-date>1967-11-09</end-date>
+        <visitor>King Hussein</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Informal visit. In U.S. November 2–12; visited New York City and
+            Chicago.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>51</id>
+        <start-date>1967-11-13</start-date>
+        <end-date>1967-11-15</end-date>
+        <visitor>Prime Minister Eisaku Sato</visitor>
+        <from id="japan">Japan</from>
+        <description>Official visit. In U.S. November 12–19; visited New York City and Springfield
+            (Ill.).</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>52</id>
+        <start-date>1968-01-07</start-date>
+        <end-date>1968-01-09</end-date>
+        <visitor>Prime Minister Levi Eshkol</visitor>
+        <from id="israel">Israel</from>
+        <description>Informal visit at LBJ Ranch. In U.S. January 4–12; visited New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>53</id>
+        <start-date>1968-02-07</start-date>
+        <end-date>1968-02-09</end-date>
+        <visitor>Prime Minister Harold Wilson</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Informal visit. Afterwards visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>54</id>
+        <start-date>1968-03-14</start-date>
+        <end-date>1968-03-16</end-date>
+        <visitor>Prime Minister Mohammed Haji Ibrahim Egal</visitor>
+        <from id="somalia">Somalia</from>
+        <description>Official visit. In U.S. March 13–21; visited New York City, Knoxville, Cape
+            Kennedy, and Syracuse (N.Y.).</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>55</id>
+        <start-date>1968-03-20</start-date>
+        <end-date>1968-03-22</end-date>
+        <visitor>President Alfredo Stroessner</visitor>
+        <from id="paraguay">Paraguay</from>
+        <description>Official visit. In U.S. March 19–23; visited Williamsburg and New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>56</id>
+        <start-date>1968-03-27</start-date>
+        <end-date>1968-03-28</end-date>
+        <visitor>President William V. S. Tubman</visitor>
+        <from id="liberia">Liberia</from>
+        <description>Official visit. In U.S. March 23–April 3; visited New York City, Baltimore, and
+            Cedar Rapids (Ia.).</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>57</id>
+        <start-date>1968-04-10</start-date>
+        <end-date>1968-04-12</end-date>
+        <visitor>Chancellor Josef Klaus</visitor>
+        <from id="austria">Austria</from>
+        <description>Official visit. In U.S. April 6–17; visited New York City, Chicago, San
+            Francisco, and Los Angeles.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>58</id>
+        <start-date>1968-04-17</start-date>
+        <end-date>1968-04-18</end-date>
+        <visitor>President Chung Hee Park</visitor>
+        <from id="korea-south">Korea</from>
+        <description>Discussed the crisis in Korea and the Vietnam conflict with President Johnson
+            in Honolulu.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>59</id>
+        <start-date>1968-04-25</start-date>
+        <end-date>1968-04-27</end-date>
+        <visitor>King Olav V</visitor>
+        <from id="norway">Norway</from>
+        <description>State visit. In U.S. April 24–May 10; visited Williamsburg, Norfolk, Cape
+            Kennedy, New Orleans, Los Angeles, San Francisco, Seattle, Minneapolis, Duluth, Madison,
+            Chicago, and New York City. Private visit after May 2.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>60</id>
+        <start-date>1968-05-08</start-date>
+        <end-date>1968-05-09</end-date>
+        <visitor>Prime Minister Seewoosagur Ramgoolam</visitor>
+        <from id="mauritius">Mauritius</from>
+        <description>Informal visit. Afterwards visited Cape Kennedy. Departed U.S. May
+            10.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>61</id>
+        <start-date>1968-05-08</start-date>
+        <end-date>1968-05-10</end-date>
+        <visitor>Prime Minister Thanom Kittikachorn</visitor>
+        <from id="thailand">Thailand</from>
+        <description>Official visit. In U.S. May 2–13; visited Miami (private), Cape Kennedy,
+            Lansing (Mich.), and New York City. Private visit to Washington and Los Angeles, May
+            11–13.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>62</id>
+        <start-date>1968-05-15</start-date>
+        <end-date>1968-05-17</end-date>
+        <visitor>President Habib Bourguiba</visitor>
+        <from id="tunisia">Tunisia</from>
+        <description>State visit. In U.S. May 12–21; visited Williamsburg (private), Houston, San
+            Antonio, and New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>63</id>
+        <start-date>1968-05-26</start-date>
+        <end-date>1968-05-28</end-date>
+        <visitor>Prime Minister John G. Gorton</visitor>
+        <from id="australia">Australia</from>
+        <description>Official visit. In U.S. May 23–31; visited Honolulu, San Francisco, and New
+            York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>64</id>
+        <start-date>1968-06-04</start-date>
+        <end-date>1968-06-06</end-date>
+        <visitor>President Jose Trejos Fernandez</visitor>
+        <from id="costa-rica">Costa Rica</from>
+        <description>Official visit. In U.S. June 3– 7; visited Williamsburg, San Antonio, and
+            Miami.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>65</id>
+        <start-date>1968-06-07</start-date>
+        <end-date>1968-06-07</end-date>
+        <visitor>Prime Minister Hugh Shearer</visitor>
+        <from id="jamaica">Jamaica</from>
+        <description>Informal visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>66</id>
+        <start-date>1968-06-12</start-date>
+        <end-date>1968-06-12</end-date>
+        <visitor>Shah Mohammad Reza Pahlavi</visitor>
+        <from id="iran">Iran</from>
+        <description>Private visit. In U.S. June 10–16; visited New York City, St. Louis, Cambridge
+            (Mass.), and Chicago.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>67</id>
+        <start-date>1968-07-05</start-date>
+        <end-date>1968-07-06</end-date>
+        <visitor>President Rene Barrientos Ortuno</visitor>
+        <from id="bolivia">Bolivia</from>
+        <description>Informal visit at LBJ Ranch, and Bolivia Day ceremonies in San Antonio
+            (Tex.).</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>68</id>
+        <start-date>1968-07-19</start-date>
+        <end-date>1968-07-20</end-date>
+        <visitor>President Nguyen Van Thieu</visitor>
+        <from id="vietnam">Vietnam</from>
+        <description>Discussed military developments in Vietnam and political developments in Paris
+            with President Johnson in Honolulu.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>69</id>
+        <start-date>1968-07-26</start-date>
+        <end-date>1968-07-26</end-date>
+        <visitor>Prime Minister Forbes Burnham</visitor>
+        <from id="guyana">Guyana</from>
+        <description>Informal visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>70</id>
+        <start-date>1968-09-11</start-date>
+        <end-date>1968-09-12</end-date>
+        <visitor>Prime Minister Errol W. Barrow</visitor>
+        <from id="barbados">Barbados</from>
+        <description>Official visit. Private visit to New York City and Philadelphia September 8–10,
+            and to San Francisco September 13–16.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>71</id>
+        <start-date>1968-09-18</start-date>
+        <end-date>1968-09-18</end-date>
+        <visitor>Prime Minister Makhosini Dlamini</visitor>
+        <from id="swaziland">Swaziland</from>
+        <description>Informal visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>72</id>
+        <start-date>1968-10-02</start-date>
+        <end-date>1968-10-04</end-date>
+        <visitor>President Ngarta Francois Tombalbaye</visitor>
+        <from id="chad">Chad</from>
+        <description>Official visit; visited San Antonio, Lubbock, Cape Kennedy, and New York City.
+            Private visit after October 6.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>73</id>
+        <start-date>1968-10-09</start-date>
+        <end-date>1968-10-10</end-date>
+        <visitor>Prime Minister Keith J. Holyoake</visitor>
+        <from id="new-zealand">New Zealand</from>
+        <description>Official visit. In U.S. October 6–16; attended ANZUS Council meeting and
+            visited Los Angeles, New York City, and Seattle.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>74</id>
+        <start-date>1968-12-05</start-date>
+        <end-date>1968-12-06</end-date>
+        <visitor>Prime Minister Amir Abbas Hoveyda</visitor>
+        <from id="iran">Iran</from>
+        <description>Official visit. In U.S. December 3–16; visited New York City, Cape Kennedy,
+            Palm Beach, Los Angeles, and Honolulu.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>75</id>
+        <start-date>1968-12-10</start-date>
+        <end-date>1968-12-10</end-date>
+        <visitor>Prime Minister Lee Kuan Yew</visitor>
+        <from id="singapore">Singapore</from>
+        <description>Informal visit. Arrived in U.S. November 14; visiting fellow at Harvard
+            University’s John F. Kennedy School of Government.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>76</id>
+        <start-date>1968-12-11</start-date>
+        <end-date>1968-12-13</end-date>
+        <visitor>Amir Sabah al-Salim al-Sabah</visitor>
+        <from id="kuwait">Kuwait</from>
+        <description>State visit. Arrived in U.S. December 10; visited Annapolis, Cape Kennedy, Palm
+            Beach, and New York City. Private visit to New York City and Washington after December
+            17.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>77</id>
+        <start-date>1968-12-13</start-date>
+        <end-date>1968-12-13</end-date>
+        <visitor>President Gustavo Gustavo Diaz Ordaz</visitor>
+        <from id="mexico">Mexico</from>
+        <description>Official visit for opening of Lopez Mateo Channel of Rio Grande, El Paso,
+            Texas.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>78</id>
+        <start-date>1969-03-05</start-date>
+        <end-date>1969-03-05</end-date>
+        <visitor>President Emile D. Zinsou</visitor>
+        <from id="benin">Dahomey (Benin)</from>
+        <description>Private visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>79</id>
+        <start-date>1969-03-24</start-date>
+        <end-date>1969-03-25</end-date>
+        <visitor>Prime Minister Pierre Elliott Trudeau</visitor>
+        <from id="canada">Canada</from>
+        <description>Official visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>80</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>President Charles de Gaulle</visitor>
+        <from id="france">France</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon March
+            31</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>81</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>President Seretse Khama</visitor>
+        <from id="botswana">Botswana</from>
+        <description>Consultations with IBRD; attended Eisenhower funeral; met with President Nixon
+            March 31.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>82</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>Chancellor Kurt-Georg Kiesinger</visitor>
+        <from id="germany">Germany, Federal Republic of</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>83</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>Prime Minister Mariano Rumor</visitor>
+        <from id="italy">Italy</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>84</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>Shah Mohammad Reza Pahlavi</visitor>
+        <from id="iran">Iran</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>85</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>Prime Minister Il Kwon Chung</visitor>
+        <from id="korea-south">Korea</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>86</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>President Ferdinand Marcos</visitor>
+        <from id="philippines">Philippines</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>87</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>Prime Minister Marcelo Jose das Neves Alves Caetano</visitor>
+        <from id="portugal">Portugal</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>88</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>President Habib Bourguiba</visitor>
+        <from id="tunisia">Tunisia</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>89</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>Prime Minister Suleiman Demirel</visitor>
+        <from id="turkey">Turkey</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon April
+            1.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>90</id>
+        <start-date>1969-03-31</start-date>
+        <end-date>1969-04-01</end-date>
+        <visitor>King Baudouin I</visitor>
+        <from id="belgium">Belgium</from>
+        <description>Attended funeral of former President Eisenhower; met with President Nixon March
+            31.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>91</id>
+        <start-date>1969-04-08</start-date>
+        <end-date>1969-04-10</end-date>
+        <visitor>King Hussein</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Official visit. In U.S. April 7–18; visited Williamsburg and McDill AFB.
+            Private visit to New York City after April 11.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>92</id>
+        <start-date>1969-04-10</start-date>
+        <end-date>1969-04-11</end-date>
+        <visitor>Prime Minister Bjarni Benediktsson</visitor>
+        <from id="iceland">Iceland</from>
+        <description>Met with President Nixon April 11 after NATO Ministerial Meeting.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>93</id>
+        <start-date>1969-05-05</start-date>
+        <end-date>1969-05-08</end-date>
+        <visitor>Prime Minister John G. Gorton</visitor>
+        <from id="australia">Australia</from>
+        <description>Official visit. In U.S. May 1–8; visited Williamsburg.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>94</id>
+        <start-date>1969-05-12</start-date>
+        <end-date>1969-05-14</end-date>
+        <visitor>Prime Minister Lee Kuan Yew</visitor>
+        <from id="singapore">Singapore</from>
+        <description>Private visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>95</id>
+        <start-date>1969-05-19</start-date>
+        <end-date>1969-05-19</end-date>
+        <visitor>Prime Minister Siaka Stevens</visitor>
+        <from id="sierra-leone">Sierra Leone</from>
+        <description>Official visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>96</id>
+        <start-date>1969-05-20</start-date>
+        <end-date>1969-05-21</end-date>
+        <visitor>King Baudouin I</visitor>
+        <from id="belgium">Belgium</from>
+        <description>Informal visit. In U.S. May 17–23; visited Palm Beach, Cape Kennedy, New York
+            City, and Houston.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>97</id>
+        <start-date>1969-05-27</start-date>
+        <end-date>1969-05-29</end-date>
+        <visitor>Prime Minister Petrus J. S. de Jong</visitor>
+        <from id="netherlands">Netherlands</from>
+        <description>Official visit. In U.S. May 26–29; visited Williamsburg, Annapolis, and New
+            York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>98</id>
+        <start-date>1969-06-08</start-date>
+        <end-date>1969-06-08</end-date>
+        <visitor>President Nguyen Van Thieu</visitor>
+        <from id="vietnam">Vietnam</from>
+        <description>Met with President Nixon at Midway Island.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>99</id>
+        <start-date>1969-06-12</start-date>
+        <end-date>1969-06-13</end-date>
+        <visitor>President Carlos Lleras Restrepo</visitor>
+        <from id="colombia">Colombia</from>
+        <description>State visit. In U.S. June 11–18; visited Williamsburg and New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>100</id>
+        <start-date>1969-07-07</start-date>
+        <end-date>1969-07-10</end-date>
+        <visitor>Emperor Haile Selassie</visitor>
+        <from id="ethiopia">Ethiopia</from>
+        <description>State visit. Afterwards visited Atlanta and Cape Kennedy. Departed U.S. July
+            11.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>101</id>
+        <start-date>1969-08-07</start-date>
+        <end-date>1969-08-09</end-date>
+        <visitor>Chancellor Kurt-Georg Kiesinger</visitor>
+        <from id="germany">Germany, Federal Republic of</from>
+        <description>Official visit. In U.S. August 5–9; visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>102</id>
+        <start-date>1969-08-20</start-date>
+        <end-date>1969-08-22</end-date>
+        <visitor>President Chung Hee Park</visitor>
+        <from id="korea-south">Korea</from>
+        <description>Official visit at San Francisco. Private visit afterward until August
+            24.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>103</id>
+        <start-date>1969-09-15</start-date>
+        <end-date>1969-09-18</end-date>
+        <visitor>Prime Minister Keith J. Holyoake</visitor>
+        <from id="new-zealand">New Zealand</from>
+        <description>Official visit. In U.S. September 14–21; visited Los Angeles and New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>104</id>
+        <start-date>1969-09-18</start-date>
+        <end-date>1969-09-18</end-date>
+        <visitor>Prime Minister Seewoosagur Ramgoolam</visitor>
+        <from id="mauritius">Mauritius</from>
+        <description>Met with President Nixon in New York City while attending a U.N. General
+            Assembly session.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>105</id>
+        <start-date>1969-09-25</start-date>
+        <end-date>1969-09-26</end-date>
+        <visitor>Prime Minister Golda Meir</visitor>
+        <from id="israel">Israel</from>
+        <description>Official visit. In U.S. September 24–October 5. Private visit to Washington
+            September 27–28; then visited New York City, Los Angeles, and Milwaukee.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>106</id>
+        <start-date>1969-10-06</start-date>
+        <end-date>1969-10-10</end-date>
+        <visitor>Prime Minister Souvanna Phouma</visitor>
+        <from id="laos">Laos</from>
+        <description>Official visit. In U.S. October 3–11; visited New York City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>107</id>
+        <start-date>1969-10-06</start-date>
+        <end-date>1969-10-06</end-date>
+        <visitor>Prime Minister Mohammed Haji Ibrahim Egal</visitor>
+        <from id="somalia">Somali Republic</from>
+        <description>Private visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>108</id>
+        <start-date>1969-10-09</start-date>
+        <end-date>1969-10-09</end-date>
+        <visitor>President Ahmadou Ahidjo</visitor>
+        <from id="cameroon">Cameroon</from>
+        <description>Private visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>109</id>
+        <start-date>1969-10-13</start-date>
+        <end-date>1969-10-13</end-date>
+        <visitor>Prime Minister Tunku Abdul Rahman </visitor>
+        <from id="malaysia">Malaysia</from>
+        <description>Private visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>110</id>
+        <start-date>1969-10-20</start-date>
+        <end-date>1969-10-20</end-date>
+        <visitor>Prime Minister Kofi Busia</visitor>
+        <from id="ghana">Ghana</from>
+        <description>Private visit</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>111</id>
+        <start-date>1969-10-21</start-date>
+        <end-date>1969-10-23</end-date>
+        <visitor>Shah Mohammad Reza Pahlavi</visitor>
+        <from id="iran">Iran</from>
+        <description>Official visit. In U.S. October 17; visited Williamsburg and New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>112</id>
+        <start-date>1969-11-19</start-date>
+        <end-date>1969-11-21</end-date>
+        <visitor>Prime Minister Eisaku Sato</visitor>
+        <from id="japan">Japan</from>
+        <description>Official visit. In U.S. November 16–25; visited New York City and San
+            Francisco.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
 </visits>

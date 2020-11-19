@@ -83,6 +83,54 @@
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+    </visit>    
+    <visit>
+        <id>2095</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Manmohan Singh</visitor>
+        <from id="india">India</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2099</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>President Nursultan Nazarbayev</visitor>
+        <from id="kazakhstan">Kazakhstan</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+    </visit>    
+    <visit>
+        <id>2106</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Acting President Goodluck Jonathan</visitor>
+        <from id="nigeria">Nigeria</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2108</id>
+        <start-date>2010-04-11</start-date>
+        <end-date>2010-04-13</end-date>
+        <visitor>Prime Minister Yusuf Raza Gilani</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Attended the Nuclear Security Summit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2083</id>
@@ -229,18 +277,6 @@
         <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>2095</id>
-        <start-date>2010-04-11</start-date>
-        <end-date>2010-04-13</end-date>
-        <visitor>Prime Minister Manmohan Singh</visitor>
-        <from id="india">India</from>
-        <description>Attended the Nuclear Security Summit.</description>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>2096</id>
         <start-date>2010-04-12</start-date>
         <end-date>2010-04-13</end-date>
@@ -270,18 +306,6 @@
         <end-date>2010-04-13</end-date>
         <visitor>King Abdullah II</visitor>
         <from id="jordan">Jordan</from>
-        <description>Attended the Nuclear Security Summit.</description>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>2099</id>
-        <start-date>2010-04-11</start-date>
-        <end-date>2010-04-13</end-date>
-        <visitor>President Nursultan Nazarbayev</visitor>
-        <from id="kazakhstan">Kazakhstan</from>
         <description>Attended the Nuclear Security Summit.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
@@ -361,35 +385,11 @@
         <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>2106</id>
-        <start-date>2010-04-11</start-date>
-        <end-date>2010-04-13</end-date>
-        <visitor>Acting President Goodluck Jonathan</visitor>
-        <from id="nigeria">Nigeria</from>
-        <description>Attended the Nuclear Security Summit.</description>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>2107</id>
         <start-date>2010-04-12</start-date>
         <end-date>2010-04-13</end-date>
         <visitor>Prime Minister Jens Stoltenberg</visitor>
         <from id="norway">Norway</from>
-        <description>Attended the Nuclear Security Summit.</description>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2012-04-02T10:53:34.11-04:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>2108</id>
-        <start-date>2010-04-11</start-date>
-        <end-date>2010-04-13</end-date>
-        <visitor>Prime Minister Yusuf Raza Gilani</visitor>
-        <from id="pakistan">Pakistan</from>
         <description>Attended the Nuclear Security Summit.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2012-04-02T10:53:34.11-04:00</created-datetime>
@@ -5104,6 +5104,18 @@
         <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>2893</id>
+        <start-date>2017-09-26</start-date>
+        <end-date>2017-09-26</end-date>
+        <visitor>Prime Minister Mariano Rajoy</visitor>
+        <from id="spain">Spain</from>
+        <description>Official Working Visit.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
+        <last-modified-by>faithti</last-modified-by>
+        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>2892</id>
         <start-date>2017-09-28</start-date>
         <end-date>2017-09-28</end-date>
@@ -5111,18 +5123,6 @@
         <from id="israel">Israel</from>
         <description>Met with President Trump at the UN General Assembly in New York
             City.</description>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
-        <last-modified-by>faithti</last-modified-by>
-        <last-modified-datetime>2018-03-12T14:29:13.672-04:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>2893</id>
-        <start-date>2017-09-26</start-date>
-        <end-date>2017-09-26</end-date>
-        <visitor>Prime Minister Mariano Rajoy</visitor>
-        <from id="spain">Spain</from>
-        <description>Official Working Visit.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>

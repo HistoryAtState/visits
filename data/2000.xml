@@ -708,13 +708,12 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1455</id>
-        <start-date>2001-04-08</start-date>
-        <end-date>2001-04-09</end-date>
-        <visitor>President Robert Kocharian</visitor>
-        <from id="armenia">Armenia</from>
-        <description>Met with President Bush April 9 during a private visit after peace talks in Key
-            West, Florida, beginning April 3.</description>
+        <id>1457</id>
+        <start-date>2001-04-03</start-date>
+        <end-date>2001-04-11</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -734,12 +733,13 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1457</id>
-        <start-date>2001-04-03</start-date>
-        <end-date>2001-04-11</end-date>
-        <visitor>King Abdullah II</visitor>
-        <from id="jordan">Jordan</from>
-        <description>Working visit.</description>
+        <id>1455</id>
+        <start-date>2001-04-08</start-date>
+        <end-date>2001-04-09</end-date>
+        <visitor>President Robert Kocharian</visitor>
+        <from id="armenia">Armenia</from>
+        <description>Met with President Bush April 9 during a private visit after peace talks in Key
+            West, Florida, beginning April 3.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -904,6 +904,19 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1473</id>
+        <start-date>2001-06-26</start-date>
+        <end-date>2001-06-28</end-date>
+        <visitor>President Alpha Oumar Konare</visitor>
+        <from id="mali">Mali</from>
+        <description>Working visit; attended a forum of the Partnership to Cut Hunger in
+            Africa.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1471</id>
         <start-date>2001-06-27</start-date>
         <end-date>2001-06-29</end-date>
@@ -922,19 +935,6 @@
         <end-date>2001-06-28</end-date>
         <visitor>President Abdoulaye Wade</visitor>
         <from id="senegal">Senegal</from>
-        <description>Working visit; attended a forum of the Partnership to Cut Hunger in
-            Africa.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1473</id>
-        <start-date>2001-06-26</start-date>
-        <end-date>2001-06-28</end-date>
-        <visitor>President Alpha Oumar Konare</visitor>
-        <from id="mali">Mali</from>
         <description>Working visit; attended a forum of the Partnership to Cut Hunger in
             Africa.</description>
         <created-by>joewiz</created-by>
@@ -1077,11 +1077,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1485</id>
-        <start-date>2001-09-27</start-date>
+        <id>1486</id>
+        <start-date>2001-09-26</start-date>
         <end-date>2001-09-28</end-date>
-        <visitor>Prime Minister Guy Verhofstadt</visitor>
-        <from id="belgium">Belgium</from>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -1089,11 +1089,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1486</id>
-        <start-date>2001-09-26</start-date>
+        <id>1485</id>
+        <start-date>2001-09-27</start-date>
         <end-date>2001-09-28</end-date>
-        <visitor>King Abdullah II</visitor>
-        <from id="jordan">Jordan</from>
+        <visitor>Prime Minister Guy Verhofstadt</visitor>
+        <from id="belgium">Belgium</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -1245,6 +1245,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1501</id>
+        <start-date>2001-11-07</start-date>
+        <end-date>2001-11-10</end-date>
+        <visitor>Prime Minister Milos Zeman</visitor>
+        <from id="czech-republic">Czech Republic</from>
+        <description>Met with President Bush November 9 during a private visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1499</id>
         <start-date>2001-11-08</start-date>
         <end-date>2001-11-08</end-date>
@@ -1263,18 +1275,6 @@
         <visitor>Prime Minister Bertie Ahern</visitor>
         <from id="ireland">Ireland</from>
         <description>Met with President Bush during a private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1501</id>
-        <start-date>2001-11-07</start-date>
-        <end-date>2001-11-10</end-date>
-        <visitor>Prime Minister Milos Zeman</visitor>
-        <from id="czech-republic">Czech Republic</from>
-        <description>Met with President Bush November 9 during a private visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1589,18 +1589,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1527</id>
-        <start-date>2002-02-12</start-date>
-        <end-date>2002-02-14</end-date>
-        <visitor>President Pervez Musharraf</visitor>
-        <from id="pakistan">Pakistan</from>
-        <description>Official Working Visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1528</id>
         <start-date>2002-02-11</start-date>
         <end-date>2002-02-16</end-date>
@@ -1613,12 +1601,12 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1529</id>
-        <start-date>2002-02-25</start-date>
-        <end-date>2002-02-26</end-date>
-        <visitor>President Jose Eduardo dos Santos</visitor>
-        <from id="angola">Angola</from>
-        <description>Working visit.</description>
+        <id>1527</id>
+        <start-date>2002-02-12</start-date>
+        <end-date>2002-02-14</end-date>
+        <visitor>President Pervez Musharraf</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Official Working Visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1630,6 +1618,18 @@
         <end-date>2002-02-27</end-date>
         <visitor>President Joaquim Alberto Chissano</visitor>
         <from id="mozambique">Mozambique</from>
+        <description>Working visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1529</id>
+        <start-date>2002-02-25</start-date>
+        <end-date>2002-02-26</end-date>
+        <visitor>President Jose Eduardo dos Santos</visitor>
+        <from id="angola">Angola</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -1746,18 +1746,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1540</id>
-        <start-date>2002-04-16</start-date>
-        <end-date>2002-04-16</end-date>
-        <visitor>President Tarja Halonen</visitor>
-        <from id="finland">Finland</from>
-        <description>Met with President Bush during a private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1541</id>
         <start-date>2002-04-15</start-date>
         <end-date>2002-04-18</end-date>
@@ -1770,23 +1758,23 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1542</id>
+        <id>1540</id>
         <start-date>2002-04-16</start-date>
-        <end-date>2002-04-19</end-date>
-        <visitor>President Andres Pastrana</visitor>
-        <from id="colombia">Colombia</from>
-        <description>Working visit.</description>
+        <end-date>2002-04-16</end-date>
+        <visitor>President Tarja Halonen</visitor>
+        <from id="finland">Finland</from>
+        <description>Met with President Bush during a private visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1543</id>
-        <start-date>2002-04-21</start-date>
-        <end-date>2002-04-26</end-date>
-        <visitor>King Mohamed VI</visitor>
-        <from id="morocco">Morocco</from>
+        <id>1542</id>
+        <start-date>2002-04-16</start-date>
+        <end-date>2002-04-19</end-date>
+        <visitor>President Andres Pastrana</visitor>
+        <from id="colombia">Colombia</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -1806,6 +1794,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1543</id>
+        <start-date>2002-04-21</start-date>
+        <end-date>2002-04-26</end-date>
+        <visitor>King Mohamed VI</visitor>
+        <from id="morocco">Morocco</from>
+        <description>Working visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1545</id>
         <start-date>2002-05-01</start-date>
         <end-date>2002-05-04</end-date>
@@ -1813,6 +1813,18 @@
         <from id="spain">Spain</from>
         <description>Working visit. Attended U.S.-EU Summit meeting. Also visited Camp David,
             MD.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1549</id>
+        <start-date>2002-05-03</start-date>
+        <end-date>2002-05-13</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -1849,18 +1861,6 @@
         <visitor>Prime Minister Sher Bahadur Deuba</visitor>
         <from id="nepal">Nepal</from>
         <description>Met with President Bush May 7 during a private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1549</id>
-        <start-date>2002-05-03</start-date>
-        <end-date>2002-05-13</end-date>
-        <visitor>King Abdullah II</visitor>
-        <from id="jordan">Jordan</from>
-        <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -2073,6 +2073,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1575</id>
+        <start-date>2002-09-10</start-date>
+        <end-date>2002-09-16</end-date>
+        <visitor>President Alejandro Toledo</visitor>
+        <from id="peru">Peru</from>
+        <description>Private visit. Addressed OAS Meeting.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1567</id>
         <start-date>2002-09-12</start-date>
         <end-date>2002-09-12</end-date>
@@ -2176,18 +2188,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1575</id>
-        <start-date>2002-09-10</start-date>
-        <end-date>2002-09-16</end-date>
-        <visitor>President Alejandro Toledo</visitor>
-        <from id="peru">Peru</from>
-        <description>Private visit. Addressed OAS Meeting.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1576</id>
         <start-date>2002-09-17</start-date>
         <end-date>2002-09-19</end-date>
@@ -2201,11 +2201,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1577</id>
-        <start-date>2002-09-23</start-date>
-        <end-date>2002-09-26</end-date>
-        <visitor>President Alvaro Uribe</visitor>
-        <from id="colombia">Colombia</from>
+        <id>1578</id>
+        <start-date>2002-09-20</start-date>
+        <end-date>2002-09-24</end-date>
+        <visitor>President Askar Akaev</visitor>
+        <from id="kyrgyzstan">Kyrgyzstan</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2213,11 +2213,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1578</id>
-        <start-date>2002-09-20</start-date>
-        <end-date>2002-09-24</end-date>
-        <visitor>President Askar Akaev</visitor>
-        <from id="kyrgyzstan">Kyrgyzstan</from>
+        <id>1577</id>
+        <start-date>2002-09-23</start-date>
+        <end-date>2002-09-26</end-date>
+        <visitor>President Alvaro Uribe</visitor>
+        <from id="colombia">Colombia</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2322,11 +2322,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1587</id>
-        <start-date>2002-12-08</start-date>
-        <end-date>2002-12-10</end-date>
-        <visitor>President Emomali Rahmonov</visitor>
-        <from id="tajikistan">Tajikistan</from>
+        <id>1588</id>
+        <start-date>2002-12-07</start-date>
+        <end-date>2002-12-09</end-date>
+        <visitor>Prime Minister Paavo Lipponen</visitor>
+        <from id="finland">Finland</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2334,11 +2334,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1588</id>
-        <start-date>2002-12-07</start-date>
-        <end-date>2002-12-09</end-date>
-        <visitor>Prime Minister Paavo Lipponen</visitor>
-        <from id="finland">Finland</from>
+        <id>1587</id>
+        <start-date>2002-12-08</start-date>
+        <end-date>2002-12-10</end-date>
+        <visitor>President Emomali Rahmonov</visitor>
+        <from id="tajikistan">Tajikistan</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2514,11 +2514,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1603</id>
-        <start-date>2003-02-24</start-date>
-        <end-date>2003-02-25</end-date>
-        <visitor>Prime Minister Simeon Saxe-Coburg-Gotha</visitor>
-        <from id="bulgaria">Bulgaria</from>
+        <id>1604</id>
+        <start-date>2003-02-23</start-date>
+        <end-date>2003-02-27</end-date>
+        <visitor>President Heydar Aliyev</visitor>
+        <from id="azerbaijan">Azerbaijan</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2526,11 +2526,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1604</id>
-        <start-date>2003-02-23</start-date>
-        <end-date>2003-02-27</end-date>
-        <visitor>President Heydar Aliyev</visitor>
-        <from id="azerbaijan">Azerbaijan</from>
+        <id>1603</id>
+        <start-date>2003-02-24</start-date>
+        <end-date>2003-02-25</end-date>
+        <visitor>Prime Minister Simeon Saxe-Coburg-Gotha</visitor>
+        <from id="bulgaria">Bulgaria</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2869,57 +2869,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1632</id>
-        <start-date>2003-06-23</start-date>
-        <end-date>2003-06-27</end-date>
-        <visitor>President Pervez Musharraf</visitor>
-        <from id="pakistan">Pakistan</from>
-        <description>Working visit. Met with President Bush in Washington, DC and Camp David, MD.
-            Arrived in Boston June 20; later visited Los Angeles.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1633</id>
-        <start-date>2003-06-24</start-date>
-        <end-date>2003-06-26</end-date>
-        <visitor>Prime Minister Konstandinos Simitis</visitor>
-        <from id="greece">Greece</from>
-        <description>Working visit. Met with President Bush at the U.S.-EU Summit
-            Meeting.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1634</id>
-        <start-date>2003-06-24</start-date>
-        <end-date>2003-06-27</end-date>
-        <visitor>President Mireya Moscoso</visitor>
-        <from id="panama">Panama</from>
-        <description>Working visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1635</id>
-        <start-date>2003-06-23</start-date>
-        <end-date>2003-06-27</end-date>
-        <visitor>Prime Minister Anerood Jugnauth</visitor>
-        <from id="mauritius">Mauritius</from>
-        <description>Working visit. Also attended United States-Africa Business
-            Summit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1636</id>
         <start-date>2003-06-21</start-date>
         <end-date>2003-06-26</end-date>
@@ -2959,6 +2908,32 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1632</id>
+        <start-date>2003-06-23</start-date>
+        <end-date>2003-06-27</end-date>
+        <visitor>President Pervez Musharraf</visitor>
+        <from id="pakistan">Pakistan</from>
+        <description>Working visit. Met with President Bush in Washington, DC and Camp David, MD.
+            Arrived in Boston June 20; later visited Los Angeles.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1635</id>
+        <start-date>2003-06-23</start-date>
+        <end-date>2003-06-27</end-date>
+        <visitor>Prime Minister Anerood Jugnauth</visitor>
+        <from id="mauritius">Mauritius</from>
+        <description>Working visit. Also attended United States-Africa Business
+            Summit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1639</id>
         <start-date>2003-06-23</start-date>
         <end-date>2003-06-27</end-date>
@@ -2966,6 +2941,31 @@
         <from id="uganda">Uganda</from>
         <description>Attended United States-Africa Business Summit; met with President Bush during a
             private visit June 26.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1633</id>
+        <start-date>2003-06-24</start-date>
+        <end-date>2003-06-26</end-date>
+        <visitor>Prime Minister Konstandinos Simitis</visitor>
+        <from id="greece">Greece</from>
+        <description>Working visit. Met with President Bush at the U.S.-EU Summit
+            Meeting.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1634</id>
+        <start-date>2003-06-24</start-date>
+        <end-date>2003-06-27</end-date>
+        <visitor>President Mireya Moscoso</visitor>
+        <from id="panama">Panama</from>
+        <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3576,18 +3576,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1689</id>
-        <start-date>2004-03-28</start-date>
-        <end-date>2004-03-30</end-date>
-        <visitor>Prime Minister Juhan Parts</visitor>
-        <from id="estonia">Estonia</from>
-        <description>Working visit. Attended NATO Accession ceremony.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1690</id>
         <start-date>2004-03-27</start-date>
         <end-date>2004-03-30</end-date>
@@ -3612,18 +3600,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1692</id>
-        <start-date>2004-03-28</start-date>
-        <end-date>2004-03-29</end-date>
-        <visitor>Prime Minister Adrian Nastase</visitor>
-        <from id="romania">Romania</from>
-        <description>Working visit. Attended NATO Accession ceremony.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1693</id>
         <start-date>2004-03-27</start-date>
         <end-date>2004-03-29</end-date>
@@ -3636,11 +3612,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1694</id>
-        <start-date>2004-03-28</start-date>
-        <end-date>2004-03-30</end-date>
-        <visitor>Prime Minister Anton Rop</visitor>
-        <from id="slovenia">Slovenia</from>
+        <id>1695</id>
+        <start-date>2004-03-27</start-date>
+        <end-date>2004-04-01</end-date>
+        <visitor>Prime Minister Fatos Nano</visitor>
+        <from id="albania">Albania</from>
         <description>Working visit. Attended NATO Accession ceremony.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -3648,11 +3624,35 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1695</id>
-        <start-date>2004-03-27</start-date>
-        <end-date>2004-04-01</end-date>
-        <visitor>Prime Minister Fatos Nano</visitor>
-        <from id="albania">Albania</from>
+        <id>1689</id>
+        <start-date>2004-03-28</start-date>
+        <end-date>2004-03-30</end-date>
+        <visitor>Prime Minister Juhan Parts</visitor>
+        <from id="estonia">Estonia</from>
+        <description>Working visit. Attended NATO Accession ceremony.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1692</id>
+        <start-date>2004-03-28</start-date>
+        <end-date>2004-03-29</end-date>
+        <visitor>Prime Minister Adrian Nastase</visitor>
+        <from id="romania">Romania</from>
+        <description>Working visit. Attended NATO Accession ceremony.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1694</id>
+        <start-date>2004-03-28</start-date>
+        <end-date>2004-03-30</end-date>
+        <visitor>Prime Minister Anton Rop</visitor>
+        <from id="slovenia">Slovenia</from>
         <description>Working visit. Attended NATO Accession ceremony.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -3817,11 +3817,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1709</id>
-        <start-date>2004-05-26</start-date>
-        <end-date>2004-05-26</end-date>
-        <visitor>President El Hadj Omar Bongo</visitor>
-        <from id="gabon">Gabon</from>
+        <id>1710</id>
+        <start-date>2004-05-25</start-date>
+        <end-date>2004-05-27</end-date>
+        <visitor>President Francisco Flores Perez</visitor>
+        <from id="el-salvador">El Salvador</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -3829,11 +3829,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1710</id>
-        <start-date>2004-05-25</start-date>
-        <end-date>2004-05-27</end-date>
-        <visitor>President Francisco Flores Perez</visitor>
-        <from id="el-salvador">El Salvador</from>
+        <id>1709</id>
+        <start-date>2004-05-26</start-date>
+        <end-date>2004-05-26</end-date>
+        <visitor>President El Hadj Omar Bongo</visitor>
+        <from id="gabon">Gabon</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -3965,6 +3965,33 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1733</id>
+        <start-date>2004-06-08</start-date>
+        <end-date>2004-06-16</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Working visit. Met with President Bush at the G-8 Economic Summit in Sea
+            Island, Georgia. Attended the funeral of Former President Reagan.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1732</id>
+        <start-date>2004-06-09</start-date>
+        <end-date>2004-06-16</end-date>
+        <visitor>President Hamid Karzai</visitor>
+        <from id="afghanistan">Afghanistan</from>
+        <description>Working visit. Met with President Bush at the G-8 Economic Summit in Sea
+            Island, Georgia. Attended the funeral of Former President Reagan. Addressed a joint
+            session of Congress June 15.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1721</id>
         <start-date>2004-06-09</start-date>
         <end-date>2004-06-10</end-date>
@@ -4057,6 +4084,19 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1730</id>
+        <start-date>2004-06-10</start-date>
+        <end-date>2004-06-11</end-date>
+        <visitor>President Thabo Mbeki</visitor>
+        <from id="south-africa">South Africa</from>
+        <description>Met with President Bush at the G-8 Economic Summit in Sea Island, Georgia.
+            Attended the funeral of Former President Reagan.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1728</id>
         <start-date>2004-06-11</start-date>
         <end-date>2004-06-11</end-date>
@@ -4081,52 +4121,12 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1730</id>
-        <start-date>2004-06-10</start-date>
-        <end-date>2004-06-11</end-date>
-        <visitor>President Thabo Mbeki</visitor>
-        <from id="south-africa">South Africa</from>
-        <description>Met with President Bush at the G-8 Economic Summit in Sea Island, Georgia.
-            Attended the funeral of Former President Reagan.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1731</id>
         <start-date>2004-06-11</start-date>
         <end-date>2004-06-11</end-date>
         <visitor>Prime Minister Keith Mitchell</visitor>
         <from id="grenada">Grenada</from>
         <description>Attended the funeral of Former President Reagan.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1732</id>
-        <start-date>2004-06-09</start-date>
-        <end-date>2004-06-16</end-date>
-        <visitor>President Hamid Karzai</visitor>
-        <from id="afghanistan">Afghanistan</from>
-        <description>Working visit. Met with President Bush at the G-8 Economic Summit in Sea
-            Island, Georgia. Attended the funeral of Former President Reagan. Addressed a joint
-            session of Congress June 15.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1733</id>
-        <start-date>2004-06-08</start-date>
-        <end-date>2004-06-16</end-date>
-        <visitor>King Abdullah II</visitor>
-        <from id="jordan">Jordan</from>
-        <description>Working visit. Met with President Bush at the G-8 Economic Summit in Sea
-            Island, Georgia. Attended the funeral of Former President Reagan.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -4267,19 +4267,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1745</id>
-        <start-date>2004-09-22</start-date>
-        <end-date>2004-09-22</end-date>
-        <visitor>President Hamid Karzai</visitor>
-        <from id="afghanistan">Afghanistan</from>
-        <description>Met with President Bush at the UN General Assembly in New York
-            City.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1746</id>
         <start-date>2004-09-21</start-date>
         <end-date>2004-09-22</end-date>
@@ -4298,6 +4285,19 @@
         <end-date>2004-09-21</end-date>
         <visitor>Prime Minister Manmhan Singh</visitor>
         <from id="india">India</from>
+        <description>Met with President Bush at the UN General Assembly in New York
+            City.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1745</id>
+        <start-date>2004-09-22</start-date>
+        <end-date>2004-09-22</end-date>
+        <visitor>President Hamid Karzai</visitor>
+        <from id="afghanistan">Afghanistan</from>
         <description>Met with President Bush at the UN General Assembly in New York
             City.</description>
         <created-by>joewiz</created-by>
@@ -4367,11 +4367,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1753</id>
-        <start-date>2004-12-05</start-date>
+        <id>1754</id>
+        <start-date>2004-12-03</start-date>
         <end-date>2004-12-09</end-date>
-        <visitor>King Abdullah II</visitor>
-        <from id="jordan">Jordan</from>
+        <visitor>President Ghazi al-Yawer</visitor>
+        <from id="iraq">Iraq</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -4379,11 +4379,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1754</id>
-        <start-date>2004-12-03</start-date>
+        <id>1753</id>
+        <start-date>2004-12-05</start-date>
         <end-date>2004-12-09</end-date>
-        <visitor>President Ghazi al-Yawer</visitor>
-        <from id="iraq">Iraq</from>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -4663,14 +4663,14 @@
     <visit>
         <id>1777</id>
         <start-date>2005-05-17</start-date>
-        <end-date>2005-05-08</end-date>
+        <end-date>2005-05-18</end-date>
         <visitor>Prime Minister Ahmed Mohamed Nazif</visitor>
         <from id="egypt">Egypt</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2020-11-19T15:46:26.258-05:00</last-modified-datetime>
     </visit>
     <visit>
         <id>1778</id>
@@ -5352,11 +5352,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1834</id>
-        <start-date>2006-05-03</start-date>
+        <id>1835</id>
+        <start-date>2006-04-29</start-date>
         <end-date>2006-05-04</end-date>
-        <visitor>Chancellor Angela Merkel</visitor>
-        <from id="germany">Germany</from>
+        <visitor>President Tabare Vazquez</visitor>
+        <from id="uruguay">Uruguay</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -5364,11 +5364,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1835</id>
-        <start-date>2006-04-29</start-date>
+        <id>1834</id>
+        <start-date>2006-05-03</start-date>
         <end-date>2006-05-04</end-date>
-        <visitor>President Tabare Vazquez</visitor>
-        <from id="uruguay">Uruguay</from>
+        <visitor>Chancellor Angela Merkel</visitor>
+        <from id="germany">Germany</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -6071,6 +6071,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1894</id>
+        <start-date>2007-05-06</start-date>
+        <end-date>2007-05-11</end-date>
+        <visitor>President Rene Preval</visitor>
+        <from id="haiti">Haiti</from>
+        <description>Working visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1893</id>
         <start-date>2007-05-07</start-date>
         <end-date>2007-05-08</end-date>
@@ -6080,18 +6092,6 @@
             Assembly, commemorated the 400th anniversary of the Jamestown Settlement, visiting
             Jamestown and Williamsburg. Attended the Kentucky Derby in Louisville, KY May 7. Also
             visited Greenbelt, MD.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1894</id>
-        <start-date>2007-05-06</start-date>
-        <end-date>2007-05-11</end-date>
-        <visitor>President Rene Preval</visitor>
-        <from id="haiti">Haiti</from>
-        <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -6802,11 +6802,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1953</id>
-        <start-date>2008-06-24</start-date>
-        <end-date>2008-06-24</end-date>
-        <visitor>President Gloria Macapagal-Arroyo</visitor>
-        <from id="philippines">Philippines</from>
+        <id>1955</id>
+        <start-date>2008-06-21</start-date>
+        <end-date>2008-06-27</end-date>
+        <visitor>President Jalal Talabani</visitor>
+        <from id="iraq">Iraq</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -6826,11 +6826,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1955</id>
-        <start-date>2008-06-21</start-date>
-        <end-date>2008-06-27</end-date>
-        <visitor>President Jalal Talabani</visitor>
-        <from id="iraq">Iraq</from>
+        <id>1953</id>
+        <start-date>2008-06-24</start-date>
+        <end-date>2008-06-24</end-date>
+        <visitor>President Gloria Macapagal-Arroyo</visitor>
+        <from id="philippines">Philippines</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -6996,6 +6996,18 @@
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>    
+    <visit>
+        <id>1981</id>
+        <start-date>2008-09-23</start-date>
+        <end-date>2008-09-25</end-date>
+        <visitor>Prime Minister Manmohan Singh</visitor>
+        <from id="india">India</from>
+        <description>Working visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
         <id>1969</id>
@@ -7147,18 +7159,6 @@
         <end-date>2008-09-25</end-date>
         <visitor>President Michel Sleiman</visitor>
         <from id="lebanon">Lebanon</from>
-        <description>Working visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1981</id>
-        <start-date>2008-09-23</start-date>
-        <end-date>2008-09-25</end-date>
-        <visitor>Prime Minister Manmohan Singh</visitor>
-        <from id="india">India</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>

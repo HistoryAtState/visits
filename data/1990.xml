@@ -2034,11 +2034,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>916</id>
-        <start-date>1992-02-19</start-date>
-        <end-date>1992-02-19</end-date>
-        <visitor>President Frederick Chiluba</visitor>
-        <from id="zambia">Zambia</from>
+        <id>917</id>
+        <start-date>1992-02-18</start-date>
+        <end-date>1992-02-18</end-date>
+        <visitor>President Mircea Snegur</visitor>
+        <from id="moldova">Moldova</from>
         <description>Met with President Bush during a private visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2046,11 +2046,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>917</id>
-        <start-date>1992-02-18</start-date>
-        <end-date>1992-02-18</end-date>
-        <visitor>President Mircea Snegur</visitor>
-        <from id="moldova">Moldova</from>
+        <id>916</id>
+        <start-date>1992-02-19</start-date>
+        <end-date>1992-02-19</end-date>
+        <visitor>President Frederick Chiluba</visitor>
+        <from id="zambia">Zambia</from>
         <description>Met with President Bush during a private visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -2705,11 +2705,37 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>978</id>
+        <start-date>1993-04-18</start-date>
+        <end-date>1993-04-22</end-date>
+        <visitor>President Franjo Tudjman</visitor>
+        <from id="croatia">Croatia</from>
+        <description>Attended dedication of the Holocaust Memorial Museum and met with President
+            Clinton on April 21.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>971</id>
         <start-date>1993-04-19</start-date>
         <end-date>1993-04-22</end-date>
         <visitor>President Zhelyu Zhelev</visitor>
         <from id="bulgaria">Bulgaria</from>
+        <description>Attended dedication of the Holocaust Memorial Museum and met with President
+            Clinton on April 21.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>975</id>
+        <start-date>1993-04-19</start-date>
+        <end-date>1993-04-23</end-date>
+        <visitor>President Ion Iliescu</visitor>
+        <from id="romania">Romania</from>
         <description>Attended dedication of the Holocaust Memorial Museum and met with President
             Clinton on April 21.</description>
         <created-by>joewiz</created-by>
@@ -2757,19 +2783,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>975</id>
-        <start-date>1993-04-19</start-date>
-        <end-date>1993-04-23</end-date>
-        <visitor>President Ion Iliescu</visitor>
-        <from id="romania">Romania</from>
-        <description>Attended dedication of the Holocaust Memorial Museum and met with President
-            Clinton on April 21.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>976</id>
         <start-date>1993-04-20</start-date>
         <end-date>1993-04-22</end-date>
@@ -2788,32 +2801,6 @@
         <end-date>1993-04-22</end-date>
         <visitor>President Mario Alberto Lopes Soares</visitor>
         <from id="portugal">Portugal</from>
-        <description>Attended dedication of the Holocaust Memorial Museum and met with President
-            Clinton on April 21.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>978</id>
-        <start-date>1993-04-18</start-date>
-        <end-date>1993-04-22</end-date>
-        <visitor>President Franjo Tudjman</visitor>
-        <from id="croatia">Croatia</from>
-        <description>Attended dedication of the Holocaust Memorial Museum and met with President
-            Clinton on April 21.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>979</id>
-        <start-date>1993-04-21</start-date>
-        <end-date>1993-04-22</end-date>
-        <visitor>President Chaim Herzog</visitor>
-        <from id="israel">Israel</from>
         <description>Attended dedication of the Holocaust Memorial Museum and met with President
             Clinton on April 21.</description>
         <created-by>joewiz</created-by>
@@ -2853,6 +2840,19 @@
         <end-date>1993-04-22</end-date>
         <visitor>Prime Minister Andrei Sangheli</visitor>
         <from id="moldova">Moldova</from>
+        <description>Attended dedication of the Holocaust Memorial Museum and met with President
+            Clinton on April 21.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>979</id>
+        <start-date>1993-04-21</start-date>
+        <end-date>1993-04-22</end-date>
+        <visitor>President Chaim Herzog</visitor>
+        <from id="israel">Israel</from>
         <description>Attended dedication of the Holocaust Memorial Museum and met with President
             Clinton on April 21.</description>
         <created-by>joewiz</created-by>
@@ -3108,24 +3108,24 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1003</id>
-        <start-date>1993-09-13</start-date>
-        <end-date>1993-09-13</end-date>
-        <visitor>Prime Minister Yitzhak Rabin</visitor>
-        <from id="israel">Israel</from>
-        <description>Signed Israeli-Palestinian Declaration of Principles.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1004</id>
         <start-date>1993-09-12</start-date>
         <end-date>1993-09-15</end-date>
         <visitor>Prime Minister Paul Keating</visitor>
         <from id="australia">Australia</from>
         <description>Met with President Clinton during a private visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1003</id>
+        <start-date>1993-09-13</start-date>
+        <end-date>1993-09-13</end-date>
+        <visitor>Prime Minister Yitzhak Rabin</visitor>
+        <from id="israel">Israel</from>
+        <description>Signed Israeli-Palestinian Declaration of Principles.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -3490,11 +3490,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1034</id>
-        <start-date>1993-12-05</start-date>
+        <id>1035</id>
+        <start-date>1993-12-01</start-date>
         <end-date>1993-12-07</end-date>
-        <visitor>Prime Minister Felipe Gonzalez</visitor>
-        <from id="spain">Spain</from>
+        <visitor>Prime Minister Robert Malval</visitor>
+        <from id="haiti">Haiti</from>
         <description>Met with President Clinton during a private visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -3502,11 +3502,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1035</id>
-        <start-date>1993-12-01</start-date>
+        <id>1034</id>
+        <start-date>1993-12-05</start-date>
         <end-date>1993-12-07</end-date>
-        <visitor>Prime Minister Robert Malval</visitor>
-        <from id="haiti">Haiti</from>
+        <visitor>Prime Minister Felipe Gonzalez</visitor>
+        <from id="spain">Spain</from>
         <description>Met with President Clinton during a private visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -4497,11 +4497,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1117</id>
-        <start-date>1995-01-29</start-date>
-        <end-date>1995-02-02</end-date>
-        <visitor>President Mircea Snegur</visitor>
-        <from id="moldova">Moldova</from>
+        <id>1118</id>
+        <start-date>1995-01-15</start-date>
+        <end-date>1995-02-05</end-date>
+        <visitor>President Isaias Afwerki</visitor>
+        <from id="eritrea">Eritrea</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -4509,11 +4509,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1118</id>
-        <start-date>1995-01-15</start-date>
-        <end-date>1995-02-05</end-date>
-        <visitor>President Isaias Afwerki</visitor>
-        <from id="eritrea">Eritrea</from>
+        <id>1117</id>
+        <start-date>1995-01-29</start-date>
+        <end-date>1995-02-02</end-date>
+        <visitor>President Mircea Snegur</visitor>
+        <from id="moldova">Moldova</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -4658,11 +4658,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1130</id>
-        <start-date>1995-04-02</start-date>
-        <end-date>1995-04-04</end-date>
-        <visitor>Prime Minister John Major</visitor>
-        <from id="united-kingdom">United Kingdom</from>
+        <id>1131</id>
+        <start-date>1995-04-01</start-date>
+        <end-date>1995-04-05</end-date>
+        <visitor>President Hosni Mubarak</visitor>
+        <from id="egypt">Egypt</from>
         <description>Official working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -4670,11 +4670,11 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1131</id>
-        <start-date>1995-04-01</start-date>
-        <end-date>1995-04-05</end-date>
-        <visitor>President Hosni Mubarak</visitor>
-        <from id="egypt">Egypt</from>
+        <id>1130</id>
+        <start-date>1995-04-02</start-date>
+        <end-date>1995-04-04</end-date>
+        <visitor>Prime Minister John Major</visitor>
+        <from id="united-kingdom">United Kingdom</from>
         <description>Official working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
@@ -6304,6 +6304,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1266</id>
+        <start-date>1998-03-16</start-date>
+        <end-date>1998-03-20</end-date>
+        <visitor>King Hussein</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Private visit. Arrived in the U.S. March 12.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1264</id>
         <start-date>1998-03-17</start-date>
         <end-date>1998-03-17</end-date>
@@ -6322,18 +6334,6 @@
         <visitor>President Arpad Goncz</visitor>
         <from id="hungary">Hungary</from>
         <description>Private visit.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1266</id>
-        <start-date>1998-03-16</start-date>
-        <end-date>1998-03-20</end-date>
-        <visitor>King Hussein</visitor>
-        <from id="jordan">Jordan</from>
-        <description>Private visit. Arrived in the U.S. March 12.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -6586,6 +6586,18 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
+        <id>1291</id>
+        <start-date>1998-09-21</start-date>
+        <end-date>1998-09-23</end-date>
+        <visitor>President Nelson Mandela</visitor>
+        <from id="south-africa">South Africa</from>
+        <description>Working visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
         <id>1287</id>
         <start-date>1998-09-22</start-date>
         <end-date>1998-09-22</end-date>
@@ -6632,18 +6644,6 @@
         <from id="bulgaria">Bulgaria</from>
         <description>Attended a forum on “Strengthening Democracy in the Global Economy” at New York
             University.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>1291</id>
-        <start-date>1998-09-21</start-date>
-        <end-date>1998-09-23</end-date>
-        <visitor>President Nelson Mandela</visitor>
-        <from id="south-africa">South Africa</from>
-        <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
@@ -6952,18 +6952,6 @@
         <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>1316</id>
-        <start-date>1999-02-13</start-date>
-        <end-date>1999-02-15</end-date>
-        <visitor>Prime Minister Jenny Shipley</visitor>
-        <from id="new-zealand">New Zealand</from>
-        <description>Private visit; attended Global Forum on Reinventing Government.</description>
-        <created-by>joewiz</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
-    </visit>
-    <visit>
         <id>1317</id>
         <start-date>1999-01-28</start-date>
         <end-date>1999-01-28</end-date>
@@ -7030,6 +7018,18 @@
         <visitor>Chancellor Gerhard Schroeder</visitor>
         <from id="germany">Germany</from>
         <description>Working visit.</description>
+        <created-by>joewiz</created-by>
+        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>1316</id>
+        <start-date>1999-02-13</start-date>
+        <end-date>1999-02-15</end-date>
+        <visitor>Prime Minister Jenny Shipley</visitor>
+        <from id="new-zealand">New Zealand</from>
+        <description>Private visit; attended Global Forum on Reinventing Government.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
