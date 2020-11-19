@@ -5988,27 +5988,27 @@
     </visit>
     <visit>
         <id>1886</id>
-        <start-date>2006-03-30</start-date>
-        <end-date>2006-03-31</end-date>
+        <start-date>2007-03-30</start-date>
+        <end-date>2007-03-31</end-date>
         <visitor>President Luiz Inacio Lula Da Silva</visitor>
         <from id="brazil">Brazil</from>
         <description>Working visit. Met with President Bush at Camp David, MD.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2020-11-19T15:46:26.258-05:00</last-modified-datetime>
     </visit>
     <visit>
         <id>1887</id>
-        <start-date>2006-04-22</start-date>
-        <end-date>2006-04-24</end-date>
+        <start-date>2007-04-22</start-date>
+        <end-date>2007-04-24</end-date>
         <visitor>President Alan Garcia</visitor>
         <from id="peru">Peru</from>
         <description>Working visit.</description>
         <created-by>joewiz</created-by>
         <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
         <last-modified-by>joewiz</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2020-11-19T15:46:26.258-05:00</last-modified-datetime>
     </visit>
     <visit>
         <id>1888</id>
