@@ -8,9 +8,9 @@
         <from id="chile">Chile</from>
         <description>Visited President Taft in Beverly (Mass.) while en route to Europe for health
             reasons. In U.S. August 4–9.</description>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
@@ -34,9 +34,9 @@
         <from id="australia">Australia</from>
         <description>Met with President Wilson en route to Imperial Conference meetings in London.
             Arrived in U.S. May 13; visited New York City.</description>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
@@ -46,9 +46,9 @@
         <visitor>President-elect Pessoa</visitor>
         <from id="brazil">Brazil</from>
         <description>In U.S. June 20–27; visited New York City.</description>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
@@ -60,9 +60,9 @@
         <description>In U.S. October 2–31, visiting New York City, Boston (Massachusetts), Santa
             Barbara (California), San Francisco, and Los Angeles. Addressed U.S. Congress October
             28.</description>
-        <created-by>joewiz</created-by>
+        <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
-        <last-modified-by>joewiz</last-modified-by>
+        <last-modified-by>wicentowskijc</last-modified-by>
         <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
 </visits>
