@@ -3,6 +3,10 @@
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text match="//visits/*"/>
+            <text qname="visits">
+                <field name="within" expression="'department'"/>
+                <field name="content" expression="(visit/visitor, visit/description, visit/from)"/>
+            </text>
         </lucene>
         <range>
             <create qname="id" type="xs:string"/>
