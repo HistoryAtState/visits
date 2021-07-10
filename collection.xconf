@@ -2,10 +2,13 @@
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
-            <text match="//visits/*"/>
-            <text qname="visits">
-                <field name="within" expression="'department'"/>
-                <field name="content" expression="(visit/visitor, visit/description, visit/from)"/>
+            <text qname="visit">
+                <!-- start required facets and fields -->
+                <facet dimension="hsg-category" expression="'department'"/>
+                <facet dimension="hsg-publication" expression="'visits'"/>
+                <field name="hsg-fulltext" expression="visitor, description, from"/>
+                <field name="hsg-url" expression="'/departmenthistory/visits/' || year-from-date(./start-date)"/>
+                <!-- end required facets and fields -->
             </text>
         </lucene>
         <range>
