@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt3" xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
+<schema xmlns="http://purl.oclc.org/dsdl/schematron" xmlns:sqf="http://www.schematron-quickfix.com/validator/process" queryBinding="xslt3">
     <title>Visits Rules</title>
     
     <p>This schematron file contains rules for visits.</p>
@@ -15,7 +15,8 @@
     
     <pattern>
         <rule context="visit[preceding-sibling::visit]">
-            <assert test="start-date ge preceding-sibling::visit[1]/start-date">Visit ordering problem: Visits should be given in chronological order, but visit <value-of select="id"/> starts before visit <value-of select="preceding-sibling::visit[1]/id"/></assert>
+            <assert test="start-date ge preceding-sibling::visit[1]/start-date">Visit ordering problem: Visits should be given in chronological order, but visit <value-of select="id"/> starts before visit <value-of select="preceding-sibling::visit[1]/id"/>
+            </assert>
         </rule>
     </pattern>
     
