@@ -6,7 +6,7 @@
         <end-date>1920-09-16</end-date>
         <visitor>President-elect Porras</visitor>
         <from id="panama">Panama</from>
-        <description> </description>
+        <description/>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -18,8 +18,7 @@
         <end-date>1921-11-24</end-date>
         <visitor>Premier Briand</visitor>
         <from id="france">France</from>
-        <description>Attended Conference on the Limitation of Armaments. Departed November
-            25.</description>
+        <description>Attended Conference on the Limitation of Armaments. Departed November 25.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -67,8 +66,7 @@
         <end-date>1926-06-18</end-date>
         <visitor>President Borno</visitor>
         <from id="haiti">Haiti</from>
-        <description>In U.S. June 11–30, visiting New York City and Philadelphia
-            (Pennsylvania).</description>
+        <description>In U.S. June 11–30, visiting New York City and Philadelphia (Pennsylvania).</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -80,8 +78,7 @@
         <end-date>1927-04-25</end-date>
         <visitor>President Machado</visitor>
         <from id="cuba">Cuba</from>
-        <description>In U.S. April 20–May 7, visiting New York City, Chicago, and Atlanta
-            (Georgia).</description>
+        <description>In U.S. April 20–May 7, visiting New York City, Chicago, and Atlanta (Georgia).</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -93,9 +90,7 @@
         <end-date>1929-10-10</end-date>
         <visitor>Prime Minister MacDonald</visitor>
         <from id="united-kingdom">United Kingdom</from>
-        <description>Informal discussions in Washington and at Rapidan Camp (Virginia) concerning
-            naval limitations and application of the Paris Peace Pact. Afterwards visited New York
-            City. Departed for Canada October 14.</description>
+        <description>Informal discussions in Washington and at Rapidan Camp (Virginia) concerning naval limitations and application of the Paris Peace Pact. Afterwards visited New York City. Departed for Canada October 14.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -107,9 +102,7 @@
         <end-date>1929-12-29</end-date>
         <visitor>President-elect Ortiz Rubio</visitor>
         <from id="mexico">Mexico</from>
-        <description>In U.S. December 4, 1929–January 16, 1930, visiting Houston, Hot Springs
-            (Arkansas), New York City, Baltimore (Maryland), Buffalo (New York), Detroit (Michigan),
-            Chicago, Kansas City (Missouri), and San Francisco.</description>
+        <description>In U.S. December 4, 1929–January 16, 1930, visiting Houston, Hot Springs (Arkansas), New York City, Baltimore (Maryland), Buffalo (New York), Detroit (Michigan), Chicago, Kansas City (Missouri), and San Francisco.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
