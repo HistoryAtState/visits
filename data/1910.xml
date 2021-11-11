@@ -1,2 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<visits/>
+<visits>
+    <visit>
+        <id>2144</id>
+        <start-date>1910-08-06</start-date>
+        <end-date>1910-08-06</end-date>
+        <visitor>President Montt</visitor>
+        <from id="chile">Chile</from>
+        <description>Visited President Taft in Beverly (Mass.) while en route to Europe for health reasons. In U.S. August 4–9.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2607</id>
+        <start-date>1913-10-19</start-date>
+        <end-date>1913-10-20</end-date>
+        <visitor>Prince Albert I</visitor>
+        <from id="monaco">Monaco</from>
+        <description>Arrived in the U.S. September 11, 1913. Met with President Wilson October 20, 1913 during a private visit.</description>
+        <created-by>marrsaw</created-by>
+        <created-datetime>2013-08-20T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>marrsaw</last-modified-by>
+        <last-modified-datetime>2013-08-20T16:17:47.87-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2145</id>
+        <start-date>1918-05-27</start-date>
+        <end-date>1918-05-30</end-date>
+        <visitor>Prime Minister Hughes</visitor>
+        <from id="australia">Australia</from>
+        <description>Met with President Wilson en route to Imperial Conference meetings in London. Arrived in U.S. May 13; visited New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2146</id>
+        <start-date>1919-06-21</start-date>
+        <end-date>1919-06-25</end-date>
+        <visitor>President-elect Pessoa</visitor>
+        <from id="brazil">Brazil</from>
+        <description>In U.S. June 20–27; visited New York City.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+    </visit>
+    <visit>
+        <id>2147</id>
+        <start-date>1919-10-27</start-date>
+        <end-date>1919-10-30</end-date>
+        <visitor>King Albert</visitor>
+        <from id="belgium">Belgium</from>
+        <description>In U.S. October 2–31, visiting New York City, Boston (Massachusetts), Santa Barbara (California), San Francisco, and Los Angeles. Addressed U.S. Congress October 28.</description>
+        <created-by>wicentowskijc</created-by>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
+        <last-modified-by>wicentowskijc</last-modified-by>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
+    </visit>
+</visits>
