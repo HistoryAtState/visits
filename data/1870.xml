@@ -8,9 +8,9 @@
         <from id="hawaii">Hawaii</from>
         <description>In U.S. November 29, 1874–February 2, 1875. Stops included New York City, Boston, Chicago, St. Louis (Missouri), and Omaha (Nebraska). First visit by a foreign Chief of State or Head of Government.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-10-25T20:17:47.870Z</created-datetime>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-10-25T20:17:47.870Z</last-modified-datetime>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2139</id>
@@ -20,8 +20,8 @@
         <from id="brazil">Brazil</from>
         <description>Visited U.S. April 15–July 12, covering over 9,000 miles. Traveled from New York to San Francisco, to New Orleans, and to Boston. Revisited Washington June 2; attended the Centennial Exposition in Philadelphia (Pennsylvania) June 20–25.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-10-25T20:17:47.870Z</created-datetime>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-10-25T20:17:47.870Z</last-modified-datetime>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
 </visits>

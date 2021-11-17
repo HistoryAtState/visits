@@ -8,9 +8,9 @@
         <from id="greece">Greece</from>
         <description>Official Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-03T13:30:59.000Z</created-datetime>
+        <created-datetime>2021-06-03T09:30:59-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:45:39.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:45:39-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2992</id>
@@ -20,9 +20,9 @@
         <from id="israel">Israel</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-03T13:33:01.000Z</created-datetime>
+        <created-datetime>2021-06-03T09:33:01-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:43:59.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:43:59-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2993</id>
@@ -32,9 +32,9 @@
         <from id="venezuela">Venezuela</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-03T13:36:40.000Z</created-datetime>
+        <created-datetime>2021-06-03T09:36:40-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:43:53.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:43:53-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2996</id>
@@ -44,9 +44,9 @@
         <from id="kenya">Kenya</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-07T14:44:00.000Z</created-datetime>
+        <created-datetime>2021-06-07T10:44:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:45:19.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:45:19-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2997</id>
@@ -56,9 +56,9 @@
         <from id="ecuador">Ecuador</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-07T15:31:00.000Z</created-datetime>
+        <created-datetime>2021-06-07T11:31:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:45:39.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:45:39-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2998</id>
@@ -68,9 +68,9 @@
         <from id="colombia">Colombia</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-07T15:33:00.000Z</created-datetime>
+        <created-datetime>2021-06-07T11:33:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:44:23.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:44:23-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2999</id>
@@ -80,9 +80,9 @@
         <from id="ireland">Ireland</from>
         <description>Official Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-07T15:34:00.000Z</created-datetime>
+        <created-datetime>2021-06-07T11:34:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:45:28.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:45:28-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3000</id>
@@ -92,9 +92,9 @@
         <from id="poland">Poland</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-07T15:36:00.000Z</created-datetime>
+        <created-datetime>2021-06-07T11:36:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:45:45.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:45:45-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3001</id>
@@ -104,9 +104,9 @@
         <from id="mexico">Mexico</from>
         <description>Official Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-07T15:38:00.000Z</created-datetime>
+        <created-datetime>2021-06-07T11:38:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:44:14.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:44:14-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3007</id>
@@ -116,9 +116,9 @@
         <from id="iraq">Iraq</from>
         <description>Official Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-09T14:30:00.000Z</created-datetime>
+        <created-datetime>2021-06-09T10:30:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:45:32.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:45:32-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3008</id>
@@ -128,9 +128,9 @@
         <from id="serbia">Serbia</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-09T14:33:00.000Z</created-datetime>
+        <created-datetime>2021-06-09T10:33:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:43:50.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:43:50-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3009</id>
@@ -140,9 +140,9 @@
         <from id="kosovo">Kosovo</from>
         <description>Working Visit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-09T14:36:00.000Z</created-datetime>
+        <created-datetime>2021-06-09T10:36:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:44:17.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:44:17-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3010</id>
@@ -152,9 +152,9 @@
         <from id="israel">Israel</from>
         <description>Abraham Accords Signing Ceremony.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-09T14:37:00.000Z</created-datetime>
+        <created-datetime>2021-06-09T10:37:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:43:37.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:43:37-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3013</id>
@@ -164,8 +164,8 @@
         <from id="kuwait">Kuwait</from>
         <description>Private Ceremony for the Legion of Merit.</description>
         <created-by>cabrerath</created-by>
-        <created-datetime>2021-06-09T14:52:00.000Z</created-datetime>
+        <created-datetime>2021-06-09T10:52:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-11-15T17:45:54.000Z</last-modified-datetime>
+        <last-modified-datetime>2021-11-15T13:45:54-04:00</last-modified-datetime>
     </visit>
 </visits>

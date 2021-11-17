@@ -8,9 +8,9 @@
         <from id="chile">Chile</from>
         <description>Visited President Taft in Beverly (Mass.) while en route to Europe for health reasons. In U.S. August 4–9.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-10-25T20:17:47.870Z</created-datetime>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-10-25T20:17:47.870Z</last-modified-datetime>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2607</id>
@@ -20,9 +20,9 @@
         <from id="monaco">Monaco</from>
         <description>Arrived in the U.S. September 11, 1913. Met with President Wilson October 20, 1913 during a private visit.</description>
         <created-by>marrsaw</created-by>
-        <created-datetime>2013-08-20T20:17:47.870Z</created-datetime>
+        <created-datetime>2013-08-20T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-08-20T20:17:47.870Z</last-modified-datetime>
+        <last-modified-datetime>2013-08-20T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2145</id>
@@ -32,9 +32,9 @@
         <from id="australia">Australia</from>
         <description>Met with President Wilson en route to Imperial Conference meetings in London. Arrived in U.S. May 13; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-10-25T20:17:47.870Z</created-datetime>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-10-25T20:17:47.870Z</last-modified-datetime>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2146</id>
@@ -44,9 +44,9 @@
         <from id="brazil">Brazil</from>
         <description>In U.S. June 20–27; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-10-25T20:17:47.870Z</created-datetime>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-10-25T20:17:47.870Z</last-modified-datetime>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2147</id>
@@ -56,8 +56,8 @@
         <from id="belgium">Belgium</from>
         <description>In U.S. October 2–31, visiting New York City, Boston (Massachusetts), Santa Barbara (California), San Francisco, and Los Angeles. Addressed U.S. Congress October 28.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-10-25T20:17:47.870Z</created-datetime>
+        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-10-25T20:17:47.870Z</last-modified-datetime>
+        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
     </visit>
 </visits>
