@@ -1,15 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<visits>
-    <visit>
-        <id>2142</id>
-        <start-date>1898-01-26</start-date>
-        <end-date>1898-02-06</end-date>
-        <visitor>President Dole</visitor>
-        <from id="hawaii">Hawaii</from>
-        <description>Discussed U.S. annexation of Hawaii. In U.S. January 17–February 22, visiting San Francisco, Chicago, Buffalo (New York), Cleveland (Ohio), and St. Louis (Missouri).</description>
-        <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-10-25T16:17:47.87-04:00</last-modified-datetime>
-    </visit>
-</visits>
+<visits/>
