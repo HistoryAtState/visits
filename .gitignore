@@ -2,5 +2,3 @@ build/*
 .existdb.json
 .idea
 .DS_Store
-expath-pkg.xml
-repo.xml
