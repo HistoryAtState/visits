@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="87397e954313ef3de195009ef231ff46bad53f41" commit-time="1659361155">
+    <description>Visits (data)</description>
+    <author>Office of the Historian</author>
+    <website>https://history.state.gov</website>
+    <status/>
+    <license/>
+    <copyright/>
+    <type>application</type>
+    <target>visits</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions password="" user="hsg" group="hsg" mode="rw-rw-r--"/>
+</meta>
