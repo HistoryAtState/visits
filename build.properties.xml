@@ -4,6 +4,7 @@
         <name>visits</name>
         <url>http://history.state.gov/ns/data/visits</url>
         <title>Visits (data)</title>
-        <version>0.4</version>
+        <!-- VERSION SET AUTOMATICALLY DO NOT CHANGE -->
+        <!-- <version>0.4.0</version> -->
     </app>
 </root>
