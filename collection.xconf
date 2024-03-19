@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
@@ -7,8 +8,7 @@
                 <facet dimension="hsg-category" expression="'department'"/>
                 <facet dimension="hsg-publication" expression="'visits'"/>
                 <field expression="visitor, description, from" name="hsg-fulltext"/>
-                <field expression="'/departmenthistory/visits/' || year-from-date(./start-date)"
-                    name="hsg-url"/>
+                <field expression="'/departmenthistory/visits/' || year-from-date(./start-date)" name="hsg-url"/>
                 <!-- end required facets and fields -->
             </text>
         </lucene>
