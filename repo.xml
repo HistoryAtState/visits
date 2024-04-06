@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<meta commit-id="@commit-id@" commit-time="@commit-time@" xmlns="http://exist-db.org/xquery/repo">
+<meta commit-id="7925851beedcc74ed102e1ff93eec6cc7cc8b6a6" commit-time="1683587877" xmlns="http://exist-db.org/xquery/repo">
     <description>Visits (data)</description>
     <author>Office of the Historian</author>
     <website>https://history.state.gov</website>
