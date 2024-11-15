@@ -2416,7 +2416,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2014-06-10T15:00:08.603-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2020-11-19T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2020-11-19T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2686</id>
@@ -3403,7 +3403,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2016-10-06T21:37:40.266-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2020-11-19T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2020-11-19T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2768</id>
@@ -3433,7 +3433,7 @@
         <id>2770</id>
         <start-date>2014-08-05</start-date>
         <end-date>2014-08-06</end-date>
-        <visitor>President Yoweri Kaguta Museveni</visitor>
+        <visitor>President Yoweri Museveni</visitor>
         <from id="uganda">Uganda</from>
         <description>Attended the U.S.-Africa Leaders Summit.</description>
         <created-by>wicentowskijc</created-by>
@@ -4745,8 +4745,8 @@
         <end-date>2016-12-27</end-date>
         <visitor>Prime Minister Shinzō Abe</visitor>
         <from id="japan">Japan</from>
-        <description>Attended a memorial service at the U.S.S. <em>Arizona</em> Memorial, Pearl
-            Harbor, Hawaii.</description>
+        <description>Attended a memorial service at the U.S.S. Arizona Memorial, Pearl Harbor,
+            Hawaii.</description>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2017-04-21T14:29:13.672-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -4982,11 +4982,11 @@
         <last-modified-datetime>2017-10-24T14:29:13.672-04:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>2965</id>
+        <id>2951</id>
         <start-date>2017-06-15</start-date>
         <end-date>2017-06-16</end-date>
-        <visitor>President Juan Hernando Hernandez</visitor>
-        <from id="honduras">Honduras</from>
+        <visitor>President Jimmy Morales</visitor>
+        <from id="guatemala">Guatemala</from>
         <description>Attended the Conference on Prosperity and Security in Central America, in
             Washington and in Doral, Florida.</description>
         <created-by>faithti</created-by>
@@ -4995,11 +4995,11 @@
         <last-modified-datetime>2017-10-24T14:29:13.672-04:00</last-modified-datetime>
     </visit>
     <visit>
-        <id>2951</id>
+        <id>2965</id>
         <start-date>2017-06-15</start-date>
         <end-date>2017-06-16</end-date>
-        <visitor>President Jimmy Morales</visitor>
-        <from id="guatemala">Guatemala</from>
+        <visitor>President Juan Hernando Hernandez</visitor>
+        <from id="honduras">Honduras</from>
         <description>Attended the Conference on Prosperity and Security in Central America, in
             Washington and in Doral, Florida.</description>
         <created-by>faithti</created-by>
@@ -5198,7 +5198,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2019-07-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2966</id>
@@ -5210,7 +5210,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2900</id>
@@ -5354,7 +5354,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2911</id>
@@ -5378,7 +5378,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2912</id>
@@ -5414,7 +5414,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2970</id>
@@ -5426,7 +5426,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2914</id>
@@ -5486,7 +5486,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2972</id>
@@ -5498,7 +5498,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2973</id>
@@ -5510,19 +5510,7 @@
         <created-by>bottsjd</created-by>
         <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T15:46:26.258-05:00</last-modified-datetime>
-    </visit>
-    <visit>
-        <id>2974</id>
-        <start-date>2019-01-31</start-date>
-        <end-date>2019-01-31</end-date>
-        <visitor>Vice Premier Liu He</visitor>
-        <from id="china">China, People’s Republic of</from>
-        <description>Bilateral Meeting.</description>
-        <created-by>bottsjd</created-by>
-        <created-datetime>2021-02-25T16:12:57.84-04:00</created-datetime>
-        <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2021-02-25T17:19:34.816-04:00</last-modified-datetime>
+        <last-modified-datetime>2021-02-25T16:46:26.258-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2975</id>

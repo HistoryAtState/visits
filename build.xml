@@ -39,7 +39,7 @@
         <echo message="------------------------------------------------------------"/>
         <echo message="Creating xar file..."/>
         <echo message="------------------------------------------------------------"/>
-        
+
         <zip basedir="${basedir}" destfile="${build.dir}/${app.name}.xar">
             <exclude name="${build.dir}/**"/>
             <exclude name="*.tmpl"/>
