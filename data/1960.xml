@@ -365,9 +365,9 @@
         <from id="mauritania">Mauritania</from>
         <description>Met President Eisenhower.</description>
         <created-by>marrsaw</created-by>
-        <created-datetime>2014-01-28T10:28:43.157-05:00</created-datetime>
+        <created-datetime>2014-01-28T11:28:43.157-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-01-28T10:28:43.157-05:00</last-modified-datetime>
+        <last-modified-datetime>2014-01-28T11:28:43.157-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2419</id>
@@ -569,7 +569,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-07-13T10:28:43.157-05:00</last-modified-datetime>
+        <last-modified-datetime>2013-07-13T11:28:43.157-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2435</id>
@@ -1505,7 +1505,7 @@
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2015-07-06T10:28:43.157-05:00</last-modified-datetime>
+        <last-modified-datetime>2015-07-06T11:28:43.157-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2508</id>
@@ -1999,9 +1999,9 @@
             presided over mass at Yankee Stadium, and attended the New York World’s
             Fair.</description>
         <created-by>marrsaw</created-by>
-        <created-datetime>2014-02-20T10:28:43.157-05:00</created-datetime>
+        <created-datetime>2014-02-20T11:28:43.157-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2014-02-20T10:28:43.157-05:00</last-modified-datetime>
+        <last-modified-datetime>2014-02-20T11:28:43.157-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2546</id>
@@ -2049,9 +2049,9 @@
         <description>Official visit. Conferred with President Johnson in Honolulu on military and
             economic assistance to Vietnam.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>2</id>
@@ -2062,9 +2062,9 @@
         <description>Official visit. In U.S. March 27–April 1; visited Williamsburg and New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>3</id>
@@ -2075,9 +2075,9 @@
         <description>Private visit. Arrived in U.S. April 20; visited New York City and Omaha. Met
             with President Johnson April 27.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>4</id>
@@ -2088,9 +2088,9 @@
         <description>State visit. In U.S. June 20–30; visited Williamsburg and New
             York</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>5</id>
@@ -2101,9 +2101,9 @@
         <description>Informal visit while en route to London. Also visited New York City. Departed
             U.S. July 6</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>6</id>
@@ -2113,9 +2113,9 @@
         <from id="australia">Australia</from>
         <description>Informal visit during return trip from London.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>7</id>
@@ -2126,9 +2126,9 @@
         <description>Informal visit. Afterwards visited San Francisco, Los Angeles, Houston, and
             Austin. Departed U.S. July 30.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>8</id>
@@ -2138,9 +2138,9 @@
         <from id="united-kingdom">United Kingdom</from>
         <description>Informal visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>9</id>
@@ -2151,9 +2151,9 @@
         <description>In U.S. July 28–August 4; visited New York City. Informal meeting with
             President Johnson.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>10</id>
@@ -2164,9 +2164,9 @@
         <description>State visit. In U.S. September 8–10; visited New York City, Williamsburg,
             California, and Hawaii.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>marrsaw</last-modified-by>
-        <last-modified-datetime>2013-06-27T10:28:43.157-05:00</last-modified-datetime>
+        <last-modified-datetime>2013-06-27T11:28:43.157-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>11</id>
@@ -2178,9 +2178,9 @@
             Honolulu, Los Angeles, New York City, Chicago, Ann Arbor, and San
             Francisco.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>12</id>
@@ -2190,9 +2190,9 @@
         <from id="germany">Germany, Federal Republic of</from>
         <description>Informal visit. In U.S. September 24–27; visited Cape Kennedy.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>13</id>
@@ -2202,9 +2202,9 @@
         <from id="senegal">Senegal</from>
         <description>State Visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>14</id>
@@ -2214,9 +2214,9 @@
         <from id="laos">Laos</from>
         <description>Informal meetings with President Johnson in New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>15</id>
@@ -2227,9 +2227,9 @@
         <description>Informal visit. In U.S. January 18–31; visited Honolulu, Los Angeles, Cape
             Kennedy, and New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>16</id>
@@ -2240,9 +2240,9 @@
         <description>Informal visit. Afterwards made a private visit to New York City. In U.S.
             February 8–17.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>17</id>
@@ -2253,9 +2253,9 @@
         <description>State visit. Afterwards visited New York City. Departed U.S. February
             17.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>18</id>
@@ -2266,9 +2266,9 @@
         <description>Informal visit. In U.S. March 12–17; visited Philadelphia, New York City, San
             Francisco, and Los Angeles.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>19</id>
@@ -2279,9 +2279,9 @@
         <description>Official visit. In U.S. March 25–April 9; visited New York City, Santa Barbara
             (Calif.), and Chicago.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>20</id>
@@ -2293,9 +2293,9 @@
             Springs, Los Angeles, San Francisco, Kansas City, Chicago, Detroit, Lansing, Niagara
             Falls, and New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>21</id>
@@ -2305,9 +2305,9 @@
         <from id="nicaragua">Nicaragua</from>
         <description>Informal visit. Arrived in U.S. March 18; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>22</id>
@@ -2319,9 +2319,9 @@
             Kennedy, Houston, New York City, Seattle, San Francisco, Los Angeles, and
             Honolulu.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>23</id>
@@ -2331,9 +2331,9 @@
         <from id="australia">Australia</from>
         <description>Official visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>24</id>
@@ -2343,9 +2343,9 @@
         <from id="united-kingdom">United Kingdom</from>
         <description>Official visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>25</id>
@@ -2356,9 +2356,9 @@
         <description>Private visit. In U.S. June 2–11; visited Amherst (Mass.), and Kansas
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>26</id>
@@ -2369,9 +2369,9 @@
         <description>Informal visit. Discussed the Middle East crisis with President
             Johnson.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>27</id>
@@ -2382,9 +2382,9 @@
         <description>Informal visit. Discussed the Middle East crisis with President
             Johnson.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>28</id>
@@ -2396,9 +2396,9 @@
             Soviet delegation to the 5th Emergency Session of the U.N. General
             Assembly.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>29</id>
@@ -2408,9 +2408,9 @@
         <from id="romania">Romania</from>
         <description>Informal visit. Departed U.S. June 27; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>30</id>
@@ -2422,9 +2422,9 @@
             (Mass.), Los Angeles, Tarrytown (N.Y.), and North Haven (Me.). Visited Canada June
             20–24.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>31</id>
@@ -2435,9 +2435,9 @@
         <description>Informal visit while attending U.N. General Assembly session; in U.S. June
             24–30.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>32</id>
@@ -2448,9 +2448,9 @@
         <description>Informal visit. In U.S. July 17–August 5; visited New York City and Boston.
             Travelled to Canada July 28–August 2.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>33</id>
@@ -2460,9 +2460,9 @@
         <from id="germany">Germany, Federal Republic of</from>
         <description>Official visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>34</id>
@@ -2472,9 +2472,9 @@
         <from id="rwanda">Rwanda</from>
         <description>Informal visit. In U.S. August 13–14; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>35</id>
@@ -2485,9 +2485,9 @@
         <description>Official visit. Travelled to Canada August 22–26, and made a private visit to
             New York City, August 26– September 1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>36</id>
@@ -2497,9 +2497,9 @@
         <from id="iran">Iran</from>
         <description>Official visit. Arrived in New York City August 21.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>37</id>
@@ -2510,9 +2510,9 @@
         <description>Informal visit. Arrived in New York City August 24; visited Canada August
             26–September 9. Visited Newport (R.I.) September 10 and 12.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>38</id>
@@ -2523,9 +2523,9 @@
         <description>Official visit. Afterwards visited Los Angeles. Departed U.S. September
             21.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>39</id>
@@ -2536,9 +2536,9 @@
         <description>Informal visit. Afterwards visited New York City and San Diego. Departed U.S.
             September 30.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>40</id>
@@ -2549,9 +2549,9 @@
         <description>Official visit. In U.S. September 25–October11; visited the Virgin Islands,
             Tucson, Chicago, New York City, and San Francisco.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>41</id>
@@ -2561,9 +2561,9 @@
         <from id="denmark">Denmark</from>
         <description>Informal visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>42</id>
@@ -2573,9 +2573,9 @@
         <from id="malta">Malta</from>
         <description>Informal visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>43</id>
@@ -2586,9 +2586,9 @@
         <description>Private visit. In U.S. October 9–14; visited Tampa, Cape Kennedy, and New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>44</id>
@@ -2598,9 +2598,9 @@
         <from id="jamaica">Jamaica</from>
         <description>Informal visit. In U.S. October 7–14; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>45</id>
@@ -2611,9 +2611,9 @@
         <description>Official visit. In U.S. October 16–27; visited Williamsburg, New York City,
             Boston, St. Louis, Chicago, San Francisco, and Los Angeles.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>46</id>
@@ -2624,9 +2624,9 @@
         <description>Informal visit. Arrived in U.S. October 10; visited New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>47</id>
@@ -2637,9 +2637,9 @@
         <description>Informal visit. In U.S. October 19–25; visited New York City and
             Pittsburgh.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>48</id>
@@ -2650,9 +2650,9 @@
         <description>State visit at Washington and El Paso (Tex.). Addressed Joint Session of U.S.
             Congress October 27.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>49</id>
@@ -2663,9 +2663,9 @@
         <description>State visit. In U.S. October 30–December 3; visited Williamsburg, Cape Kennedy,
             and New York City. Hunting trip in Alaska after November 9.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>50</id>
@@ -2676,9 +2676,9 @@
         <description>Informal visit. In U.S. November 2–12; visited New York City and
             Chicago.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>51</id>
@@ -2689,9 +2689,9 @@
         <description>Official visit. In U.S. November 12–19; visited New York City and Springfield
             (Ill.).</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>52</id>
@@ -2702,9 +2702,9 @@
         <description>Informal visit at LBJ Ranch. In U.S. January 4–12; visited New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>53</id>
@@ -2714,9 +2714,9 @@
         <from id="united-kingdom">United Kingdom</from>
         <description>Informal visit. Afterwards visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>54</id>
@@ -2727,9 +2727,9 @@
         <description>Official visit. In U.S. March 13–21; visited New York City, Knoxville, Cape
             Kennedy, and Syracuse (N.Y.).</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>55</id>
@@ -2740,9 +2740,9 @@
         <description>Official visit. In U.S. March 19–23; visited Williamsburg and New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>56</id>
@@ -2753,9 +2753,9 @@
         <description>Official visit. In U.S. March 23–April 3; visited New York City, Baltimore, and
             Cedar Rapids (Ia.).</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>57</id>
@@ -2766,22 +2766,22 @@
         <description>Official visit. In U.S. April 6–17; visited New York City, Chicago, San
             Francisco, and Los Angeles.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>58</id>
         <start-date>1968-04-17</start-date>
         <end-date>1968-04-18</end-date>
-        <visitor>President Chung Hee Park</visitor>
+        <visitor>President Park Chung Hee</visitor>
         <from id="korea-south">Korea</from>
         <description>Discussed the crisis in Korea and the Vietnam conflict with President Johnson
             in Honolulu.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>59</id>
@@ -2793,9 +2793,9 @@
             Kennedy, New Orleans, Los Angeles, San Francisco, Seattle, Minneapolis, Duluth, Madison,
             Chicago, and New York City. Private visit after May 2.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>60</id>
@@ -2806,9 +2806,9 @@
         <description>Informal visit. Afterwards visited Cape Kennedy. Departed U.S. May
             10.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>61</id>
@@ -2820,9 +2820,9 @@
             Lansing (Mich.), and New York City. Private visit to Washington and Los Angeles, May
             11–13.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>62</id>
@@ -2833,9 +2833,9 @@
         <description>State visit. In U.S. May 12–21; visited Williamsburg (private), Houston, San
             Antonio, and New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>63</id>
@@ -2846,9 +2846,9 @@
         <description>Official visit. In U.S. May 23–31; visited Honolulu, San Francisco, and New
             York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>64</id>
@@ -2859,9 +2859,9 @@
         <description>Official visit. In U.S. June 3– 7; visited Williamsburg, San Antonio, and
             Miami.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>65</id>
@@ -2871,9 +2871,9 @@
         <from id="jamaica">Jamaica</from>
         <description>Informal visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>66</id>
@@ -2884,9 +2884,9 @@
         <description>Private visit. In U.S. June 10–16; visited New York City, St. Louis, Cambridge
             (Mass.), and Chicago.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>67</id>
@@ -2897,9 +2897,9 @@
         <description>Informal visit at LBJ Ranch, and Bolivia Day ceremonies in San Antonio
             (Tex.).</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>68</id>
@@ -2910,9 +2910,9 @@
         <description>Discussed military developments in Vietnam and political developments in Paris
             with President Johnson in Honolulu.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>69</id>
@@ -2922,9 +2922,9 @@
         <from id="guyana">Guyana</from>
         <description>Informal visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>70</id>
@@ -2935,9 +2935,9 @@
         <description>Official visit. Private visit to New York City and Philadelphia September 8–10,
             and to San Francisco September 13–16.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>71</id>
@@ -2947,9 +2947,9 @@
         <from id="swaziland">Swaziland</from>
         <description>Informal visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>72</id>
@@ -2960,9 +2960,9 @@
         <description>Official visit; visited San Antonio, Lubbock, Cape Kennedy, and New York City.
             Private visit after October 6.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>73</id>
@@ -2973,9 +2973,9 @@
         <description>Official visit. In U.S. October 6–16; attended ANZUS Council meeting and
             visited Los Angeles, New York City, and Seattle.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>74</id>
@@ -2986,9 +2986,9 @@
         <description>Official visit. In U.S. December 3–16; visited New York City, Cape Kennedy,
             Palm Beach, Los Angeles, and Honolulu.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>75</id>
@@ -2999,9 +2999,9 @@
         <description>Informal visit. Arrived in U.S. November 14; visiting fellow at Harvard
             University’s John F. Kennedy School of Government.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>76</id>
@@ -3013,9 +3013,9 @@
             Beach, and New York City. Private visit to New York City and Washington after December
             17.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>77</id>
@@ -3026,9 +3026,9 @@
         <description>Official visit for opening of Lopez Mateo Channel of Rio Grande, El Paso,
             Texas.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>78</id>
@@ -3038,9 +3038,9 @@
         <from id="benin">Dahomey (Benin)</from>
         <description>Private visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>79</id>
@@ -3050,9 +3050,9 @@
         <from id="canada">Canada</from>
         <description>Official visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>80</id>
@@ -3063,9 +3063,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon March
             31</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>81</id>
@@ -3076,9 +3076,9 @@
         <description>Consultations with IBRD; attended Eisenhower funeral; met with President Nixon
             March 31.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>82</id>
@@ -3089,9 +3089,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>83</id>
@@ -3102,9 +3102,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>84</id>
@@ -3115,9 +3115,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>85</id>
@@ -3128,9 +3128,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>86</id>
@@ -3141,9 +3141,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>87</id>
@@ -3154,9 +3154,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>88</id>
@@ -3167,9 +3167,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>89</id>
@@ -3180,9 +3180,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon April
             1.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>90</id>
@@ -3193,9 +3193,9 @@
         <description>Attended funeral of former President Eisenhower; met with President Nixon March
             31.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>91</id>
@@ -3206,9 +3206,9 @@
         <description>Official visit. In U.S. April 7–18; visited Williamsburg and McDill AFB.
             Private visit to New York City after April 11.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>92</id>
@@ -3218,9 +3218,9 @@
         <from id="iceland">Iceland</from>
         <description>Met with President Nixon April 11 after NATO Ministerial Meeting.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>93</id>
@@ -3230,9 +3230,9 @@
         <from id="australia">Australia</from>
         <description>Official visit. In U.S. May 1–8; visited Williamsburg.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>94</id>
@@ -3242,9 +3242,9 @@
         <from id="singapore">Singapore</from>
         <description>Private visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>95</id>
@@ -3254,9 +3254,9 @@
         <from id="sierra-leone">Sierra Leone</from>
         <description>Official visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>96</id>
@@ -3267,9 +3267,9 @@
         <description>Informal visit. In U.S. May 17–23; visited Palm Beach, Cape Kennedy, New York
             City, and Houston.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>97</id>
@@ -3280,9 +3280,9 @@
         <description>Official visit. In U.S. May 26–29; visited Williamsburg, Annapolis, and New
             York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>98</id>
@@ -3292,9 +3292,9 @@
         <from id="vietnam">Vietnam</from>
         <description>Met with President Nixon at Midway Island.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>99</id>
@@ -3305,9 +3305,9 @@
         <description>State visit. In U.S. June 11–18; visited Williamsburg and New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>100</id>
@@ -3318,9 +3318,9 @@
         <description>State visit. Afterwards visited Atlanta and Cape Kennedy. Departed U.S. July
             11.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>101</id>
@@ -3330,22 +3330,22 @@
         <from id="germany">Germany, Federal Republic of</from>
         <description>Official visit. In U.S. August 5–9; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>102</id>
         <start-date>1969-08-20</start-date>
         <end-date>1969-08-22</end-date>
-        <visitor>President Chung Hee Park</visitor>
+        <visitor>President Park Chung Hee</visitor>
         <from id="korea-south">Korea</from>
         <description>Official visit at San Francisco. Private visit afterward until August
             24.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>103</id>
@@ -3356,9 +3356,9 @@
         <description>Official visit. In U.S. September 14–21; visited Los Angeles and New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>104</id>
@@ -3369,9 +3369,9 @@
         <description>Met with President Nixon in New York City while attending a U.N. General
             Assembly session.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>105</id>
@@ -3382,9 +3382,9 @@
         <description>Official visit. In U.S. September 24–October 5. Private visit to Washington
             September 27–28; then visited New York City, Los Angeles, and Milwaukee.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>106</id>
@@ -3394,9 +3394,9 @@
         <from id="laos">Laos</from>
         <description>Official visit. In U.S. October 3–11; visited New York City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>107</id>
@@ -3406,9 +3406,9 @@
         <from id="somalia">Somali Republic</from>
         <description>Private visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>108</id>
@@ -3418,9 +3418,9 @@
         <from id="cameroon">Cameroon</from>
         <description>Private visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>109</id>
@@ -3430,9 +3430,9 @@
         <from id="malaysia">Malaysia</from>
         <description>Private visit.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>110</id>
@@ -3442,9 +3442,9 @@
         <from id="ghana">Ghana</from>
         <description>Private visit</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>111</id>
@@ -3455,9 +3455,9 @@
         <description>Official visit. In U.S. October 17; visited Williamsburg and New York
             City.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
     <visit>
         <id>112</id>
@@ -3468,8 +3468,8 @@
         <description>Official visit. In U.S. November 16–25; visited New York City and San
             Francisco.</description>
         <created-by>wicentowskijc</created-by>
-        <created-datetime>2010-02-25T10:15:14.612-06:00</created-datetime>
+        <created-datetime>2010-02-25T12:15:14.612-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-25T10:14:48.898-06:00</last-modified-datetime>
+        <last-modified-datetime>2010-02-25T12:14:48.898-04:00</last-modified-datetime>
     </visit>
 </visits>

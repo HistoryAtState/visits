@@ -21,7 +21,8 @@
             <assert test="start-date ge preceding-sibling::visit[1]/start-date">Visit ordering
                 problem: Visits should be given in chronological order, but visit <value-of
                     select="id"/> starts before visit <value-of
-                    select="preceding-sibling::visit[1]/id"/></assert>
+                    select="preceding-sibling::visit[1]/id"/>
+            </assert>
         </rule>
     </pattern>
 

@@ -121,7 +121,7 @@
         <end-date>1941-05-02</end-date>
         <visitor>Grand Duchess Charlotte</visitor>
         <from id="luxembourg">Luxembourg</from>
-        <description> </description>
+        <description/>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
@@ -337,7 +337,7 @@
         <end-date>1942-08-25</end-date>
         <visitor>Grand Duchess Charlotte</visitor>
         <from id="luxembourg">Luxembourg</from>
-        <description> </description>
+        <description/>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-10-25T16:17:47.87-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>
