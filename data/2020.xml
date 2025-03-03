@@ -1603,7 +1603,7 @@
         <id>3152</id>
         <start-date>2023-03-03</start-date>
         <end-date>2023-03-03</end-date>
-        <visitor>Chancellor Olaf Scholtz</visitor>
+        <visitor>Chancellor Olaf Scholz</visitor>
         <from id="germany">Germany, Federal Republic of</from>
         <description>Working Visit.</description>
         <created-by>doa-exist-temp</created-by>
@@ -2517,6 +2517,815 @@
         <description>Official Working Visit.</description>
         <created-by>doa-exist-temp</created-by>
         <created-datetime>2024-08-28T15:04:01-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3243</id>
+        <start-date>2024-02-09</start-date>
+        <end-date>2024-02-09</end-date>
+        <visitor>Chancellor Olaf Scholz</visitor>
+        <from id="germany">Germany</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3244</id>
+        <start-date>2024-02-12</start-date>
+        <end-date>2024-02-12</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3245</id>
+        <start-date>2024-03-01</start-date>
+        <end-date>2024-03-01</end-date>
+        <visitor>Prime Minister Giorgia Meloni </visitor>
+        <from id="italy">Italy</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3246</id>
+        <start-date>2024-03-12</start-date>
+        <end-date>2024-03-12</end-date>
+        <visitor>President Andrzej Duda and Prime Minister Donald Tusk</visitor>
+        <from id="poland">Poland</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3247</id>
+        <start-date>2024-03-15</start-date>
+        <end-date>2024-03-15</end-date>
+        <visitor>Taoiseach Leo Varadkar</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Official Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3277</id>
+        <start-date>2024-03-25</start-date>
+        <end-date>2024-03-25</end-date>
+        <visitor>President Bernardo Arévalo</visitor>
+        <from id="guatemala">Guatemala</from>
+        <description>Official Visit</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:35:45-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3248</id>
+        <start-date>2024-04-10</start-date>
+        <end-date>2024-04-10</end-date>
+        <visitor>Prime Minister Kishida Fumio</visitor>
+        <from id="japan">Japan</from>
+        <description>Official Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3249</id>
+        <start-date>2024-04-11</start-date>
+        <end-date>2024-04-11</end-date>
+        <visitor>President Ferdinand Marcos Jr.</visitor>
+        <from id="philippines">Philippines</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3250</id>
+        <start-date>2024-04-15</start-date>
+        <end-date>2024-04-15</end-date>
+        <visitor>Prime Minister Petr Fiala </visitor>
+        <from id="czechia">Czechia</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3251</id>
+        <start-date>2024-04-15</start-date>
+        <end-date>2024-04-15</end-date>
+        <visitor>Prime Minister Mohammed Shyaa al-Sudani</visitor>
+        <from id="iraq">Iraq</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3252</id>
+        <start-date>2024-05-06</start-date>
+        <end-date>2024-05-06</end-date>
+        <visitor>King Abdullah II</visitor>
+        <from id="jordan">Jordan</from>
+        <description>Private Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3253</id>
+        <start-date>2024-05-07</start-date>
+        <end-date>2024-05-07</end-date>
+        <visitor>President Klaus Werner Iohannis</visitor>
+        <from id="romania">Romania</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3255</id>
+        <start-date>2024-05-23</start-date>
+        <end-date>2024-05-23</end-date>
+        <visitor>President William Ruto</visitor>
+        <from id="kenya">Kenya</from>
+        <description>State Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3256</id>
+        <start-date>2024-05-31</start-date>
+        <end-date>2024-05-31</end-date>
+        <visitor>Prime Minister Alexander De Croo</visitor>
+        <from id="belgium">Belgium</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3257</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-10</end-date>
+        <visitor>Prime Minister Keir Starmer</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3276</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Volodymyr Zelenskyy</visitor>
+        <from id="ukraine">Ukraine</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:29:48-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3279</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Edi Rama</visitor>
+        <from id="albania">Albania</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:42:35-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3280</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Alexander De Croo</visitor>
+        <from id="belgium">Belgium</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:15-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3281</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Dimitar Glavchev</visitor>
+        <from id="bulgaria">Bulgaria</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:25-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3282</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Justin Trudeau</visitor>
+        <from id="canada">Canada</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:29-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3283</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Zoran Milanović</visitor>
+        <from id="croatia">Croatia</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:33-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3284</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Petr Pavel</visitor>
+        <from id="czechia">Czechia</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:37-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3285</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Mette Frederiksen</visitor>
+        <from id="denmark">Denmark</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:41-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3286</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Kaja Kallas</visitor>
+        <from id="estonia">Estonia</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:46-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3287</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Alexander Stubb</visitor>
+        <from id="finland">Finland</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:50-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3288</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Emmanuel Macron</visitor>
+        <from id="france">France</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:54-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3289</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Chancellor Olaf Scholz</visitor>
+        <from id="germany">Germany</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:46:58-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3290</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Kyriakos Mitsotakis</visitor>
+        <from id="greece">Greece</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:05-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3291</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Viktor Orbán</visitor>
+        <from id="hungary">Hungary</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:09-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3292</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Bjarni Benediktsson</visitor>
+        <from id="iceland">Iceland</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:12-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3293</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Giorgia Meloni</visitor>
+        <from id="italy">Italy</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:15-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3294</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Kishida Fumio</visitor>
+        <from id="japan">Japan</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:18-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3295</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Edgars Rinkēvičs </visitor>
+        <from id="latvia">Latvia</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:22-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3296</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Gitanas Nausėda</visitor>
+        <from id="lithuania">Lithuania</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:27-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3297</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Luc Frieden</visitor>
+        <from id="luxembourg">Luxembourg</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:31-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3298</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Milojko Spajić</visitor>
+        <from id="montenegro">Montenegro</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:35-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3299</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Dick Schoof</visitor>
+        <from id="netherlands">Netherlands</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:51:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3300</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Christopher Luxon</visitor>
+        <from id="new-zealand">New Zealand</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:59:27-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3301</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Hristijan Mickoski</visitor>
+        <from id="north-macedonia">North Macedonia</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:59:34-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3302</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Jonas Gahr Støre</visitor>
+        <from id="norway">Norway</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:59:38-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3303</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Andrzej Duda</visitor>
+        <from id="poland">Poland</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:59:42-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3304</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Luís Montenegro</visitor>
+        <from id="portugal">Portugal</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:59:46-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3305</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Yoon Suk Yeol</visitor>
+        <from id="korea-south">South Korea</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T12:59:49-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3307</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Klaus Werner Iohannis</visitor>
+        <from id="romania">Romania</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T13:00:44-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3308</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Peter Pellegrini</visitor>
+        <from id="slovakia">Slovakia</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T13:00:47-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3309</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Robert Golob</visitor>
+        <from id="slovenia">Slovenia</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T13:00:50-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3310</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Pedro Sánchez</visitor>
+        <from id="spain">Spain</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T13:00:56-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3311</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Ulf Kristersson</visitor>
+        <from id="sweden">Sweden</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T13:00:59-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3312</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>President Recep Tayyip Erdoğan</visitor>
+        <from id="turkiye">Türkiye</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T13:01:07-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3314</id>
+        <start-date>2024-07-10</start-date>
+        <end-date>2024-07-11</end-date>
+        <visitor>Prime Minister Keir Starmer</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Attended NATO 75th Anniversary Summit in Washington, DC.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-26T13:11:53-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3258</id>
+        <start-date>2024-07-25</start-date>
+        <end-date>2024-07-25</end-date>
+        <visitor>Prime Minister Benjamin Netanyahu</visitor>
+        <from id="israel">Israel</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3259</id>
+        <start-date>2024-09-13</start-date>
+        <end-date>2024-09-13</end-date>
+        <visitor>Prime Minister Keir Starmer</visitor>
+        <from id="united-kingdom">United Kingdom</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3240</id>
+        <start-date>2024-09-21</start-date>
+        <end-date>2024-09-21</end-date>
+        <visitor>Prime Minister Narendra Modi</visitor>
+        <from id="india">India</from>
+        <description>Attended Quad Leaders' Summit in Claymont, DE.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3241</id>
+        <start-date>2024-09-21</start-date>
+        <end-date>2024-09-21</end-date>
+        <visitor>Prime Minister Kishida Fumio</visitor>
+        <from id="japan">Japan</from>
+        <description>Attended Quad Leaders' Summit in Claymont, DE.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3242</id>
+        <start-date>2024-09-21</start-date>
+        <end-date>2024-09-21</end-date>
+        <visitor>Prime Minister Anthony Albanese </visitor>
+        <from id="australia">Australia</from>
+        <description>Attended Quad Leaders' Summit in Claymont, DE.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3239</id>
+        <start-date>2024-09-23</start-date>
+        <end-date>2024-09-23</end-date>
+        <visitor>President Sheikh Mohamed bin Zayed Al Nahyan</visitor>
+        <from id="united-arab-emirates">United Arab Emirates </from>
+        <description>Offical Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3236</id>
+        <start-date>2024-09-24</start-date>
+        <end-date>2024-09-24</end-date>
+        <visitor>President Surangel Whipps, Jr</visitor>
+        <from id="palau">Palau</from>
+        <description>Met with President Biden at the UN General Assembly in New York
+            City.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3237</id>
+        <start-date>2024-09-24</start-date>
+        <end-date>2024-09-24</end-date>
+        <visitor>President Wesley Simina</visitor>
+        <from id="micronesia">Micronesia</from>
+        <description>Met with President Biden at the UN General Assembly in New York
+            City.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3238</id>
+        <start-date>2024-09-24</start-date>
+        <end-date>2024-09-24</end-date>
+        <visitor>President Hilda Heine</visitor>
+        <from id="marshall-islands">Marshall Islands</from>
+        <description>Met with President Biden at the UN General Assembly in New York
+            City.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3234</id>
+        <start-date>2024-09-25</start-date>
+        <end-date>2024-09-25</end-date>
+        <visitor>General Secretary Tô Lâm </visitor>
+        <from id="vietnam">Vietnam</from>
+        <description>Met with President Biden at the UN General Assembly in New York
+            City.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3235</id>
+        <start-date>2024-09-25</start-date>
+        <end-date>2024-09-25</end-date>
+        <visitor>President Volodymyr Zelenskyy</visitor>
+        <from id="ukraine">Ukraine</from>
+        <description>Met with President Biden at the UN General Assembly in New York
+            City.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3262</id>
+        <start-date>2024-09-26</start-date>
+        <end-date>2024-09-26</end-date>
+        <visitor>President Volodymyr Zelenskyy</visitor>
+        <from id="ukraine">Ukraine</from>
+        <description>Working Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3233</id>
+        <start-date>2024-10-09</start-date>
+        <end-date>2024-10-09</end-date>
+        <visitor>Taoiseach Simon Harris</visitor>
+        <from id="ireland">Ireland</from>
+        <description>Offical Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3232</id>
+        <start-date>2024-10-22</start-date>
+        <end-date>2024-10-22</end-date>
+        <visitor>Prime Minister Robert Golob</visitor>
+        <from id="slovenia">Slovenia</from>
+        <description>Offical Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3231</id>
+        <start-date>2024-10-30</start-date>
+        <end-date>2024-10-31</end-date>
+        <visitor>President Nikos Christodoulides</visitor>
+        <from id="cyprus">Cyprus</from>
+        <description>Offical Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3229</id>
+        <start-date>2024-11-12</start-date>
+        <end-date>2024-11-12</end-date>
+        <visitor>President Prabowo Subianto</visitor>
+        <from id="indonesia">Indonesia</from>
+        <description>Offical Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </visit>
+    <visit>
+        <id>3230</id>
+        <start-date>2024-11-12</start-date>
+        <end-date>2024-11-12</end-date>
+        <visitor>President Isaac Herzog</visitor>
+        <from id="israel">Israel</from>
+        <description>Offical Visit.</description>
+        <created-by>doa-exist-temp</created-by>
+        <created-datetime>2025-02-25T17:24:39-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
         <last-modified-datetime/>
     </visit>
