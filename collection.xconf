@@ -3,11 +3,11 @@
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
-            <text qname="visit">
+            <text qname="visit" index="no">
                 <!-- start required facets and fields -->
                 <facet dimension="hsg-category" expression="'department'"/>
                 <facet dimension="hsg-publication" expression="'visits'"/>
-                <field expression="visitor, description, from" name="hsg-fulltext"/>
+                <field expression="visitor, description, from" name="hsg-fulltext" store="no"/>
                 <field expression="'/departmenthistory/visits/' || year-from-date(./start-date)"
                     name="hsg-url"/>
                 <!-- end required facets and fields -->
