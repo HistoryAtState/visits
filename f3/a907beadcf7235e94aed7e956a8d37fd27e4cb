@@ -1,0 +1,19 @@
+collection.xconf
+  s_301c0f53682c90::t_348be19dd9dbb9 4,11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f3a907beadcf7235e94aed7e956a8d37fd27e4cb",
+  "prompts": {},
+  "sessions": {
+    "s_301c0f53682c90": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b0549825-9c58-4674-ac97-c7e8a68fb3ff",
+        "model": "grok-4.7"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
